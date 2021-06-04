@@ -239,6 +239,54 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://iptvgratis.cf/images/logo-ultra-canais-novo-100.jpg",Oman Sports
 http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e7091994dd0a7abb969c3a058a21f710.jpg",All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://th.bing.com/th/id/OIP.peUWYPcJZt0XX4InqsU5LAHaEK?pid=ImgDet&rs=1",Barça TV
+http://209.205.221.74:130/R3$3202/3R1W3$32/1632_.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://th.bing.com/th/id/Rf79fa2ee30cd9bbc1614b6878729539c?rik=I8Ei69cAd%2f8lDQ&pid=ImgRaw",BeinSport1(frança)
+http://31.220.41.90:8081/live/fr-beinsport1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://th.bing.com/th/id/R7d46319bb4475a3ae03be868deacc81a?rik=qDh9aTpgTyxXKg&pid=ImgRaw",BeinSport2(frança)
+http://31.220.41.90:8081/live/fr-beinsport3.stream/playlist.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://guidatv.sky.it/uuid/9b19c272-85bf-4e77-aab3-b37d85506b9c/background?tr=n-hero_desktop_1920",Dazn1(Espanhol)
+http://stream.tvtap.live:8081/live/de-dazn1.stream/chunks.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://guidatv.sky.it/uuid/9b19c272-85bf-4e77-aab3-b37d85506b9c/background?tr=n-hero_desktop_1920",Dazn1(Italia)
+http://31.220.41.88:8081/live/it-dazn1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://guidatv.sky.it/uuid/9b19c272-85bf-4e77-aab3-b37d85506b9c/background?tr=n-hero_desktop_1920",Dazn2(Italia)
+http://31.220.41.88:8081/live/it-dazn2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://guidatv.sky.it/uuid/9b19c272-85bf-4e77-aab3-b37d85506b9c/background?tr=n-hero_desktop_1920",Dazn Formula1(Espanhol)
+http://dzaroslav2013.akadatel.com/iptv/QE967G4R8GUPTR/6071/index.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png",Eurosport 1(Espanhol)
+http://91.126.141.201:1935/live/eurosport1nntv/playlist.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://th.bing.com/th/id/Ra2b21fd9a440cba6e66df7ef6dd87266?rik=J3qnrb%2fAN%2b%2fkBA&pid=ImgRaw",Eurosport 2(Espanhol)
+http://91.126.141.201:1935/live/eurosport2hdnntv/playlist.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://laligatvbar.es/meta-image.jpg",LaLiga TV Bar(Espanhol)
+http://31.220.41.86:8081/live/es-laligatvbar.stream/playlist.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://th.bing.com/th/id/R8fc9c36ecde33d7a1fec2a5f46f24fe3?rik=Cp%2fm9%2byGK%2fQFIA&riu=http%3a%2f%2fcopaamericacentenario.com%2fwp-content%2fuploads%2f2018%2f03%2fmovistar-deportes.png&ehk=S3evx77ePtlLEGUAHOj75u2n9avxzXb3qOe6J%2fgsyDg%3d&risl=&pid=ImgRaw",Movistar Deportes(Espanhol)
+http://31.220.41.86:8081/live/es-movistar-deportes.stream/playlist.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://th.bing.com/th/id/R8fc9c36ecde33d7a1fec2a5f46f24fe3?rik=Cp%2fm9%2byGK%2fQFIA&riu=http%3a%2f%2fcopaamericacentenario.com%2fwp-content%2fuploads%2f2018%2f03%2fmovistar-deportes.png&ehk=S3evx77ePtlLEGUAHOj75u2n9avxzXb3qOe6J%2fgsyDg%3d&risl=&pid=ImgRaw",Movistar Deportes(Espanhol)
+http://209.205.221.74:130/R3$3202/3R1W3$32/1616_.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://th.bing.com/th/id/R8fc9c36ecde33d7a1fec2a5f46f24fe3?rik=Cp%2fm9%2byGK%2fQFIA&riu=http%3a%2f%2fcopaamericacentenario.com%2fwp-content%2fuploads%2f2018%2f03%2fmovistar-deportes.png&ehk=S3evx77ePtlLEGUAHOj75u2n9avxzXb3qOe6J%2fgsyDg%3d&risl=&pid=ImgRaw",Movistar Deportes(Espanhol)
+http://dzaroslav2013.akadatel.com:80/iptv/QE967G4R8GUPTR/6070/index.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/120px-Movistar_Golf.svg.png",Movistar Golf(Espanhol)
+http://dzaroslav2013.akadatel.com/iptv/QE967G4R8GUPTR/6075/index.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png",Movistar LaLiga(Espanhol)
+http://31.220.41.87:8081/live/bein-laliga.stream/playlist.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png",Movistar LaLiga(Espanhol)
+http://dzaroslav2013.akadatel.com/iptv/QE967G4R8GUPTR/6072/index.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-liga-campeones.jpg",Movistar Liga De Campeones(Espanhol)
+http://dzaroslav2013.akadatel.com/iptv/QE967G4R8GUPTR/6074/index.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://2.bp.blogspot.com/-nKFQjWxV-Co/XRZMlbgmYDI/AAAAAAAABPI/RLnB3Goeyw83rN6mM2J7O3kw8sQ3QtyCgCLcBGAs/s320/Screenshot_2019-06-28-14-19-55.png",Red Bull TV(inglês)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://th.bing.com/th/id/R475c018f0046346e3dc25d662efe516b?rik=TBQhq1JuaWmAZA&pid=ImgRaw",RMC Sport1(França)
+http://31.220.41.88:8081/live/fr-sfr1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/1200px-Logo_RMC_Sport_2_2018.svg.png",RMC Sport2(França)
+http://31.220.41.88:8081/live/fr-sfr2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sky_Sport_Serie_A_-_Logo_2020.svg/1200px-Sky_Sport_Serie_A_-_Logo_2020.svg.png",SKYSport SerieA(Italia)
+http://stream.tvtap.live:8081/live/it-skysportserieA.stream/chunks.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://th.bing.com/th/id/R142150ce2ea7625cc4de2d5834e4090a?rik=QUzYSVGqip1WsA&pid=ImgRaw",ViaPlay(Espanhol)
+http://dzaroslav2013.akadatel.com/iptv/QE967G4R8GUPTR/6069/index.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/D6plAdz.png",WooHoo
+http://177.20.208.58:8000/play/a022/index.m3u8
 #EXTINF:-1 group-title="Documentário" tvg-logo="https://listaiptv.gratis/logos/imagens/rt.png",RT Documentary Channel
 https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
 #EXTINF:-1 group-title="Documentário" tvg-logo="https://listaiptv.gratis/logos/imagens/CGTN-Espanol.png",CGTN Español
