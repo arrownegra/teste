@@ -215,6 +215,30 @@ https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://listaiptv.gratis/logos/imagens/redbull.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png",ALL SPORTS
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://listaiptv.gratis/logos/imagens/redbull.png",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://iptvgratis.cf/images/logo-ultra-canais-novo-100.jpg",Eurosport1
+https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://iptvgratis.cf/images/logo-ultra-canais-novo-100.jpg",Telecaribe Deportes
+http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://iptvgratis.cf/images/logo-ultra-canais-novo-100.jpg",Rai Sport
+http://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/index_400_av-p.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://iptvgratis.cf/images/logo-ultra-canais-novo-100.jpg",TDM Sports Macau
+http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://iptvgratis.cf/images/logo-ultra-canais-novo-100.jpg",Al Kass Two
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2&checkedby:iptvcat.com
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://iptvgratis.cf/images/logo-ultra-canais-novo-100.jpg",Al Kass Five
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5&checkedby:iptvcat.com
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://iptvgratis.cf/images/logo-ultra-canais-novo-100.jpg",Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://iptvgratis.cf/images/logo-ultra-canais-novo-100.jpg",Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://iptvgratis.cf/images/logo-ultra-canais-novo-100.jpg",Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://iptvgratis.cf/images/logo-ultra-canais-novo-100.jpg",Oman Sports
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Documentário" tvg-logo="https://listaiptv.gratis/logos/imagens/rt.png",RT Documentary Channel
 https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
 #EXTINF:-1 group-title="Documentário" tvg-logo="https://listaiptv.gratis/logos/imagens/CGTN-Espanol.png",CGTN Español
