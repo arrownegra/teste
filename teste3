@@ -317,7 +317,7 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A026F7248B00E438401
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:625DB837744D4260C714551AC31BC85351F67A5C
 #EXTINF:0 tvg-logo="https://img.yts.mx/assets/images/movies/late_phases_2014/medium-cover.jpg" group-title="FILMES",  Noite do lobo
 2014[COLOR yellow][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E5E82A159380BD69832A0A64E35693ED8B6F5554
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F9693161D21CE068D44C24B9CD112966F67F67B9
 #EXTINF:0 tvg-logo="https://img.yts.mx/assets/images/movies/The_Island_2005/medium-cover.jpg" group-title="FILMES",   A ilha[COLOR yellow][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A7DA30F2B4C22A40B0DF2B38DB21DB428D96913D
 #EXTINF:0 tvg-logo="https://img.yts.mx/assets/images/movies/the_battleship_island_2017/medium-cover.jpg" group-title="FILMES",   Ilha do navio de guerra[COLOR yellow][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
