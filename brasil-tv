@@ -2,151 +2,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="--------------@by_flecha_negra--------LISTA GRATIS-----------" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" group-title="-------@by_flecha_negra--------",--------------@by_flecha_negra--------LISTA GRATIS-----------LiSTA GRÁTIS SE FICAR OFFLINE ESPERAR ATÉ FICAR ON UM ABRAÇO
 #EXTM3U
 
-#EXTINF:-1 tvg-id="SantaCeciliaTV.br" tvg-name="Santa Cecilia TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/KxYsq1d.png" group-title="Education",Santa Cecilia TV (288p)
-http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
-#EXTINF:-1 tvg-id="SobrenaturalTV.pt" tvg-name="Sobrenatural TV" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="Religious",Sobrenatural TV (1080p)
-http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
-#EXTINF:-1 tvg-id="SobrenaturalTV.pt" tvg-name="Sobrenatural TV" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VgzVZto.png" group-title="Religious",Sobrenatural TV (720p) [Not 24/7]
-http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8
-#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hBaG4Ce.png" group-title="Outdoor",Terra Viva (720p)
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-#EXTINF:-1 tvg-id="TPA1.ao" tvg-name="TPA 1" tvg-country="AO" tvg-language="Portuguese" tvg-logo="" group-title="",TPA 1
-https://iptv-all.lanesh4d0w.repl.co/angola/tpa1
-#EXTINF:-1 tvg-id="TVALMG.br" tvg-name="TV ALMG" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5fyGrm5.png" group-title="Legislative",TV ALMG
-https://streaming.almg.gov.br/live/tvalmg.m3u8
-#EXTINF:-1 tvg-id="TVALRN.br" tvg-name="TV ALRN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/G1VIULw.png" group-title="Legislative",TV ALRN (480p)
-http://tv02.logicahost.com.br:1935/fundacao/fundacao/live.m3u8
-#EXTINF:-1 tvg-id="TVAmbiental.br" tvg-name="TV Ambiental" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Gpg1TMu.png" group-title="Local",TV Ambiental (480p)
-http://59e4b6c1beddc.streamlock.net:1935/8168/8168/live.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://rd1.com.br/wp-content/uploads/2015/11/tv_aparecida.png" group-title="Religious",TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 tvg-id="TVArapuan.br" tvg-name="TV Arapuan" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.tvarapuan.com.br/2019/images/uploaded/grupo/9729ae26c38070d5febf2aa538a1a880.png" group-title="General",TV Arapuan (720p)
-https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="TVBNO.br" tvg-name="TV BNO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ejp65zr.png" group-title="Movies",TV BNO (270p)
-http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
-#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png" group-title="General",TV Brasil
-https://edge-df-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(Dxg)k(Qdk)m(naXbjbTlDxrHlrlxKSNzig)n(a(3LDBWxJLACwHVOavx5cO4BC5lA2ZDpPC)s(HrY)'a(12ztgSdgu3rQqz6xH52ZjVZa)s(Pm8)))s(t(aTo)b(PTsuEXhXAScNjp6w9ssG70foQQQiZk9_8m0vsjgLJ_yzxGPuj8i57PEDMMA4cmTNsKda2B5oX-EEErouZ1HFyuG_AaUF86vlMJtsMkooySBOlQbVM33PgsYPQdea2BJafjjc-BWtPRlStfmQ939PXcd844pid2JY82J6JDM)'t(S2o)b(WaBWYarWoWCInKe38WSze3Q_-kYcqZf8MZQ)))/live_720_index.m3u8
-#EXTINF:-1 tvg-id="saopaulo.sp.leg.br" tvg-name="tvcamarasp" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/e8zZuyq.jpg" group-title="Legislative",TV Camara de Sao Paulo (720p)
-https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCidadeCanal9.br" tvg-name="TV Cidade Canal 9" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Local",TV Cidade Canal 9 (720p)
-https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCidadedePetropolis.br" tvg-name="TV Cidade de Petrópolis" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Local",TV Cidade de Petrópolis (720p)
-https://stmv4.srvstm.com/tvc162/tvc162/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCidadedeSaoPaulo.br" tvg-name="TV Cidade de Sao Paulo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/88/Logotipo_da_TV_Cidade_de_S%C3%A3o_Paulo.png/200px-Logotipo_da_TV_Cidade_de_S%C3%A3o_Paulo.png" group-title="Local",TV Cidade de Sao Paulo
-https://cast.cdnseguro.com:19360/8012/8012.m3u8
-#EXTINF:-1 tvg-id="TVCinec.br" tvg-name="TV Cinec" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/bEoN2tt.png" group-title="Movies",TV Cinec (720p)
-http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Câmara" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="Legislative",TV Câmara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-id="TVCamara2.br" tvg-name="TV Câmara 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="Legislative",TV Câmara 2
-https://stream3.camara.gov.br/tv2/manifest.m3u8
-#EXTINF:-1 tvg-id="TVDestak.br" tvg-name="TV Destak" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://pa.srvsite.com/arquivos/3807/cabecalho-3807-20180828105442.jpg" group-title="General",TV Destak (360p)
-http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
-#EXTINF:-1 tvg-id="TVDigitalBirigui.br" tvg-name="TV Digital Birigui" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VqIzaFz.png" group-title="Local",TV Digital Birigui (320p)
-http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
-#EXTINF:-1 tvg-id="TVDiariodoSertao.br" tvg-name="TV Diário do Sertão" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/uBntXf1.png" group-title="General",TV Diário do Sertão (720p)
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVEducativadePortoAlegre.br" tvg-name="TV Educativa de Porto Alegre" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/XLD3GbZ.png" group-title="Education",TV Educativa de Porto Alegre (1080p)
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-id="TVEscola.br" tvg-name="TV Escola" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:TV_Escola.png" group-title="Education",TV Escola
-https://edge-df-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(Dxg)k(Qdk)m(q-QQ9tbM1LVeQsn3AkKguw)n(a(3LDBWxJLACwHVOavx5cO4BC5lA2ZDpPC)s(HrY)'a(12ztgSdgu3rQqz6xH52ZjVZa)s(Pm8)))s(t(aTo)b(PTsuEXhXAScNjp6w9ssG70foQQQiZk9_8m0vsjgLJ_yzxGPuj8i57PEDMMA4cmTNsKda2B5oX-EEErouZ1HFyun9A4sJuqq-ZZ5UGE5w4A5Lmy-yARb69ZFORunwlRZIfiLswT_MExl8qv6So0l5XeVL4-xmSFY_zRNOMnli)'t(aik)b(-Btgu9O9bZDM7fy6b7p0dDTzGRSrl_Avj_oC)))/live_540_index.m3u8
-#EXTINF:-1 tvg-id="TV Fatima PT" tvg-name="TV Fatima PT" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="Religious",TV Fátima (1080p)
-https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
-#EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-name="TV Galega Blumenau" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://ps.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png" group-title="Local",TV Galega Blumenau (720p)
-https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/MAMGt7I.png" group-title="General",TV Gazeta (720p)
-https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
-#EXTINF:-1 tvg-id="TVGuara.br" tvg-name="TV Guará" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="News",TV Guará (720p)
-https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
-#EXTINF:-1 tvg-id="TVInterlagos.br" tvg-name="TV Interlagos" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvinterlagos.com.br/images/logo_tv2.jpg" group-title="Local",TV Interlagos (576p)
-http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMackenzie.br" tvg-name="TV Mackenzie" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TV_Mackenzie_logo.svg/320px-TV_Mackenzie_logo.svg.png" group-title="Education",TV Mackenzie (480p)
-https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
-#EXTINF:-1 tvg-id="TVManaMocambique.mz" tvg-name="TV Maná Moçambique" tvg-country="MZ" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5UIy5tD.png" group-title="Religious",TV Maná Moçambique (574p) [Not 24/7]
-http://c3.manasat.com:1935/tvmz/tvmz3/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/cropped-logo-portal-01-192x192.png" group-title="Religious",TV Pai Eterno
-http://flash8.crossdigital.com.br/2306/2306/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/cropped-logo-portal-01-192x192.png" group-title="Religious",TV Pai Eterno (480p)
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
-#EXTINF:-1 tvg-id="TVParanaTurismo.br" tvg-name="TV Paraná Turismo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3lxkJxb.png" group-title="Travel",TV Paraná Turismo [Not 24/7]
-http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 tvg-id="TVRedeGospel.br" tvg-name="TV Rede Gospel" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/NVs5RhF.png" group-title="Religious",TV Rede Gospel (720p)
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSol.br" tvg-name="TV Sol" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="General",TV Sol (720p)
-http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
-#EXTINF:-1 tvg-id="TVSolComunidade.br" tvg-name="TV Sol Comunidade" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tvsolcomunidade.com.br/wp-content/uploads/2019/01/logo-tv-sol.png" group-title="Local",TV Sol Comunidade (480p)
-http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
-#EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-name="TV Terceiro Anjo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.terceiroanjo.com/static/img/logo-2019-gif.gif" group-title="Religious",TV Terceiro Anjo (360p)
-https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
-#EXTINF:-1 tvg-id="TVUFG.br" tvg-name="TV UFG" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.tvufg.org.br/wp-content/uploads/2018/10/logo_tv_ufg_azul_16bit.png" group-title="Education",TV UFG (720p)
-http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUFOP.br" tvg-name="TV UFOP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.upf.br/Assets/img/logo.png" group-title="Science",TV UFOP
-https://edge-df-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(Dxg)k(Qdk)m(6pbmcjLXNoerDLdAhoXBxw)n(a(3LDBWxJLACwHVOavx5cO4BC5lA2ZDpPC)s(HrY)'a(12ztgSdgu3rQqz6xH52ZjVZa)s(Pm8)))s(t(aTo)b(PTsuEXhXAScNjp6w9ssG70foQQQiZk9_8m0vsjgLJ_yzxGPuj8i57PEDMMA4cmTNsKda2B5oX-EEErouZ1HFyuXyAosvuqvlMJtsMkooySBOlQbVM33PgsYPQdea2CdwV3jCwh3bEWxgkPO8qmBPQtt_5bUEV1Mi_2t1AjM)'t(S2o)b(WaBWYarWoWCInKe38WSze3Q_-kcUr5z4MZQ)))/live_720_index.m3u8
-#EXTINF:-1 tvg-id="TVUFSC.br" tvg-name="TV UFSC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/LuJkxc6.png" group-title="Education",TV UFSC
-http://150.162.188.10:8080/hls/1.m3u8
-#EXTINF:-1 tvg-id="TVUniSantos.br" tvg-name="TV UniSantos" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://tvunisantos.com.br/upload/612Logo%20TV%20Unisantos.JPG" group-title="Local",TV UniSantos
-http://live.cdn.upx.com/7550/myStream.sdp/chunklist.m3u8?163fa4bccb4211dc8419e8cbdae3fba5
-#EXTINF:-1 tvg-id="tvunisantos.br" tvg-name="tv unisantos" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/blFYVqf.png" group-title="",TV Unisantos (216p)
-http://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUniversal.br" tvg-name="TV Universal" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="Religious",TV Universal
-https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUniaoDF.br" tvg-name="TV União DF" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/67DQ3bk.png" group-title="General",TV União DF (720p)
-https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
-#EXTINF:-1 tvg-id="TVVerdesCampos.br" tvg-name="TV Verdes Campos" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/1mK39TC.png" group-title="General",TV Verdes Campos
-https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVZimbo.ao" tvg-name="TV Zimbo" tvg-country="AO" tvg-language="Portuguese" tvg-logo="" group-title="",TV Zimbo
-https://iptv-all.lanesh4d0w.repl.co/angola/tv-zimbo
-#EXTINF:-1 tvg-id="TVCIParanagua.br" tvg-name="TVCI Paranaguá" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/4GKZbXD.png" group-title="General",TVCI Paranaguá (360p)
-http://flash8.crossdigital.com.br/2306/2306/playlist.m3u8
-#EXTINF:-1 tvg-id="TVEBahia.br" tvg-name="TVE Bahia" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/800px-TVE_Bahia_logo.svg.png" group-title="Local",TVE Bahia
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
-#EXTINF:-1 tvg-id="TVM.mz" tvg-name="TVM" tvg-country="MZ" tvg-language="Portuguese" tvg-logo="http://online.tvm.co.mz/site/public/images/flat_5.png" group-title="General",TVM (480p)
-http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMInternacional.mz" tvg-name="TVM Internacional" tvg-country="MZ" tvg-language="Portuguese" tvg-logo="http://online.tvm.co.mz/site/public/images/flat_1.png" group-title="General",TVM Internacional (480p)
-http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVNBrasil.br" tvg-name="TVN Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Cywnp02.png" group-title="Local",TVN Brasil (720p)
-http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="UNBTV.br" tvg-name="UNBTV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Webysther_20160322_-_Logo_UnB_(sem_texto).svg/200px-Webysther_20160322_-_Logo_UnB_(sem_texto).svg.png" group-title="Science",UNBTV
-https://edge-go-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(Dxg)k(Qdk)m(XavC51HboPDZJtji_e3szw)n(a(3LDBWxJLACwHVOavx5cO4BC5lA2ZDpPC)s(HrY)'a(12ztgSdjsnrQqz6xH52ZjVZa)s(Pm8)))s(t(aTo)b(PTsuEXhXAScNjp6w9ssG70foQQQiZk9_8m0vsjgLJ_yzxGPuj8i57PEDMMA4cmTNsKda2B5oX-EEErouZ1HFyuX9AbUB8KvlMJtsMkooySBOlQbVM33PgsYPQdea2BJ0ehzbwQ39JhRwi_LnomRVQOY02rJ-d2IH3hF-JDM)'t(S2o)b(WaBWYarWoWCInKe38WSze3Q_-kcVqJj_MZQ)))/live_1080_index.m3u8
-#EXTINF:-1 tvg-id="UniTVPortoAlegre.br" tvg-name="UniTV Porto Alegre" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Education",UniTV Porto Alegre
-http://unitvaovivo.ufrgs.br:8080/live.ogg
-#EXTINF:-1 tvg-id="UPFTV.br" tvg-name="UPFTV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.upf.br/Assets/img/logo.png" group-title="Local",UPFTV
-https://edge-df-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(Dxg)k(Qdk)m(Zpw89V7JSRj33uzTBmvflA)n(a(3LDBWxJLACwHVOavx5cO4BC5lA2ZDpPC)s(HrY)'a(12ztgSdgu3rQqz6xH52ZjVZa)s(Pm8)))s(t(aTo)b(PTsuEXhXAScNjp6w9ssG70foQQQiZk9_8m0vsjgLJ_yzxGPuj8i57PEDMMA4cmTNsKda2B5oX-EEErouZ1HFyvnyAaUn8qvlMJtsMkooySBOlQbVM33PgsYPQdea2BUvej3szg6oEmxOu__mykl-Ud831Jp-clI-5BB-JDM)'t(S2o)b(WaBWYarWoWCInKe38WSze3Q_-kAUqZ79MZQ)))/live_768_index.m3u8
-#EXTINF:-1 tvg-id="Yeeaah.br" tvg-name="Yeeaah!" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="General",Yeeaah! (720p)
-https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://imgur.com/zMvQ2s5.jpg",SBT
-http://lista.lorddark.club:80/5247/5247/1137
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://i.imgur.com/YVPa4BB.png",REDETV!
-http://lista.lorddark.club:80/5247/5247/1034
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://i.imgur.com/GVYn0iG.jpg",GLOBO NEWS
-http://lista.lorddark.club/5247/5247/19233
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://i.imgur.com/dpAiEDD.jpg",TVE RS
-http://streaming.procergs.com.br:1935/tve/stve/chunklist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://i.imgur.com/4BrpPZr.jpg",TV PAMPA
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://i.imgur.com/kUkiymL.jpg",RDC TV
-https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist_w93534127.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://i.imgur.com/M4m0Qt7.jpg",CANAL RURAL
-http://lista.lorddark.club/5247/5247/19573
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://i.imgur.com/MAyu6ym.jpg",CANAL DO BOI
-http://lista.lorddark.club/5247/5247/19398
-#EXTINF:-1 group-title="Brasil: notícias" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png",CBN RJ | Brasil
-https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
-#EXTINF:-1 group-title="Brasil: notícias" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png",CBN SP | Brasil
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTINF:-1 group-title="Brasil: notícias" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2018/07/globonews.png",Globo News | Brasil
-http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/playlist.m3u8
-#EXTINF:-1 group-title="PÚBLICA" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",Tv Assembleia (RN)
-https://59f2354c05961.streamlock.net:1443/fundacao/_definst_/fundacao/chunklist_w1567922350.m3u8
-#EXTINF:-1 group-title="PÚBLICA" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",TV Futuro Natal
-https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
-#EXTINF:-1 group-title="PÚBLICA" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",Rede Minas
-https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
-#EXTINF:-1 group-title="PÚBLICA" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",FonteTV (GO)
-http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
-#EXTINF:-1 group-title="PÚBLICA" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",TV Câmara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxBRASIL Jornalismoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
 
@@ -204,22 +60,6 @@ http://dd8umsy8yf96u.cloudfront.net/live/cnt-salvador_240p414k/index.m3u8
 #EXTINF:-1 group-title="CNT" tvg-logo="http://i.imgur.com/KMXfp4h.png",CNT PA
 http://d1s664t39qub1o.cloudfront.net/live/cnt-manaus_240p414k/index.m3u8
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxCanais Tv ABERTAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
-
-#EXTINF:-1 group-title="Tv ABERTA" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",Globo SP
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/playlist.m3u8
-#EXTINF:-1 group-title="Tv ABERTA" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",Globo SP HD
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
-#EXTINF:-1 group-title="Tv ABERTA" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",SBT - TV Difusora (MA)
-http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
-#EXTINF:-1 group-title="Tv ABERTA" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",RedeTV! ES
-https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
-#EXTINF:-1 group-title="Tv ABERTA" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",TV Brasil
-http://selpro1348.procergs.com.br:1935/tve/stve/chunklist_w837588054.m3u8
-#EXTINF:-1 group-title="Tv ABERTA" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",Tv Assu
-https://5eaa6849d0971.streamlock.net/8058/8058/chunklist_w379814633.m3u8
-#EXTINF:-1 group-title="Tv ABERTA" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",Rede Brasil - TV Marajoara (PA)
-http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxCanais Bandxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
 
@@ -236,17 +76,6 @@ https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=641032935
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=7485000014348485000
 #EXTINF:-1 group-title="RedeTV" tvg-logo="https://listaiptv.gratis/logos/imagens/redetvto.png",REDETV
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w597735163.m3u8
-
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxCanais Abertosxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
-
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png",TV Arapuan HD
-https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png",Rede Brasil (SP)
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://listaiptv.gratis/logos/imagens/brasiloeste.png",Brasil Oeste (MT)
-https://5d2c98775bafe.streamlock.net/8104/8104/playlist.m3u8
-
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxCanais Culturaxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
 
@@ -384,13 +213,13 @@ http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/140
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxCanais Esportesxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
-#EXTINF:-1 tvg-id="TNTSports2Brasil.us" tvg-name="TNT Sports 2 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Sports",TNT Sports 2 Brasil
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png",TNT Sports 2 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="TNTSports3Brasil.us" tvg-name="TNT Sports 3 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Sports",TNT Sports 3 Brasil
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png",TNT Sports 3 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="TNTSports4Brasil.us" tvg-name="TNT Sports 4 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Sports",TNT Sports 4 Brasil
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png",TNT Sports 4 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="TNTSports5Brasil.us" tvg-name="TNT Sports 5 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Sports",TNT Sports 5 Brasil
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png",TNT Sports 5 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="https://i.imgur.com/GkiGDqE.jpg",SPORTV
 http://lista.lorddark.club:80/5247/5247/19116
@@ -406,8 +235,6 @@ http://lista.lorddark.club:80/5247/5247/19100
 http://lista.lorddark.club:80/5247/5247/19094
 #EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/wuMZB2S.png",BandSports
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/119
-#EXTINF:-1 group-title="Esportes" tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png",Carioca
-http://rec2.distv.net:80/china/china/4
 #EXTINF:-1 group-title="Esportes" tvg-logo="http://distv.net/icons/combate.png",Combate
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/126
 #EXTINF:-1 group-title="Esportes" tvg-logo="http://distv.net/icons/combate.png",Combate
@@ -422,8 +249,6 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/YzY6fI2.png",SporTV
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/YzY6fI2.png",SporTV HD
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/red-bull-icon-png-2.png",Red Bull 1 HD USA
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/red-bull-icon-png-2.png",Red Bull 2 HD USA
@@ -468,8 +293,23 @@ https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 http://188.35.9.11:21151/udp/193i
 #EXTINF:-1 ,One Golf HD USA
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/CUDFA4M.jpg",98 LIVE (Musica e Esporte)
+http://radio98fm-lh.akamaihd.net/i/pp_1@359238/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://static.wixstatic.com/media/30f5ac_ceb7fad6e711455bbedba1131783e9da~mv2.png/v1/fill/w_121,h_31,al_c,usm_0.66_1.00_0.01/30f5ac_ceb7fad6e711455bbedba1131783e9da~mv2.png",ALL SPORTS BR
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1650280825.m3u8
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://i.imgur.com/5jMqNpW.png",REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/301f06c166156f3e5234ee0b6231b9a0.png",RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://pbs.twimg.com/profile_images/1056593228546404352/kNo3jrRg_400x400.jpg",BAND SPORTS (Cortesia)
+https://evpp.mm.uol.com.br/geob_band/bandsports/chunklist_w1866925157.m3u8
+#EXTINF:-1 group-title="Canais | Esportes",DUBAI RACING
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Esportes",DUBAI RACING 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxCanais Documentariosxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 #EXTINF:-1 group-title="Canais Agronegócio" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2307ec9d5751b3152f8cb9db472414cd.jpg",Agro Brasil
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1913100406.m3u8
 #EXTINF:-1 group-title="Canais Agronegócio" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a2041b4a82f3e3e87c1c2675c5828803.jpg",Agro Canal
@@ -502,6 +342,58 @@ https://video01.kshost.com.br/marcelo6682/marcelo6682/chunklist_w346646922.m3u8
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxBrasil: Filmesxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/dkDjUO1.jpg",CINE LIVRE
+https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/dkDjUO1.jpg",CINE LIVRE 2
+https://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/chunklist_w1963860689.m3u8
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://imgur.com/6k7cOAE.png",CINE SUCESSOS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e45a0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=52960630-50b9-4a4d-b84b-6ed25b88774b&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://imgur.com/8Vr6580.png",FILMES AÇÃO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e93c0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=860dbb8f-a84f-4853-b147-60207c674abf&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://imgur.com/fUCGYqp.png",CINE COMÉDIA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ebad0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=07b16472-d071-4d2e-ad98-ab98754a4428&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/0JM9jLh.jpg",GOSPEL MOVIES TELEVISION
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w74712399.m3u8
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dcb3ff84b8f31ddc39ef213b42402f75.jpg",CANAL 29 (Séries Antigas)
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w688155486.m3u8
+#EXTINF:-1 group-title="Canais | Filmes e Séries",CENTRAL TV (TOP TV)
+https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/chunklist_w630183273.m3u8
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/468a51d6031a373ec56983564ebf9ff8.jpg",TV CARIOCA (Filmes e Séries)
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w645826328.m3u8
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/be677f392b634453f48ef4e0819c7532.jpg",ARACATI TV (Séries)
+https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/UWMgqQu.png",TV CAPITAL (Séries)
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://imgur.com/q17ntdH.png",CINE DRAMA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ebad1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e2a43ad8-1b74-43eb-8a1c-af669d97a71e&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://imgur.com/K9gHNmZ.png",FILMES SUSPENSE
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c810-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=34b16d8e-8dce-4632-ba87-dabc2e07988f&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://imgur.com/CaNAHVg.png",CINE TERROR
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3ff7f4f3-233d-4e09-bbf7-e36a061d79f7&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png",FILMES NACIONAIS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5762a61-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8784fb7f-5209-406d-b66a-2fe035ee1a18&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://imgur.com/fyEgJ1g.png",CINE FAMILIA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c811-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=30398c0d-72c1-4ff3-927f-d52a8f3d9300&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://images.pluto.tv/channels/60072798dcf437000755b4f3/colorLogoPNG.png",PARAMOUNT+ APRESENTA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=adce3d82-7ced-11eb-b41a-4d1db88b305b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8c2058a6-297d-4b07-8c15-fcb77b9a2808&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/jx1VeJ7.jpg",SPYKE (Itália)
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-b.m3u8
+#EXTINF:-1 group-title="Canais | Filmes e Séries",ZEE MUNDO
+https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v1a1/index-1588722015-now.m3u8
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://imgur.com/ReKQeg6s.png",Wham TV Classic
+https://srv4.zcast.com.br/andre2183/andre2183/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://imgur.com/u7tEtaZ.png",Wham TV
+https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://pbr-str.srvsite.com/arquivos/7839/cabecalho-7839-20200604004458.jpg",TV Nova Play
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://imgur.com/BPqwYUG.png",TV Séries A Mulher Biônica
+https://stmv1.srvstm.com/tvserie2/tvserie2/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://imgur.com/BPqwYUG.png",TV Séries As Panteras
+https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://imgur.com/BPqwYUG.png",TV Séries Star Trek
+https://StmV1.srvstm.com/tvserie3/tvserie3/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://imgur.com/a8e5Fti.png",Vintage TV
+https://stmv1.srvstm.com:443/rogerio4248/rogerio4248/chunklist_w2046020600.m3u8
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://distv.net/icons/cinemax.png",Cinemax
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/125
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://distv.net/icons/ae.png",Ae.br
@@ -589,32 +481,30 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007
 #EXTINF:-1 group-title="Filmes Premium" tvg-logo="https://iguatemi.com.br/saopaulo/sites/saopaulo/files/styles/crop_380x270/public/logo-1360163271218.png?itok=_v8uYWK4",Series Retro2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=e4e0805b-f299-4710-aa52-428f1235a74b&clientModelNumber=na&deviceDNT=false&deviceId=e4e0805b-f299-4710-aa52-428f1235a74b&deviceLat=-23.2930&deviceLon=-45.9705&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.104&marketingRegion=BR&serverSideAds=true&sessionID=df766d37-6561-11eb-a786-0242ac110002&sid=df766d37-6561-11eb-a786-0242ac110002&userId=
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxCanais Musicaxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-#EXTINF:-1 group-title="MÚSICA" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",Music Channel
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w1209789405.m3u8
-#EXTINF:-1 group-title="MÚSICA" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",Retrô TV
-http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
-#EXTINF:-1 group-title="MÚSICA" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",Capital TV
-https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1 group-title="MÚSICA" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",M2O
-https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1 group-title="MÚSICA" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1 group-title="MÚSICA" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",DJing
-https://www.djing.com/tv/d-28904-04.m3u8
-#EXTINF:-1 group-title="MÚSICA" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",DJing Animation
-https://www.djing.com/tv/a-28904-04.m3u8
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxCanais Religiosoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-#EXTINF:-1 group-title="RELIGIOSO" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",Novo Tempo
-http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8
-#EXTINF:-1 group-title="RELIGIOSO" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",IURD TV
-https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="--------------@by_flecha_negra--------LISTA GRATIS-----------" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" group-title="-------@by_flecha_negra--------",--------------@by_flecha_negra--------LISTA GRATIS-----------LiSTA GRÁTIS SE FICAR OFFLINE ESPERAR ATÉ FICAR ON UM ABRAÇO
-#EXTM3U
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxCanais BRASILxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://imgur.com/zMvQ2s5.jpg",SBT
+http://lista.lorddark.club:80/5247/5247/1137
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://i.imgur.com/YVPa4BB.png",REDETV!
+http://lista.lorddark.club:80/5247/5247/1034
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://i.imgur.com/GVYn0iG.jpg",GLOBO NEWS
+http://lista.lorddark.club/5247/5247/19233
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://i.imgur.com/dpAiEDD.jpg",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/chunklist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://i.imgur.com/4BrpPZr.jpg",TV PAMPA
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://i.imgur.com/kUkiymL.jpg",RDC TV
+https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist_w93534127.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://i.imgur.com/M4m0Qt7.jpg",CANAL RURAL
+http://lista.lorddark.club/5247/5247/19573
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://i.imgur.com/MAyu6ym.jpg",CANAL DO BOI
+http://lista.lorddark.club/5247/5247/19398
+#EXTINF:-1 group-title="Brasil: notícias" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png",CBN RJ | Brasil
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:-1 group-title="Brasil: notícias" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png",CBN SP | Brasil
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1 group-title="Brasil: notícias" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2018/07/globonews.png",Globo News | Bra
+http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/playlist.m3u8
 #EXTINF:-1 group-title="BRASIL" tvg-logo="https://imgur.com/zMvQ2s5.jpg",SBT
 http://lista.lorddark.club:80/5247/5247/1137
 #EXTINF:-1 group-title="BRASIL" tvg-logo="https://i.imgur.com/YVPa4BB.png",REDETV!
@@ -648,19 +538,6 @@ http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 #EXTINF:-1 group-title="PÚBLICA" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxBRASIL Jornalismoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
-
-#EXTINF:-1 group-title="Jornalismo" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a4e8aa4df866476c7bb37001782b2e97.jpg",The Weather Channel
-https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Jornalismo" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8723549258a42a5f239e16317cee4371.jpg",Bloomberg USA
-https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-
-
-
-#EXTINF:-1 group-title="TV MUNDO" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",rtve 24 HORAS (ESPANHA)
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Especial" tvg-logo="https://img2.gratispng.com/20180810/cai/kisspng-nasa-insignia-nasa-magnet-logo-t-shirt-nasa-logo-tmc-technologies-5b6e30ea20aaf4.7484850015339481381338.jpg",Nasa
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxBRASIL Globoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
@@ -739,6 +616,130 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_
 
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxCanais Abertosxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+
+#EXTM3U
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/2EK2yMM.png",GLOBO (Cortesia)
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/cLIdzw6.png",SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1846566125_b216000_sleng.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/cLIdzw6.png",SBT
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/Fh4SQ6L.png",BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w16814077.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/YVPa4BB.png",REDETV! (Tocantins)
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w243720441.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://i.imgur.com/ac5p192.png",RECORD NEWS (TV Guará)
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://www.redefamilia.com.br/wp-content/uploads/2019/02/logo_20_Anos-1.png",REDE FAMÍLIA
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.wixstatic.com/media/30f5ac_ceb7fad6e711455bbedba1131783e9da~mv2.png/v1/fill/w_121,h_31,al_c,usm_0.66_1.00_0.01/30f5ac_ceb7fad6e711455bbedba1131783e9da~mv2.png",ALL SPORTS BR
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1650280825.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/wMim9ai.jpg",YEEAAH
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/QFuVr5O.png",REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://www.tvbrusque.com.br/wp-content/uploads/2017/05/Logo-TV-site-2-2.png",TV BRUSQUE (Rede Brasil)
+https://59f1cbe63db89.streamlock.net:1443/tvbrusque/_definst_/tvbrusque/chunklist_w182940905.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/QFuVr5O.png",TV ITABAIANINHA (Rede Brasil)
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?Ita
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Rede_Meio_Norte.jpg",REDE METRÓPOLE (Rede Meio Norte)
+http://187.33.200.235:9000/hls/redemetropole.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Rede_Meio_Norte.jpg",TV DO POVO (Rede Meio Norte)
+https://5cf4a2c2512a2.streamlock.net/tvdopovo1/tvdopovo1/chunklist_w2066036014.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/nFNKZ6W.jpg",TV ESTADO (Top TV)
+https://cdn.jmvstream.com/w/AVJ-9094/playlist/chunklist.m3u8
+#EXTINF:-1 group-title="Canais | Abertos",TV GAZETA
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://tv8brasil.com/wp-content/uploads/2020/05/logo_tv8_site_novo_2020.png",TV 8
+https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://pa-str.srvsite.com/arquivos/6234/cabecalho-6234-20201128201422.png",TV 8 RO
+https://stmv3.samcast.com.br/jose8272/jose8272/chunklist_w1342332292.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/slWITgo.png",TV CULTURA HD (Catve)
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/slWITgo.png",TV CULTURA (Futuro)
+https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://tvbrasil.ebc.com.br/sites/default/themes/tvbrasil/img/logo_tvbrasil_201904.png",TV BRASIL (TVE Bahia)
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://tvbrasil.ebc.com.br/sites/default/themes/tvbrasil/img/logo_tvbrasil_201904.png",TV BRASIL (TVE Brasil)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/SpFD1Uo.jpg",NOVA TV VALE
+https://5b7f3c45ab7c2.streamlock.net/8016/ngrp:8016/chunklist_w1899225291_b828000_DVR.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/oiRXAMu.png",REDE CNT (SP)
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_240p414k/index.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://yata-apix-f3cc8007-25d7-45c8-98ed-24d9402d3c76.lss.locawebcorp.com.br/b3f6c3a71bfb45199b0fb19bf54f52ef.png",REDE NGT
+https://cdn.jmvstream.com/w/AVJ-9644/playlist/chunklist.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/100987566f7a57c654ac6f94c2a42b86.png",TV METRÓPOLE
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w2133373253.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/331000de68258bdb7681313d840ec833.png",TV POÇOS
+https://live.cdn.upx.com/00084/myStream.sdp/chunklist.m3u8?55e983619eed8fb6a2072cd4fb962114
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/11cf16112e09f04f5eff9fbf953d8e42.png",TV METROPOLITANA (RJ)
+https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w936575810.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e6aa0ad770325c0c0b656ab54716e542.png",TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.wixstatic.com/media/7d1b6b_63233e54c6a54680a54a4a09d0db3c2e~mv2.png/v1/fill/w_214,h_102,al_c,q_85,usm_0.66_1.00_0.01/1combr.webp",TV COM BRASIL
+https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
+#EXTINF:-1 group-title="Canais | Abertos",TV CARAVELAS (TV COM BRASIL)
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/chunklist_w1131983888.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bd7faf92fdaec94b7a0b2ca5f5f362b1.png",TVCI (Pai Eterno)
+http://flash8.crossdigital.com.br/2306/2306/chunklist_w1964766277.m3u8
+#EXTINF:-1 group-title="Canais | Abertos",TV GAZETA (TV Alternativa)
+http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Abertos",TV GAZETA MA
+http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8?wowzasessionid=37902564
+#EXTINF:-1 group-title="Canais | Abertos",REDE LIBERDADE
+http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Abertos",REDE UTV
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w1656747096.m3u8
+#EXTINF:-1 group-title="Canais | Abertos",TV SOL
+http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Abertos",TV KIDMAIS
+https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Abertos",NB TV
+https://5d82644094cc0.streamlock.net/8026/8026/chunklist_w1857902543.m3u8
+#EXTINF:-1 group-title="Canais | Abertos",TV NOVA ONDA
+https://5c483b9d1019c.streamlock.net/8078/8078/chunklist_w616485768.m3u8
+#EXTINF:-1 group-title="Canais | Abertos",TV ALTIORA
+https://live.desdobrar.com/hls/altiora.m3u8
+#EXTINF:-1 group-title="Canais | Abertos",ALL TV
+https://cdn.jmvstream.com/w/AVJ-9086/playlist/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Abertos",AWC CHANNEL
+https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Abertos",AMERCIA HORROR CHANNEL
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Abertos",TV MAIS NOTICIAS
+http://eventials-i.akamaihd.net/hls/live/746370/uymfm3v51659vk7t/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Abertos",GNMTV
+https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/chunklist_w1107061616.m3u8
+#EXTINF:-1 group-title="Canais | Abertos",NOVA BARREIROS TV
+https://5d82644094cc0.streamlock.net/8026/8026/chunklist_w1931045049.m3u8
+#EXTINF:-1 group-title="Canais | Abertos",SERTÃO TV
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w1172238546.m3u8
+#EXTINF:-1 group-title="Canais | Abertos",TV CENTRO SUL
+https://novo.bitstreaming.info:1936/tvcentrosultvstation/tvcentrosultvstation/chunklist_w669581959.m3u8
+#EXTINF:-1 group-title="Canais | Abertos",TV CIDADE TIRADENTES
+https://novo.bitstreaming.info:1936/8284/8284/chunklist_w1727648533.m3u8
+#EXTINF:-1 group-title="Canais | Abertos",TV DIGITAL BIRIGUI
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+#EXTINF:-1 group-title="Canais | Abertos",TV GALEGA
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
+#EXTINF:-1 group-title="Canais | Abertos",TV GUARULHOS
+http://stream19.streamingdevideo.com.br:1935/tvguarulhos/tvguarulhos/chunklist_w9194371.m3u8
+#EXTINF:-1 group-title="Canais | Abertos",TV HORA 1
+https://59f1cbe63db89.streamlock.net:1443/hotflix/_definst_/hotflix/chunklist_w96738037.m3u8
+#EXTINF:-1 group-title="Canais | Abertos",TV JORNAL DO NORDESTE
+https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w1033376554.m3u8
+#EXTINF:-1 group-title="Canais | Abertos",TV SERTÃO PETROLINA
+https://59f2354c05961.streamlock.net:1443/sertao/_definst_/sertao/chunklist_w852883333.m3u8
+#EXTINF:-1 group-title="Canais | Abertos",TVN BRASIL
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+#EXTINF:-1 group-title="Canais | Abertos",TV PROGRESSO
+https://novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/chunklist_w755298038.m3u8
+#EXTINF:-1 group-title="Canais | Abertos",Bons Tempos TV
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://imgur.com/yg60ANb.png",CATVE (CULTURA)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/hd76Jt4.png",REDETV! RJ
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
 
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png",TV Arapuan HD
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
@@ -1096,6 +1097,21 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 https://www.djing.com/tv/d-28904-04.m3u8
 #EXTINF:-1 group-title="MÚSICA" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",DJing Animation
 https://www.djing.com/tv/a-28904-04.m3u8
+#EXTINF:-1 group-title="MÚSICA" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",Music Channel
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w1209789405.m3u8
+#EXTINF:-1 group-title="MÚSICA" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",Retrô TV
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
+#EXTINF:-1 group-title="MÚSICA" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",Capital TV
+https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1 group-title="MÚSICA" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",M2O
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 group-title="MÚSICA" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÚSICA" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",DJing
+https://www.djing.com/tv/d-28904-04.m3u8
+#EXTINF:-1 group-title="MÚSICA" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg",DJing Animation
+https://www.djing.com/tv/a-28904-04.m3u8
+
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxCanais Religiosoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
@@ -1108,521 +1124,350 @@ https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxCanais Portugalxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-#EXTINF:-1 tvg-id="" tvg-name="WRC" tvg-logo="https://apprecs.org/ios/images/app-icons/256/65/799442789.jpg" group-title="★●• PORTUGAL ●•★",WRC
+#EXTM3U
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="https://apprecs.org/ios/images/app-icons/256/65/799442789.jpg",WRC
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/35890.m3u8
-#EXTINF:-1 tvg-id="RTP1" tvg-name="RTP1" tvg-logo="http://traquinas.servecounterstrike.com/icones1/rtp1.png" group-title="★●• PORTUGAL ●•★",RTP1
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/rtp1.png",RTP1
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/56.m3u8
-#EXTINF:-1 tvg-id="RTP1" tvg-name="RTP1ᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/rtp1hd.png" group-title="★●• PORTUGAL ●•★",RTP1ᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/rtp1hd.png",RTP1ᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/57.m3u8
-#EXTINF:-1 tvg-id="RTP2" tvg-name="RTP2" tvg-logo="http://traquinas.servecounterstrike.com/icones2/RTP%25202.png" group-title="★●• PORTUGAL ●•★",RTP2
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/RTP%25202.png",RTP2
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/54.m3u8
-#EXTINF:-1 tvg-id="RTP2" tvg-name="RTP2ᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/RTP%25202%2520HD.png" group-title="★●• PORTUGAL ●•★",RTP2ᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/RTP%25202%2520HD.png",RTP2ᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/55.m3u8
-#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3" tvg-logo="http://traquinas.servecounterstrike.com/icones1/rtp3.png" group-title="★●• PORTUGAL ●•★",RTP 3
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/rtp3.png",RTP 3
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/53.m3u8
-#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="http://traquinas.servecounterstrike.com/icones1/SIC.png" group-title="★●• PORTUGAL ●•★",SIC
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/SIC.png",SIC
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/46.m3u8
-#EXTINF:-1 tvg-id="SIC" tvg-name="SICᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/SICHD.png" group-title="★●• PORTUGAL ●•★",SICᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/SICHD.png",SICᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/48.m3u8
-#EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="http://traquinas.servecounterstrike.com/icones2/TVI.png" group-title="★●• PORTUGAL ●•★",TVI
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/TVI.png",TVI
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/9.m3u8
-#EXTINF:-1 tvg-id="TVI" tvg-name="TVIᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/TVI.png" group-title="★●• PORTUGAL ●•★",TVIᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/TVI.png",TVIᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/139.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Estudo em Casa" tvg-logo="https://voxpoptv.files.wordpress.com/2020/04/estudo-em-casa-2-e1586535668594.png" group-title="★●• PORTUGAL ●•★",Estudo em Casa
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="https://voxpoptv.files.wordpress.com/2020/04/estudo-em-casa-2-e1586535668594.png",Estudo em Casa
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/27399.m3u8
-#EXTINF:-1 tvg-id="TVI Ficcao PT" tvg-name="TVI Ficção" tvg-logo="http://traquinas.servecounterstrike.com/icones1/tvificcao.png" group-title="★●• PORTUGAL ●•★",TVI Ficção
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/tvificcao.png",TVI Ficção
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/7.m3u8
-#EXTINF:-1 tvg-id="TVI FICÇÃO" tvg-name="TVI Ficçaoᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/TVIFiccao.pt.png" group-title="★●• PORTUGAL ●•★",TVI Ficçaoᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/TVIFiccao.pt.png",TVI Ficçaoᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/21423.m3u8
-#EXTINF:-1 tvg-id="TVIREAL" tvg-name="TVI Reality" tvg-logo="http://traquinas.servecounterstrike.com/icones2/TVI%2520REALITY.png" group-title="★●• PORTUGAL ●•★",TVI Reality
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/6.m3u8
-#EXTINF:-1 tvg-id="TVIREAL" tvg-name="TVI Realityᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/TviReality.pt.png" group-title="★●• PORTUGAL ●•★",TVI Realityᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/TviReality.pt.png",TVI Realityᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/21424.m3u8
-#EXTINF:-1 tvg-id="SICM" tvg-name="SIC Mulher" tvg-logo="http://traquinas.servecounterstrike.com/icones1/sicmulher.png" group-title="★●• PORTUGAL ●•★",SIC Mulher
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/sicmulher.png",SIC Mulher
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/45.m3u8
-#EXTINF:-1 tvg-id="SIC MULHER HD" tvg-name="SIC Mulherᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/SIC%2520MULHER%2520HD.png" group-title="★●• PORTUGAL ●•★",SIC Mulherᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/SIC%2520MULHER%2520HD.png",SIC Mulherᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/5454.m3u8
-#EXTINF:-1 tvg-id="SIC RADICAL" tvg-name="SIC Radical" tvg-logo="http://traquinas.servecounterstrike.com/icones1/sicradical.png" group-title="★●• PORTUGAL ●•★",SIC Radical
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/43.m3u8
-#EXTINF:-1 tvg-id="SIC RADICAL" tvg-name="SIC Radicalᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/SIC%2520RADICAL%2520HD.png" group-title="★●• PORTUGAL ●•★",SIC Radicalᴴᴰ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/5453.m3u8
-#EXTINF:-1 tvg-id="SIC CARAS" tvg-name="Sic Caras	" tvg-logo="http://traquinas.servecounterstrike.com/icones1/siccaras.png" group-title="★●• PORTUGAL ●•★",Sic Caras	
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/siccaras.png",Sic Caras
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/49.m3u8
-#EXTINF:-1 tvg-id="RECORD TV" tvg-name="TV Record" tvg-logo="http://traquinas.servecounterstrike.com/icones2/Tv%2520Record.png" group-title="★●• PORTUGAL ●•★",TV Record
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/Tv%2520Record.png",TV Record
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/20.m3u8
-#EXTINF:-1 tvg-id="RECORD TV HD" tvg-name="TV Recordᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/Tv%2520Record%2520HD.png" group-title="★●• PORTUGAL ●•★",TV Recordᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/Tv%2520Record%2520HD.png",TV Recordᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/3135.m3u8
-#EXTINF:-1 tvg-id="GLOBO" tvg-name="TV Globo" tvg-logo="http://traquinas.servecounterstrike.com/icones1/tvgloboportugal.png" group-title="★●• PORTUGAL ●•★",TV Globo
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/tvgloboportugal.png",TV Globo
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/82.m3u8
-#EXTINF:-1 tvg-id="Globo TV PT" tvg-name="TV Globoᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/TV%2520GLOBO%2520Portugal.png" group-title="★●• PORTUGAL ●•★",TV Globoᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/TV%2520GLOBO%2520Portugal.png",TV Globoᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/2002.m3u8
-#EXTINF:-1 tvg-id="GLOBONOWHD" tvg-name="Globo Now" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/globonow.png" group-title="★●• PORTUGAL ●•★",Globo Now
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/iconesall/globonow.png",Globo Now
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/81.m3u8
-#EXTINF:-1 tvg-id="GLOBONOWHD" tvg-name="Globo Nowᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/globonow.png" group-title="★●• PORTUGAL ●•★",Globo Nowᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/iconesall/globonow.png",Globo Nowᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/21426.m3u8
-#EXTINF:-1 tvg-id="SICN" tvg-name="SIC Notícias" tvg-logo="http://traquinas.servecounterstrike.com/icones1/sicnoticias.png" group-title="★●• PORTUGAL ●•★",SIC Notícias
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/sicnoticias.png",SIC Notícias
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/44.m3u8
-#EXTINF:-1 tvg-id="SICN" tvg-name="SIC Notíciasᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/SIC%2520NOTICIAS%2520HD.png" group-title="★●• PORTUGAL ●•★",SIC Notíciasᴴᴰ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/2000.m3u8
-#EXTINF:-1 tvg-id="TVI24" tvg-name="TVI 24" tvg-logo="http://traquinas.servecounterstrike.com/icones1/tvi24.png" group-title="★●• PORTUGAL ●•★",TVI 24
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/tvi24.png",TVI 24
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/8.m3u8
-#EXTINF:-1 tvg-id="TVI24" tvg-name="TVI 24ᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/Tvi%252024.png" group-title="★●• PORTUGAL ●•★",TVI 24ᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/Tvi%252024.png",TVI 24ᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/5451.m3u8
-#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV" tvg-logo="http://traquinas.servecounterstrike.com/icones1/cmtv.png" group-title="★●• PORTUGAL ●•★",CMTV
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/cmtv.png",CMTV
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/111.m3u8
-#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTVᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/CMTV%2520HD.png" group-title="★●• PORTUGAL ●•★",CMTVᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/CMTV%2520HD.png",CMTVᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/1999.m3u8
-#EXTINF:-1 tvg-id="LOCALVISAOTVHD" tvg-name="Localvisão" tvg-logo="http://traquinas.servecounterstrike.com/icones2/Localvisao%2520HD.png" group-title="★●• PORTUGAL ●•★",Localvisão
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/Localvisao%2520HD.png",Localvisão
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/2001.m3u8
-#EXTINF:-1 tvg-id="EURONEWS" tvg-name="Euronews" tvg-logo="http://traquinas.servecounterstrike.com/icones1/euronews.png" group-title="★●• PORTUGAL ●•★",Euronews
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/euronews.png",Euronews
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/95.m3u8
-#EXTINF:-1 tvg-id="A BOLA TV" tvg-name="A Bola TV" tvg-logo="http://traquinas.servecounterstrike.com/icones1/abola.png" group-title="★●• PORTUGAL ●•★",A Bola TV
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/abola.png",A Bola TV
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/137.m3u8
-#EXTINF:-1 tvg-id="A BOLA TV" tvg-name="A Bola TVᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/A%2520BOLA.png" group-title="★●• PORTUGAL ●•★",A Bola TVᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/A%2520BOLA.png",A Bola TVᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/5459.m3u8
-#EXTINF:-1 tvg-id="Canal 11" tvg-name="Canal 11" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11-300x200.png" group-title="★●• PORTUGAL ●•★",Canal 11
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/2055.m3u8
-#EXTINF:-1 tvg-id="CANAL 11 HD" tvg-name="Canal 11ᶠᴴᴰ" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11-300x200.png" group-title="★●• PORTUGAL ●•★",Canal 11ᶠᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11-300x200.png",Canal 11ᶠᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/121.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lolly Kids" tvg-logo="http://kickmedia.tv/LolliP/Lollykids_logo_last.png" group-title="★●• PORTUGAL ●•★",Lolly Kids
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://kickmedia.tv/LolliP/Lollykids_logo_last.png",Lolly Kids
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/27398.m3u8
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="Disney Channel" tvg-logo="http://traquinas.servecounterstrike.com/icones1/disneychannel.png" group-title="★●• PORTUGAL ●•★",Disney Channel
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/disneychannel.png",Disney Channel
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/105.m3u8
-#EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="Disney Junior" tvg-logo="http://traquinas.servecounterstrike.com/icones1/disneyjunior.png" group-title="★●• PORTUGAL ●•★",Disney Junior
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/disneyjunior.png",Disney Junior
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/104.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney + " tvg-logo="https://logospng.org/download/disneyplus/logo-disneyplus-256.png" group-title="★●• PORTUGAL ●•★",Disney + 
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="https://logospng.org/download/disneyplus/logo-disneyplus-256.png",Disney +
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/25013.m3u8
-#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="Cartoon Network" tvg-logo="http://traquinas.servecounterstrike.com/icones2/CARTOON%2520NETWORK.png" group-title="★●• PORTUGAL ●•★",Cartoon Network
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/CARTOON%2520NETWORK.png",Cartoon Network
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/117.m3u8
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/boomerang.png" group-title="★●• PORTUGAL ●•★",Boomerang
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/iconesall/boomerang.png",Boomerang
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/2014.m3u8
-#EXTINF:-1 tvg-id="PANDA" tvg-name="Panda" tvg-logo="http://traquinas.servecounterstrike.com/icones1/panda.png" group-title="★●• PORTUGAL ●•★",Panda
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/panda.png",Panda
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/120.m3u8
-#EXTINF:-1 tvg-id="BIGGS" tvg-name="Panda Biggs" tvg-logo="http://traquinas.servecounterstrike.com/icones1/biggs.png" group-title="★●• PORTUGAL ●•★",Panda Biggs
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/biggs.png",Panda Biggs
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/127.m3u8
-#EXTINF:-1 tvg-id="BABY TV" tvg-name="Baby TV" tvg-logo="http://traquinas.servecounterstrike.com/icones1/babytv.png" group-title="★●• PORTUGAL ●•★",Baby TV
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/babytv.png",Baby TV
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/130.m3u8
-#EXTINF:-1 tvg-id="JimJam PT" tvg-name="JimJam" tvg-logo="http://traquinas.servecounterstrike.com/icones1/jimjam.png" group-title="★●• PORTUGAL ●•★",JimJam
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/jimjam.png",JimJam
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/75.m3u8
-#EXTINF:-1 tvg-id="NICKJR" tvg-name="NICK JR	" tvg-logo="http://traquinas.servecounterstrike.com/icones2/Nick%2520Jr.png" group-title="★●• PORTUGAL ●•★",NICK JR	
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/Nick%2520Jr.png",NICK JR
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/65.m3u8
-#EXTINF:-1 tvg-id="Nicke" tvg-name="Nickelodeon" tvg-logo="http://traquinas.servecounterstrike.com/icones1/nickelodeon.png" group-title="★●• PORTUGAL ●•★",Nickelodeon
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/nickelodeon.png",Nickelodeon
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/64.m3u8
-#EXTINF:-1 tvg-id="SIC K" tvg-name="SIC K" tvg-logo="http://traquinas.servecounterstrike.com/icones1/sick.png" group-title="★●• PORTUGAL ●•★",SIC K
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/sick.png",SIC K
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/47.m3u8
-#EXTINF:-1 tvg-id="KURIAKOS TV" tvg-name="KURIAKOS KIDS TV HD" tvg-logo="https://kuriakos.com/wp-content/uploads/2017/07/Kuriakos_kids_V2.jpg" group-title="★●• PORTUGAL ●•★",KURIAKOS KIDS TV HD
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/20196.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Marvel TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Marvel-tv-logo.svg/1200px-Marvel-tv-logo.svg.png" group-title="★●• PORTUGAL ●•★",Marvel TV
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Marvel-tv-logo.svg/1200px-Marvel-tv-logo.svg.png",Marvel TV
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/12144.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cine Infantil" tvg-logo="http://static1.comunitatvalenciana.com/sites/default/files/imagecache/width-content-460px/img/imagen/2019/11/09/cine_infantil.jpg" group-title="★●• PORTUGAL ●•★",Cine Infantil
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://static1.comunitatvalenciana.com/sites/default/files/imagecache/width-content-460px/img/imagen/2019/11/09/cine_infantil.jpg",Cine Infantil
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/12146.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TALKING TOM CAT AND FRIENDS" tvg-logo="https://i.pinimg.com/236x/fe/1b/fb/fe1bfb73890784e8c4f082d144e5e35f--tom.jpg" group-title="★●• PORTUGAL ●•★",TALKING TOM CAT AND FRIENDS
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="https://i.pinimg.com/236x/fe/1b/fb/fe1bfb73890784e8c4f082d144e5e35f--tom.jpg",TALKING TOM CAT AND FRIENDS
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/12147.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Drangon Ball " tvg-logo="https://c-sf.smule.com/rs-s78/arr/51/2c/0c64499e-2743-42e1-90fc-93809b35875c.jpg" group-title="★●• PORTUGAL ●•★",Drangon Ball 
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="https://c-sf.smule.com/rs-s78/arr/51/2c/0c64499e-2743-42e1-90fc-93809b35875c.jpg",Drangon Ball
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/22622.m3u8
-#EXTINF:-1 tvg-id="SPORT TV +" tvg-name="SPORT.TV+" tvg-logo="http://traquinas.servecounterstrike.com/icones2/SPORT.TV+.png" group-title="★●• PORTUGAL ●•★",SPORT.TV+
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/SPORT.TV+.png",SPORT.TV+
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/41.m3u8
-#EXTINF:-1 tvg-id="SPORT TV + HD" tvg-name="SPORT.TV+ᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/SPORT.TV+%2520HD.png" group-title="★●• PORTUGAL ●•★",SPORT.TV+ᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/SPORT.TV+%2520HD.png",SPORT.TV+ᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/1059.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV1 HD" tvg-name="SPORT.TV 4K UHD" tvg-logo="http://traquinas.servecounterstrike.com/icones2/SPORT.TV%25204K%2520UHD%2520(BETA).png" group-title="★●• PORTUGAL ●•★",SPORT.TV 4K UHD
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/SPORT.TV%25204K%2520UHD%2520(BETA).png",SPORT.TV 4K UHD
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/22627.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV1" tvg-name="SPORT.TV1" tvg-logo="http://traquinas.servecounterstrike.com/icones1/sportv1.png" group-title="★●• PORTUGAL ●•★",SPORT.TV1
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/sportv1.png",SPORT.TV1
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/40.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV1 HD" tvg-name="SPORT.TV1ᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/sportv1hd.png" group-title="★●• PORTUGAL ●•★",SPORT.TV1ᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/sportv1hd.png",SPORT.TV1ᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/38.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV1 HD" tvg-name="SPORT.TV1ᶠᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/SPORT.TV%25201%2520FULLHD.png" group-title="★●• PORTUGAL ●•★",SPORT.TV1ᶠᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/SPORT.TV%25201%2520FULLHD.png",SPORT.TV1ᶠᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/39.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV1 HD" tvg-name="SPORT.TV1 ᴴ²⁶⁵" tvg-logo="http://traquinas.servecounterstrike.com/icones1/Sport%2520TV%25201.png" group-title="★●• PORTUGAL ●•★",SPORT.TV1 ᴴ²⁶⁵
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/5438.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV2" tvg-name="SPORT.TV2" tvg-logo="http://traquinas.servecounterstrike.com/icones1/sportv2.png" group-title="★●• PORTUGAL ●•★",SPORT.TV2
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/sportv2.png",SPORT.TV2
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/37.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV2 HD" tvg-name="SPORT.TV2ᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/sportv2hd.png" group-title="★●• PORTUGAL ●•★",SPORT.TV2ᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/sportv2hd.png",SPORT.TV2ᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/35.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV2 HD" tvg-name="SPORT.TV2ᶠᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/SPORT.TV%25202%2520FULLHD.png" group-title="★●• PORTUGAL ●•★",SPORT.TV2ᶠᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/SPORT.TV%25202%2520FULLHD.png",SPORT.TV2ᶠᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/36.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV2 HD" tvg-name="SPORT.TV2 ᴴ²⁶⁵" tvg-logo="http://traquinas.servecounterstrike.com/icones1/Sport%2520TV%25202.png" group-title="★●• PORTUGAL ●•★",SPORT.TV2 ᴴ²⁶⁵
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/5439.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV3" tvg-name="SPORT.TV3" tvg-logo="http://traquinas.servecounterstrike.com/icones1/sportv3.png" group-title="★●• PORTUGAL ●•★",SPORT.TV3
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/sportv3.png",SPORT.TV3
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/34.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV3" tvg-name="SPORT.TV3ᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/sportv3hd.png" group-title="★●• PORTUGAL ●•★",SPORT.TV3ᴴᴰ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/32.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV3 HD" tvg-name="SPORT.TV3ᶠᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/SPORT.TV%25203%2520FULLHD.png" group-title="★●• PORTUGAL ●•★",SPORT.TV3ᶠᴴᴰ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/33.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV3 HD" tvg-name="SPORT.TV 3ᴴ²⁶⁵" tvg-logo="http://traquinas.servecounterstrike.com/icones1/sportv3hd.png" group-title="★●• PORTUGAL ●•★",SPORT.TV 3ᴴ²⁶⁵
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/21427.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV4" tvg-name="SPORT.TV4" tvg-logo="http://traquinas.servecounterstrike.com/icones1/sportv4.png" group-title="★●• PORTUGAL ●•★",SPORT.TV4
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/sportv4.png",SPORT.TV4
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/31.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV4 HD" tvg-name="SPORT.TV4ᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/sportv4hd.png" group-title="★●• PORTUGAL ●•★",SPORT.TV4ᴴᴰ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/363.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV4 HD" tvg-name="SPORT.TV4ᶠᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/Sport.TV%25204%2520FULLHD.png" group-title="★●• PORTUGAL ●•★",SPORT.TV4ᶠᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/Sport.TV%25204%2520FULLHD.png",SPORT.TV4ᶠᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/1992.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV5" tvg-name="SPORT.TV5" tvg-logo="http://traquinas.servecounterstrike.com/icones1/sportv5.png" group-title="★●• PORTUGAL ●•★",SPORT.TV5
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/sportv5.png",SPORT.TV5
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/30.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV5 HD" tvg-name="SPORT.TV5ᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/sportv5hd.png" group-title="★●• PORTUGAL ●•★",SPORT.TV5ᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/sportv5hd.png",SPORT.TV5ᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/362.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV5 HD" tvg-name="SPORT.TV5ᶠᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/Sport%2520TV%25205%2520FHD.png" group-title="★●• PORTUGAL ●•★",SPORT.TV5ᶠᴴᴰ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/1993.m3u8
-#EXTINF:-1 tvg-id="BTV" tvg-name="Benfica TV	" tvg-logo="http://traquinas.servecounterstrike.com/icones2/Benfica%2520TV%25201.png" group-title="★●• PORTUGAL ●•★",Benfica TV	
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/Benfica%2520TV%25201.png",Benfica TV
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/124.m3u8
-#EXTINF:-1 tvg-id="BTV HD" tvg-name="Benfica TVᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/btv1hd.png" group-title="★●• PORTUGAL ●•★",Benfica TVᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/btv1hd.png",Benfica TVᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/122.m3u8
-#EXTINF:-1 tvg-id="BTV HD" tvg-name="Benfica TVᶠᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/Benfica%2520TV%25201%2520FULLHD.png" group-title="★●• PORTUGAL ●•★",Benfica TVᶠᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/Benfica%2520TV%25201%2520FULLHD.png",Benfica TVᶠᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/123.m3u8
-#EXTINF:-1 tvg-id="BTV HD" tvg-name="BENFICA TV ᴴ²⁶⁵" tvg-logo="http://traquinas.servecounterstrike.com/icones1/BTV%25201.png" group-title="★●• PORTUGAL ●•★",BENFICA TV ᴴ²⁶⁵
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/5443.m3u8
-#EXTINF:-1 tvg-id="BTV HD" tvg-name="Benfica TV 4K UHD" tvg-logo="http://traquinas.servecounterstrike.com/icones1/BENFICA%20TV4k.png" group-title="★●• PORTUGAL ●•★",Benfica TV 4K UHD
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/BENFICA%20TV4k.png",Benfica TV 4K UHD
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/16974.m3u8
-#EXTINF:-1 tvg-id="canalnos1" tvg-name="Eleven Sports 1" tvg-logo="http://traquinas.servecounterstrike.com/icones1/ELEVENSPORTS1.png" group-title="★●• PORTUGAL ●•★",Eleven Sports 1
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/ELEVENSPORTS1.png",Eleven Sports 1
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/370.m3u8
-#EXTINF:-1 tvg-id="canalnos1" tvg-name="Eleven Sports 1ᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/elevensports1hd.png" group-title="★●• PORTUGAL ●•★",Eleven Sports 1ᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/iconesall/elevensports1hd.png",Eleven Sports 1ᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/667.m3u8
-#EXTINF:-1 tvg-id="canalnos1" tvg-name="Eleven Sports 1ᶠᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/elevensports1hd.png" group-title="★●• PORTUGAL ●•★",Eleven Sports 1ᶠᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/iconesall/elevensports1hd.png",Eleven Sports 1ᶠᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/102.m3u8
-#EXTINF:-1 tvg-id="canalnos1" tvg-name="Eleven Sports 1ᴴ²⁶⁵" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/elevensports1hd.png" group-title="★●• PORTUGAL ●•★",Eleven Sports 1ᴴ²⁶⁵
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/22442.m3u8
-#EXTINF:-1 tvg-id="canalnos1" tvg-name="Eleven Sports 1 4K UHD" tvg-logo="http://traquinas.servecounterstrike.com/icones1/Eleven_Sports_1%204k.png" group-title="★●• PORTUGAL ●•★",Eleven Sports 1 4K UHD
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/16975.m3u8
-#EXTINF:-1 tvg-id="canalnos2" tvg-name="Eleven Sports 2" tvg-logo="http://traquinas.servecounterstrike.com/icones1/ELEVENSPORTS2.png" group-title="★●• PORTUGAL ●•★",Eleven Sports 2
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/ELEVENSPORTS2.png",Eleven Sports 2
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/368.m3u8
-#EXTINF:-1 tvg-id="canalnos2" tvg-name="Eleven Sports 2ᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/elevensports2hd.png" group-title="★●• PORTUGAL ●•★",Eleven Sports 2ᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/iconesall/elevensports2hd.png",Eleven Sports 2ᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/367.m3u8
-#EXTINF:-1 tvg-id="canalnos2" tvg-name="Eleven Sports 2ᶠᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/elevensports2hd.png" group-title="★●• PORTUGAL ●•★",Eleven Sports 2ᶠᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/iconesall/elevensports2hd.png",Eleven Sports 2ᶠᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/101.m3u8
-#EXTINF:-1 tvg-id="DESP3HD" tvg-name="Eleven Sports 3" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/elevensports3.png" group-title="★●• PORTUGAL ●•★",Eleven Sports 3
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/iconesall/elevensports3.png",Eleven Sports 3
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/100.m3u8
-#EXTINF:-1 tvg-id="DESP3HD" tvg-name="Eleven Sports 3ᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/elevensports3hd.png" group-title="★●• PORTUGAL ●•★",Eleven Sports 3ᴴᴰ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/365.m3u8
-#EXTINF:-1 tvg-id="DESP3HD" tvg-name="Eleven Sports 3ᶠᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/elevensports3hd.png" group-title="★●• PORTUGAL ●•★",Eleven Sports 3ᶠᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/iconesall/elevensports3hd.png",Eleven Sports 3ᶠᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/366.m3u8
-#EXTINF:-1 tvg-id="DESP3HD" tvg-name="Eleven Sports 3 4K UHD" tvg-logo="https://staticp.0aos100.pt/posts/1550767699eleven-sports-f1-960x556jpg_1980x600.jpg" group-title="★●• PORTUGAL ●•★",Eleven Sports 3 4K UHD
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/22628.m3u8
-#EXTINF:-1 tvg-id="DESP4HD" tvg-name="Eleven Sports 4" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/elevensports4.png" group-title="★●• PORTUGAL ●•★",Eleven Sports 4
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/iconesall/elevensports4.png",Eleven Sports 4
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/99.m3u8
-#EXTINF:-1 tvg-id="DESP4HD" tvg-name="Eleven Sports 4ᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/ELEVENSPORTS4.png" group-title="★●• PORTUGAL ●•★",Eleven Sports 4ᴴᴰ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/1990.m3u8
-#EXTINF:-1 tvg-id="DESP4HD" tvg-name="Eleven Sports 4ᶠᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/ELEVENSPORTS4.png" group-title="★●• PORTUGAL ●•★",Eleven Sports 4ᶠᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/ELEVENSPORTS4.png",Eleven Sports 4ᶠᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/1991.m3u8
-#EXTINF:-1 tvg-id="DESP5HD" tvg-name="Eleven Sports 5" tvg-logo="http://traquinas.servecounterstrike.com/icones1/ELEVENSPORTS5.png" group-title="★●• PORTUGAL ●•★",Eleven Sports 5
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/ELEVENSPORTS5.png",Eleven Sports 5
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/98.m3u8
-#EXTINF:-1 tvg-id="DESP6HD" tvg-name="Eleven Sports 6" tvg-logo="http://traquinas.servecounterstrike.com/icones1/ELEVENSPORTS6.png" group-title="★●• PORTUGAL ●•★",Eleven Sports 6
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/ELEVENSPORTS6.png",Eleven Sports 6
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/97.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESL TV" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/1975b18f-fa7d-443f-b191-fba08f92f3a2-profile_image-70x70.jpeg" group-title="★●• PORTUGAL ●•★",ESL TV
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/28369.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTP Arena" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/397f1500-9968-4b38-bff4-30fa87b2ee4d-profile_image-300x300.png" group-title="★●• PORTUGAL ●•★",RTP Arena
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/28370.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-name="Eurosport 1" tvg-logo="http://traquinas.servecounterstrike.com/icones2/EUROSPORT%25201.png" group-title="★●• PORTUGAL ●•★",Eurosport 1
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/EUROSPORT%25201.png",Eurosport 1
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/94.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT 1 HD" tvg-name="Eurosport 1ᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/EUROSPORT%25201%2520HD.png" group-title="★●• PORTUGAL ●•★",Eurosport 1ᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/EUROSPORT%25201%2520HD.png",Eurosport 1ᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/93.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="Eurosport 2" tvg-logo="http://traquinas.servecounterstrike.com/icones2/EUROSPORT%25202.png" group-title="★●• PORTUGAL ●•★",Eurosport 2
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/EUROSPORT%25202.png",Eurosport 2
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/92.m3u8
-#EXTINF:-1 tvg-id="PFC" tvg-name="PFC" tvg-logo="http://traquinas.servecounterstrike.com/icones1/pfc.png" group-title="★●• PORTUGAL ●•★",PFC
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/pfc.png",PFC
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/61.m3u8
-#EXTINF:-1 tvg-id="PORTO" tvg-name="Porto Canal" tvg-logo="http://traquinas.servecounterstrike.com/icones1/portocanal.png" group-title="★●• PORTUGAL ●•★",Porto Canal
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/portocanal.png",Porto Canal
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/59.m3u8
-#EXTINF:-1 tvg-id="PORTO" tvg-name="Porto Canalᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/Porto%2520Canal%2520HD.png" group-title="★●• PORTUGAL ●•★",Porto Canalᴴᴰ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/1998.m3u8
-#EXTINF:-1 tvg-id="SPORTING TV" tvg-name="Sporting TV" tvg-logo="http://traquinas.servecounterstrike.com/icones1/sportingtv.png" group-title="★●• PORTUGAL ●•★",Sporting TV
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/sportingtv.png",Sporting TV
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/28.m3u8
-#EXTINF:-1 tvg-id="SPORTING TV HD" tvg-name="Sporting TVᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/SPORTING%2520TV%2520HD.png" group-title="★●• PORTUGAL ●•★",Sporting TVᴴᴰ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/4855.m3u8
-#EXTINF:-1 tvg-id="FIGHTHD" tvg-name="Fight Network HD" tvg-logo="http://traquinas.servecounterstrike.com/icones2/FIGHT%2520CHANNEL%2520HD.png" group-title="★●• PORTUGAL ●•★",Fight Network HD
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/FIGHT%2520CHANNEL%2520HD.png",Fight Network HD
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/1997.m3u8
-#EXTINF:-1 tvg-id="NBA TV HD" tvg-name="SPORT.TV NBA" tvg-logo="http://global.nba.com/nba-apps/static/icons/league-icons/nba.png" group-title="★●• PORTUGAL ●•★",SPORT.TV NBA
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://global.nba.com/nba-apps/static/icons/league-icons/nba.png",SPORT.TV NBA
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/29.m3u8
-#EXTINF:-1 tvg-id="MOTORVISIONHD" tvg-name="Motorvision" tvg-logo="http://traquinas.servecounterstrike.com/icones1/motorvision.png" group-title="★●• PORTUGAL ●•★",Motorvision
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/motorvision.png",Motorvision
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/71.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="F1 Inside" tvg-logo="https://media.nu.nl/m/pagxl00ahyew_sqr256.jpg/conclusies-na-f1-testdagen-red-bull-oogt-sterk-mercedes-instabiel.jpg" group-title="★●• PORTUGAL ●•★",F1 Inside
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="https://media.nu.nl/m/pagxl00ahyew_sqr256.jpg/conclusies-na-f1-testdagen-red-bull-oogt-sterk-mercedes-instabiel.jpg",F1 Inside
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/25918.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RedBull TVᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/redbulltv.png" group-title="★●• PORTUGAL ●•★",RedBull TVᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/iconesall/redbulltv.png",RedBull TVᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/4859.m3u8
-#EXTINF:-1 tvg-id="Ext_Spt" tvg-name="Fuel TV" tvg-logo="http://traquinas.servecounterstrike.com/icones1/fueltv.png" group-title="★●• PORTUGAL ●•★",Fuel TV
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/fueltv.png",Fuel TV
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/83.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sertanejo TV" tvg-logo="https://pbs.twimg.com/profile_images/2727810461/c1e30bfa5606b281fe348cfe71a8e6d6.jpeg" group-title="★●• PORTUGAL ●•★",Sertanejo TV
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="https://pbs.twimg.com/profile_images/2727810461/c1e30bfa5606b281fe348cfe71a8e6d6.jpeg",Sertanejo TV
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/25012.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pegadinhas" tvg-logo="https://pbs.twimg.com/profile_images/606861852153417728/Im0QxlRl_400x400.jpg" group-title="★●• PORTUGAL ●•★",Pegadinhas
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="https://pbs.twimg.com/profile_images/606861852153417728/Im0QxlRl_400x400.jpg",Pegadinhas
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/22139.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Touradas & Marradas" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple7/v4/ca/08/76/ca087669-2985-7037-ba26-204eac37171d/source/256x256bb.jpg" group-title="★●• PORTUGAL ●•★",Touradas & Marradas
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/22747.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Netflix" tvg-logo="https://img1.gratispng.com/20191018/tfo/transparent-red-font-text-logo-line-download-netflix-png-icon-picture-for-free-6389315daf18171a43a4.5130568615717560551076.jpg" group-title="★●• PORTUGAL ●•★",Netflix
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="https://img1.gratispng.com/20191018/tfo/transparent-red-font-text-logo-line-download-netflix-png-icon-picture-for-free-6389315daf18171a43a4.5130568615717560551076.jpg",Netflix
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/21428.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Kids" tvg-logo="https://i.pinimg.com/originals/8c/51/0e/8c510ee7de078ac4eaafdb9d15a810dd.png" group-title="★●• PORTUGAL ●•★",Netflix Kids
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/22624.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cine Kids" tvg-logo="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://www.cinemakidz.com/wp-content/uploads/2019/12/256.png" group-title="★●• PORTUGAL ●•★",Cine Kids
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://www.cinemakidz.com/wp-content/uploads/2019/12/256.png",Cine Kids
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/22623.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DC Comics" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/ce/68/bf/ce68bf1f-3ddc-1800-daec-364e022ca838/source/256x256bb.jpg" group-title="★●• PORTUGAL ●•★",DC Comics
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/ce/68/bf/ce68bf1f-3ddc-1800-daec-364e022ca838/source/256x256bb.jpg",DC Comics
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/22625.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Western Movies" tvg-logo="https://www.filmsite.org/images/westerns-genre.jpg" group-title="★●• PORTUGAL ●•★",Western Movies
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="https://www.filmsite.org/images/westerns-genre.jpg",Western Movies
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/21429.m3u8
-#EXTINF:-1 tvg-id="NOSSTUDIOSHD" tvg-name="NOS Studios" tvg-logo="https://github.com/f0nZ/epg-tv-portuguesa/blob/master/logos/NOS%20STUDIOS.png?raw=true" group-title="★●• PORTUGAL ●•★",NOS Studios
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/12136.m3u8
-#EXTINF:-1 tvg-id="NOSSTUDIOSHD" tvg-name="NOS Studiosᴴᴰ" tvg-logo="https://github.com/f0nZ/epg-tv-portuguesa/blob/master/logos/NOS%20STUDIOS%20HD.png?raw=true" group-title="★●• PORTUGAL ●•★",NOS Studiosᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="https://github.com/f0nZ/epg-tv-portuguesa/blob/master/logos/NOS%20STUDIOS%20HD.png?raw=true",NOS Studiosᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/63.m3u8
-#EXTINF:-1 tvg-id="TVCine TOP" tvg-name="TVCine TOP" tvg-logo="http://traquinas.servecounterstrike.com/icones1/tvctop.png" group-title="★●• PORTUGAL ●•★",TVCine TOP
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/tvctop.png",TVCine TOP
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/29842.m3u8
-#EXTINF:-1 tvg-id="TVC1HD" tvg-name="TVCine TOPᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/tvctop.png" group-title="★●• PORTUGAL ●•★",TVCine TOPᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/tvctop.png",TVCine TOPᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18.m3u8
-#EXTINF:-1 tvg-id="TVCINE Edition" tvg-name="TVCine EDITION" tvg-logo="http://traquinas.servecounterstrike.com/icones1/tvcedition.png" group-title="★●• PORTUGAL ●•★",TVCine EDITION
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/tvcedition.png",TVCine EDITION
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/29843.m3u8
-#EXTINF:-1 tvg-id="TVCINE Edition HD" tvg-name="TVCine EDITIONᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/tvcedition.png" group-title="★●• PORTUGAL ●•★",TVCine EDITIONᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/tvcedition.png",TVCine EDITIONᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/16.m3u8
-#EXTINF:-1 tvg-id="TVCINE Emotion" tvg-name="TVCine EMOTION" tvg-logo="http://traquinas.servecounterstrike.com/icones1/tvcemotion.png" group-title="★●• PORTUGAL ●•★",TVCine EMOTION
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/tvcemotion.png",TVCine EMOTION
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/29844.m3u8
-#EXTINF:-1 tvg-id="TVCINE Emotion HD" tvg-name="TVCine EMOTIONᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/tvcemotion.png" group-title="★●• PORTUGAL ●•★",TVCine EMOTIONᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/tvcemotion.png",TVCine EMOTIONᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/14.m3u8
-#EXTINF:-1 tvg-id="TVC4" tvg-name="TVCine ACTION" tvg-logo="http://traquinas.servecounterstrike.com/icones1/tvcaction.png" group-title="★●• PORTUGAL ●•★",TVCine ACTION
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/tvcaction.png",TVCine ACTION
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/29845.m3u8
-#EXTINF:-1 tvg-id="TVC4HD" tvg-name="TVCine ACTIONᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/tvcaction.png" group-title="★●• PORTUGAL ●•★",TVCine ACTIONᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/tvcaction.png",TVCine ACTIONᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/12.m3u8
-#EXTINF:-1 tvg-id="HOLLYWOOD" tvg-name="Hollywood" tvg-logo="http://traquinas.servecounterstrike.com/icones1/hollywood.png" group-title="★●• PORTUGAL ●•★",Hollywood
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/hollywood.png",Hollywood
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/79.m3u8
-#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="Hollywoodᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/hollywoodhd.png" group-title="★●• PORTUGAL ●•★",Hollywoodᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/hollywoodhd.png",Hollywoodᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/78.m3u8
-#EXTINF:-1 tvg-id="CINEMUNDO" tvg-name="Cinemundo" tvg-logo="http://traquinas.servecounterstrike.com/icones1/cinemundo.png" group-title="★●• PORTUGAL ●•★",Cinemundo
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/cinemundo.png",Cinemundo
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/112.m3u8
-#EXTINF:-1 tvg-id="CINEMUNDO HD" tvg-name="Cinemundoᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/CINEMUNDO%2520HD.png" group-title="★●• PORTUGAL ●•★",Cinemundoᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/CINEMUNDO%2520HD.png",Cinemundoᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/2006.m3u8
-#EXTINF:-1 tvg-id="FOX MOVIES" tvg-name="FOX Movies" tvg-logo="http://traquinas.servecounterstrike.com/icones1/foxmovies.png" group-title="★●• PORTUGAL ●•★",FOX Movies
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/foxmovies.png",FOX Movies
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/87.m3u8
-#EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="FOX Moviesᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/FOX%2520MOVIES%2520HD.png" group-title="★●• PORTUGAL ●•★",FOX Moviesᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/FOX%2520MOVIES%2520HD.png",FOX Moviesᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/2011.m3u8
-#EXTINF:-1 tvg-id="AXN Movies PT" tvg-name="AXN Movies" tvg-logo="https://www.axn.pt/sites/pt.axn/files/menu_icons/menu_icon_1178.jpg" group-title="★●• PORTUGAL ●•★",AXN Movies
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="https://www.axn.pt/sites/pt.axn/files/menu_icons/menu_icon_1178.jpg",AXN Movies
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/2004.m3u8
-#EXTINF:-1 tvg-id="AXN Movies PT" tvg-name="AXN Moviesᴴᴰ" tvg-logo="https://www.axn.pt/sites/pt.axn/files/menu_icons/menu_icon_1178.jpg" group-title="★●• PORTUGAL ●•★",AXN Moviesᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="https://www.axn.pt/sites/pt.axn/files/menu_icons/menu_icon_1178.jpg",AXN Moviesᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/133.m3u8
-#EXTINF:-1 tvg-id="SYFY" tvg-name="SyFy" tvg-logo="http://traquinas.servecounterstrike.com/icones1/syfy.png" group-title="★●• PORTUGAL ●•★",SyFy
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/syfy.png",SyFy
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/27.m3u8
-#EXTINF:-1 tvg-id="SYFY HD" tvg-name="SyFyᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/SyFy%2520HD.png" group-title="★●• PORTUGAL ●•★",SyFyᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/SyFy%2520HD.png",SyFyᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/2007.m3u8
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/amc.png" group-title="★●• PORTUGAL ●•★",AMC
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/iconesall/amc.png",AMC
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/135.m3u8
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMCᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/AMC%2520HD.png" group-title="★●• PORTUGAL ●•★",AMCᴴᴰ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/134.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://traquinas.servecounterstrike.com/icones2/AXN.png" group-title="★●• PORTUGAL ●•★",AXN
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/AXN.png",AXN
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/2003.m3u8
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXNᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/axnhd.png" group-title="★●• PORTUGAL ●•★",AXNᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/axnhd.png",AXNᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/132.m3u8
-#EXTINF:-1 tvg-id="AXN WHITE" tvg-name="AXN White" tvg-logo="http://traquinas.servecounterstrike.com/icones2/AXN%2520WHITE.png" group-title="★●• PORTUGAL ●•★",AXN White
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/AXN%2520WHITE.png",AXN White
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/2005.m3u8
-#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXN Whiteᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/axnwhitehd.png" group-title="★●• PORTUGAL ●•★",AXN Whiteᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/axnwhitehd.png",AXN Whiteᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/131.m3u8
-#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="http://traquinas.servecounterstrike.com/icones2/FOX.png" group-title="★●• PORTUGAL ●•★",FOX
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/FOX.png",FOX
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/2008.m3u8
-#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOXᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/foxhd.png" group-title="★●• PORTUGAL ●•★",FOXᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/foxhd.png",FOXᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/89.m3u8
-#EXTINF:-1 tvg-id="FOX CRIME" tvg-name="FOX CRIME" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/foxcrime.png" group-title="★●• PORTUGAL ●•★",FOX CRIME
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/iconesall/foxcrime.png",FOX CRIME
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/2009.m3u8
-#EXTINF:-1 tvg-id="FOX CRIME HD" tvg-name="FOX CRIMEᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/foxcrimehd.png" group-title="★●• PORTUGAL ●•★",FOX CRIMEᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/foxcrimehd.png",FOX CRIMEᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/90.m3u8
-#EXTINF:-1 tvg-id="FOX COMEDY" tvg-name="FOX Comedy" tvg-logo="http://traquinas.servecounterstrike.com/icones1/foxcomedy.png" group-title="★●• PORTUGAL ●•★",FOX Comedy
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/foxcomedy.png",FOX Comedy
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/91.m3u8
-#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="FOX Comedyᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/FOX%2520Comedy%2520HD.png" group-title="★●• PORTUGAL ●•★",FOX Comedyᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/FOX%2520Comedy%2520HD.png",FOX Comedyᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/4858.m3u8
-#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE" tvg-logo="http://traquinas.servecounterstrike.com/icones2/FOX%2520LIFE.png" group-title="★●• PORTUGAL ●•★",FOX LIFE
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/2010.m3u8
-#EXTINF:-1 tvg-id="FOX LIFE HD" tvg-name="FOX LIFEᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/foxlifehd.png" group-title="★●• PORTUGAL ●•★",FOX LIFEᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/foxlifehd.png",FOX LIFEᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/88.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="Discovery Channel" tvg-logo="http://traquinas.servecounterstrike.com/icones1/discovery.png" group-title="★●• PORTUGAL ●•★",Discovery Channel
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/discovery.png",Discovery Channel
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/107.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD" tvg-name="Discovery Channelᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/Discovery%2520Channel%2520HD.png" group-title="★●• PORTUGAL ●•★",Discovery Channelᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/Discovery%2520Channel%2520HD.png",Discovery Channelᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/106.m3u8
-#EXTINF:-1 tvg-id="InvestigationDiscovery" tvg-name="ID Investigation Discovery" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/iddiscovery.png" group-title="★●• PORTUGAL ●•★",ID Investigation Discovery
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/iconesall/iddiscovery.png",ID Investigation Discovery
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/76.m3u8
-#EXTINF:-1 tvg-id="NGCWILD" tvg-name="Nat Geo Wild" tvg-logo="http://traquinas.servecounterstrike.com/icones2/NAT%2520GEO%2520WILD.png" group-title="★●• PORTUGAL ●•★",Nat Geo Wild
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/NAT%2520GEO%2520WILD.png",Nat Geo Wild
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/67.m3u8
-#EXTINF:-1 tvg-id="NGCWILDHD" tvg-name="Nat Geo Wildᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/NAT%2520GEO%2520WILD%2520HD.png" group-title="★●• PORTUGAL ●•★",Nat Geo Wildᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/NAT%2520GEO%2520WILD%2520HD.png",Nat Geo Wildᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/35848.m3u8
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC CHANNEL" tvg-name="National Geographic" tvg-logo="http://traquinas.servecounterstrike.com/icones1/National%2520Geographic.png" group-title="★●• PORTUGAL ●•★",National Geographic
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/5467.m3u8
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC CHANNEL HD" tvg-name="National Geographicᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/nationalgeographichd.png" group-title="★●• PORTUGAL ●•★",National Geographicᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/nationalgeographichd.png",National Geographicᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/68.m3u8
-#EXTINF:-1 tvg-id="HISTÓRIA" tvg-name="History Channel" tvg-logo="http://traquinas.servecounterstrike.com/icones1/historia.png" group-title="★●• PORTUGAL ●•★",History Channel
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/historia.png",History Channel
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/80.m3u8
-#EXTINF:-1 tvg-id="HistoriaHD" tvg-name="History Channelᴴᴰ" tvg-logo="https://i.pinimg.com/originals/f0/f5/85/f0f5853626e544b66b851b80af88ef9a.png" group-title="★●• PORTUGAL ●•★",History Channelᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="https://i.pinimg.com/originals/f0/f5/85/f0f5853626e544b66b851b80af88ef9a.png",History Channelᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/22138.m3u8
-#EXTINF:-1 tvg-id="ODISSEIA" tvg-name="Odisseia" tvg-logo="http://traquinas.servecounterstrike.com/icones1/odisseia.png" group-title="★●• PORTUGAL ●•★",Odisseia
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/odisseia.png",Odisseia
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/62.m3u8
-#EXTINF:-1 tvg-id="ODISSEIAHD" tvg-name="Odisseiaᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/Odisseia.png" group-title="★●• PORTUGAL ●•★",Odisseiaᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/Odisseia.png",Odisseiaᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/2013.m3u8
-#EXTINF:-1 tvg-id="BLAZE" tvg-name="Blaze" tvg-logo="http://traquinas.servecounterstrike.com/icones1/Blaze.png" group-title="★●• PORTUGAL ●•★",Blaze
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/Blaze.png",Blaze
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/126.m3u8
-#EXTINF:-1 tvg-id="BLAZEHD" tvg-name="Blazeᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/blaze.png" group-title="★●• PORTUGAL ●•★",Blazeᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/iconesall/blaze.png",Blazeᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/1989.m3u8
-#EXTINF:-1 tvg-id="Crime + Investigation" tvg-name="Crime+ Investigation" tvg-logo="http://traquinas.servecounterstrike.com/icones2/CRIME%2520INVESTIGATION.png" group-title="★●• PORTUGAL ●•★",Crime+ Investigation
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/CRIME%2520INVESTIGATION.png",Crime+ Investigation
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/108.m3u8
-#EXTINF:-1 tvg-id="Crime + Investigation" tvg-name="Crime+ Investigationᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/CRIME%2520INVESTIGATION.png" group-title="★●• PORTUGAL ●•★",Crime+ Investigationᴴᴰ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/21425.m3u8
-#EXTINF:-1 tvg-id="CBS REALITY" tvg-name="CBS Reality" tvg-logo="http://traquinas.servecounterstrike.com/icones1/cbsreality.png" group-title="★●• PORTUGAL ●•★",CBS Reality
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/cbsreality.png",CBS Reality
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/114.m3u8
-#EXTINF:-1 tvg-id="CACAPESCA" tvg-name="CACAPESCA" tvg-logo="http://traquinas.servecounterstrike.com/icones1/cacaepesca.png" group-title="★●• PORTUGAL ●•★",CACAPESCA
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/cacaepesca.png",CACAPESCA
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/116.m3u8
-#EXTINF:-1 tvg-id="CACAPESCA" tvg-name="CACAPESCAᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/Caza%2520y%2520Pesca.png" group-title="★●• PORTUGAL ●•★",CACAPESCAᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/Caza%2520y%2520Pesca.png",CACAPESCAᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/8077.m3u8
-#EXTINF:-1 tvg-id="Caçavision" tvg-name="CaçaVision" tvg-logo="http://traquinas.servecounterstrike.com/icones1/cacavision.png" group-title="★●• PORTUGAL ●•★",CaçaVision
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/cacavision.png",CaçaVision
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/115.m3u8
-#EXTINF:-1 tvg-id="TOROS" tvg-name="Toros TV" tvg-logo="http://traquinas.servecounterstrike.com/icones1/torostv.png" group-title="★●• PORTUGAL ●•★",Toros TV
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/25.m3u8
-#EXTINF:-1 tvg-id="TOROS" tvg-name="Toros TVᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/Toros%2520TV%2520HD.png" group-title="★●• PORTUGAL ●•★",Toros TVᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/Toros%2520TV%2520HD.png",Toros TVᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/4852.m3u8
-#EXTINF:-1 tvg-id="DOGTV" tvg-name="DOGTV" tvg-logo="http://traquinas.servecounterstrike.com/icones2/DOG%2520TV%2520HD.png" group-title="★●• PORTUGAL ●•★",DOGTV
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/DOG%2520TV%2520HD.png",DOGTV
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/5469.m3u8
-#EXTINF:-1 tvg-id="RTPM" tvg-name="RTP Memoria" tvg-logo="http://traquinas.servecounterstrike.com/icones1/rtpmemoria.png" group-title="★●• PORTUGAL ●•★",RTP Memoria
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/50.m3u8
-#EXTINF:-1 tvg-id="RTPMD" tvg-name="RTP Madeira" tvg-logo="http://traquinas.servecounterstrike.com/icones1/rtpmadeira.png" group-title="★●• PORTUGAL ●•★",RTP Madeira
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/rtpmadeira.png",RTP Madeira
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/51.m3u8
-#EXTINF:-1 tvg-id="RTPAC" tvg-name="RTP Acores" tvg-logo="http://traquinas.servecounterstrike.com/icones1/rtpacores.png" group-title="★●• PORTUGAL ●•★",RTP Acores
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/rtpacores.png",RTP Acores
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/52.m3u8
-#EXTINF:-1 tvg-id="RTPA" tvg-name="RTP Africa" tvg-logo="http://traquinas.servecounterstrike.com/icones1/rtpafrica.png" group-title="★●• PORTUGAL ●•★",RTP Africa
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/rtpafrica.png",RTP Africa
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/58.m3u8
-#EXTINF:-1 tvg-id="CanalQB" tvg-name="Canal Q" tvg-logo="http://traquinas.servecounterstrike.com/icones1/canalq.png" group-title="★●• PORTUGAL ●•★",Canal Q
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/119.m3u8
-#EXTINF:-1 tvg-id="TPA INTERNACIONAL" tvg-name="TPA Internacional" tvg-logo="http://traquinas.servecounterstrike.com/icones2/TPA%2520INTERNACIONAL.png" group-title="★●• PORTUGAL ●•★",TPA Internacional
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/TPA%2520INTERNACIONAL.png",TPA Internacional
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/2056.m3u8
-#EXTINF:-1 tvg-id="FRANCE 24 (I)" tvg-name="France 24 (I)" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/france24i.png" group-title="★●• PORTUGAL ●•★",France 24 (I)
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/85.m3u8
-#EXTINF:-1 tvg-id="BLOOMBERG" tvg-name="Bloomberg" tvg-logo="http://traquinas.servecounterstrike.com/icones1/bloomberg.png" group-title="★●• PORTUGAL ●•★",Bloomberg
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/bloomberg.png",Bloomberg
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/125.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="http://traquinas.servecounterstrike.com/icones1/cnn.png" group-title="★●• PORTUGAL ●•★",CNN
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/cnn.png",CNN
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/109.m3u8
-#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/cnbc.png" group-title="★●• PORTUGAL ●•★",CNBC
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/iconesall/cnbc.png",CNBC
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/110.m3u8
-#EXTINF:-1 tvg-id="BBCW" tvg-name="BBC World News" tvg-logo="http://traquinas.servecounterstrike.com/icones1/bbcworldnews.png" group-title="★●• PORTUGAL ●•★",BBC World News
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/128.m3u8
-#EXTINF:-1 tvg-id="BBC ENTERTAINMENT" tvg-name="BBC Entertainment" tvg-logo="http://traquinas.servecounterstrike.com/icones1/bbcentertainment.png" group-title="★●• PORTUGAL ●•★",BBC Entertainment
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/129.m3u8
-#EXTINF:-1 tvg-id="24 KITCHEN HD" tvg-name="24 Kitchenᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/24kitchenhd.png" group-title="★●• PORTUGAL ●•★",24 Kitchenᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/24kitchenhd.png",24 Kitchenᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/138.m3u8
-#EXTINF:-1 tvg-id="FOODNETWORKHD" tvg-name="Food Network	" tvg-logo="http://traquinas.servecounterstrike.com/icones1/foodnetwork.png" group-title="★●• PORTUGAL ●•★",Food Network	
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/foodnetwork.png",Food Network
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/5457.m3u8
-#EXTINF:-1 tvg-id="Casa e Cozinha HD PT" tvg-name="Casa e Cozinha HD" tvg-logo="https://uploads-eu-west-1.insided.com/nos-pt/attachment/4f8fb888-2ed7-4de5-86cb-bc4ddc6eb23e.png" group-title="★●• PORTUGAL ●•★",Casa e Cozinha HD
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="https://uploads-eu-west-1.insided.com/nos-pt/attachment/4f8fb888-2ed7-4de5-86cb-bc4ddc6eb23e.png",Casa e Cozinha HD
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/21270.m3u8
-#EXTINF:-1 tvg-id="E! ENTERTAINMENT" tvg-name="E! Entertainment" tvg-logo="http://traquinas.servecounterstrike.com/icones1/eentertainment.png" group-title="★●• PORTUGAL ●•★",E! Entertainment
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/eentertainment.png",E! Entertainment
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/103.m3u8
-#EXTINF:-1 tvg-id="FTV" tvg-name="Fashion TV" tvg-logo="http://traquinas.servecounterstrike.com/icones1/fashion.png" group-title="★●• PORTUGAL ●•★",Fashion TV
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/fashion.png",Fashion TV
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/84.m3u8
-#EXTINF:-1 tvg-id="TRAVELHD" tvg-name="Travel Channel" tvg-logo="http://traquinas.servecounterstrike.com/icones2/TRAVEL%2520CHANNEL%2520HD.png" group-title="★●• PORTUGAL ●•★",Travel Channel
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/TRAVEL%2520CHANNEL%2520HD.png",Travel Channel
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/22.m3u8
-#EXTINF:-1 tvg-id="ZAPVIVAHD" tvg-name="Zap Vivaᴴᴰ" tvg-logo="http://www.zap.co.ao/media/cache/news_main/uploads/ao/news/597715032f01d.png" group-title="★●• PORTUGAL ●•★",Zap Vivaᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://www.zap.co.ao/media/cache/news_main/uploads/ao/news/597715032f01d.png",Zap Vivaᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/1.m3u8
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://traquinas.servecounterstrike.com/icones1/tlc.png" group-title="★●• PORTUGAL ●•★",TLC
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/tlc.png",TLC
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/26.m3u8
-#EXTINF:-1 tvg-id="MTV Portugal" tvg-name="MTV " tvg-logo="http://traquinas.servecounterstrike.com/icones1/mtvportugal.png" group-title="★●• PORTUGAL ●•★",MTV 
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/mtvportugal.png",MTV
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/70.m3u8
-#EXTINF:-1 tvg-id="AFRO MUSIC" tvg-name="Afro Music" tvg-logo="http://traquinas.servecounterstrike.com/icones1/afromusic.png" group-title="★●• PORTUGAL ●•★",Afro Music
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/afromusic.png",Afro Music
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/136.m3u8
-#EXTINF:-1 tvg-id="TRACE URBAN HD" tvg-name="Trace Urban" tvg-logo="http://traquinas.servecounterstrike.com/icones1/traceurban.png" group-title="★●• PORTUGAL ●•★",Trace Urban
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/traceurban.png",Trace Urban
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/23.m3u8
-#EXTINF:-1 tvg-id="TRACE TOCA" tvg-name="Trace Toca" tvg-logo="https://trace.tv/trace-toca/wp-content/uploads/2016/11/logo_toca2.png" group-title="★●• PORTUGAL ●•★",Trace Toca
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="https://trace.tv/trace-toca/wp-content/uploads/2016/11/logo_toca2.png",Trace Toca
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/24.m3u8
-#EXTINF:-1 tvg-id="TRACE BRAZUCA" tvg-name="Trace Brazucaᴴᴰ" tvg-logo="https://uploads-eu-west-1.insided.com/meo-pt/attachment/30115b91-e9a4-4581-a1e6-53541dd6cd54_thumb.png" group-title="★●• PORTUGAL ●•★",Trace Brazucaᴴᴰ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/22423.m3u8
-#EXTINF:-1 tvg-id="TraceAfrica.fr" tvg-name="Trace Africaᴴᴰ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/traceafrica.png" group-title="★●• PORTUGAL ●•★",Trace Africaᴴᴰ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/4856.m3u8
-#EXTINF:-1 tvg-id="TraceLatina.fr" tvg-name="TRACE Latina" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/tracetropical.png" group-title="★●• PORTUGAL ●•★",TRACE Latina
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/5462.m3u8
-#EXTINF:-1 tvg-id="TraceNaija.fr" tvg-name="TRACE NAIJA" tvg-logo="https://pbs.twimg.com/profile_images/1085837474855862272/hTVm-Vte_reasonably_small.jpg" group-title="★●• PORTUGAL ●•★",TRACE NAIJA
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/5464.m3u8
-#EXTINF:-1 tvg-id="MCM POP" tvg-name="MCM Pop" tvg-logo="http://traquinas.servecounterstrike.com/icones1/mcmpop.png" group-title="★●• PORTUGAL ●•★",MCM Pop
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/mcmpop.png",MCM Pop
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/73.m3u8
-#EXTINF:-1 tvg-id="CLUBBING TV" tvg-name="Clubbing TV" tvg-logo="https://pbs.twimg.com/profile_images/413985898787647488/XeAPJuQH.png" group-title="★●• PORTUGAL ●•★",Clubbing TV
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/5465.m3u8
-#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="http://traquinas.servecounterstrike.com/icones2/VH1.png" group-title="★●• PORTUGAL ●•★",VH1
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/VH1.png",VH1
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/2.m3u8
-#EXTINF:-1 tvg-id="VH1 CLASSIC" tvg-name="VH1 CLASSIC" tvg-logo="https://seeklogo.com/images/V/vh1-classic-logo-4B212D3683-seeklogo.com.png" group-title="★●• PORTUGAL ●•★",VH1 CLASSIC
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="https://seeklogo.com/images/V/vh1-classic-logo-4B212D3683-seeklogo.com.png",VH1 CLASSIC
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/22440.m3u8
-#EXTINF:-1 tvg-id="MEZZO" tvg-name="MEZZO" tvg-logo="http://traquinas.servecounterstrike.com/icones1/mezzo.png" group-title="★●• PORTUGAL ●•★",MEZZO
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones1/mezzo.png",MEZZO
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/72.m3u8
-#EXTINF:-1 tvg-id="CANÇÃO NOVA" tvg-name="Canção Nova" tvg-logo="http://traquinas.servecounterstrike.com/icones2/TV%2520CANCAO%2520NOVA.png" group-title="★●• PORTUGAL ●•★",Canção Nova
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="http://traquinas.servecounterstrike.com/icones2/TV%2520CANCAO%2520NOVA.png",Canção Nova
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/118.m3u8
-#EXTINF:-1 tvg-id="TV Fatima PT" tvg-name="Santuario De Fátimaᴴᴰ" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple117/v4/99/e1/64/99e1643c-1fd0-f541-96d3-17d34deb7f97/source/256x256bb.jpg" group-title="★●• PORTUGAL ●•★",Santuario De Fátimaᴴᴰ
+#EXTINF:-1 group-title=" PORTUGAL " tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple117/v4/99/e1/64/99e1643c-1fd0-f541-96d3-17d34deb7f97/source/256x256bb.jpg",Santuario De Fátimaᴴᴰ
 http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/1060.m3u8
-#EXTINF:-1 tvg-id="Kuriakos TV (PT)" tvg-name="KURIAKOS TV HD" tvg-logo="http://pt.heytv.org/wp-content/uploads/2019/04/Kuriakos-webtvonlive-com.jpg" group-title="★●• PORTUGAL ●•★",KURIAKOS TV HD
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/20195.m3u8
-#EXTINF:-1 tvg-id="RTP1" tvg-name="RTP 1ᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/rtp1.png" group-title="★●• PORTUGAL LOW ●•★",RTP 1ᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18830.m3u8
-#EXTINF:-1 tvg-id="SIC" tvg-name="SICᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/sic.png" group-title="★●• PORTUGAL LOW ●•★",SICᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18832.m3u8
-#EXTINF:-1 tvg-id="TVI" tvg-name="TVIᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/tvi.png" group-title="★●• PORTUGAL LOW ●•★",TVIᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18833.m3u8
-#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTVᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/cmtv.png" group-title="★●• PORTUGAL LOW ●•★",CMTVᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18834.m3u8
-#EXTINF:-1 tvg-id="TVI24" tvg-name="TVI 24ᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/tvi24.png" group-title="★●• PORTUGAL LOW ●•★",TVI 24ᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18835.m3u8
-#EXTINF:-1 tvg-id="SICN" tvg-name="SIC Noticiasᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/sicnoticias.png" group-title="★●• PORTUGAL LOW ●•★",SIC Noticiasᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18836.m3u8
-#EXTINF:-1 tvg-id="CANAL 11 HD" tvg-name="Canal 11ᴸᴼᵂ" tvg-logo="https://pbs.twimg.com/profile_images/1149003835165302784/YSwsO1Lj_400x400.jpg" group-title="★●• PORTUGAL LOW ●•★",Canal 11ᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18837.m3u8
-#EXTINF:-1 tvg-id="A BOLA TV" tvg-name="A Bola TVᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/abolatv.png" group-title="★●• PORTUGAL LOW ●•★",A Bola TVᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18838.m3u8
-#EXTINF:-1 tvg-id="TVI FICÇÃO" tvg-name="TVI Ficçãoᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/tvificcao.png" group-title="★●• PORTUGAL LOW ●•★",TVI Ficçãoᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18839.m3u8
-#EXTINF:-1 tvg-id="SICCARAS" tvg-name="SIC Carasᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/siccaras.png" group-title="★●• PORTUGAL LOW ●•★",SIC Carasᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18840.m3u8
-#EXTINF:-1 tvg-id="SICM" tvg-name="SIC Mulherᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/sicmulher.png" group-title="★●• PORTUGAL LOW ●•★",SIC Mulherᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18841.m3u8
-#EXTINF:-1 tvg-id="SICR" tvg-name="SIC Radicalᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/sicradical.png" group-title="★●• PORTUGAL LOW ●•★",SIC Radicalᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18842.m3u8
-#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globoᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/globo.png" group-title="★●• PORTUGAL LOW ●•★",Globoᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18843.m3u8
-#EXTINF:-1 tvg-id="SPTV_1" tvg-name="Sport TV 1ᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/sporttv1.png" group-title="★●• PORTUGAL LOW ●•★",Sport TV 1ᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18846.m3u8
-#EXTINF:-1 tvg-id="SPTV_2" tvg-name="Sport TV 2ᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/sporttv2.png" group-title="★●• PORTUGAL LOW ●•★",Sport TV 2ᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18847.m3u8
-#EXTINF:-1 tvg-id="SPTV_3" tvg-name="Sport TV 3ᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/sporttv3.png" group-title="★●• PORTUGAL LOW ●•★",Sport TV 3ᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18848.m3u8
-#EXTINF:-1 tvg-id="SPTV_4" tvg-name="Sport TV 4ᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/sporttv4.png" group-title="★●• PORTUGAL LOW ●•★",Sport TV 4ᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18849.m3u8
-#EXTINF:-1 tvg-id="SPTV_5" tvg-name="Sport TV 5ᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/sporttv5.png" group-title="★●• PORTUGAL LOW ●•★",Sport TV 5ᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18850.m3u8
-#EXTINF:-1 tvg-id="BENFICATV1" tvg-name="Benfica TVᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/BTV%25201.png" group-title="★●• PORTUGAL LOW ●•★",Benfica TVᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18852.m3u8
-#EXTINF:-1 tvg-id="canalnos1" tvg-name="Eleven Sports 1ᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/elevensports1.png" group-title="★●• PORTUGAL LOW ●•★",Eleven Sports 1ᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18853.m3u8
-#EXTINF:-1 tvg-id="canalnos2" tvg-name="Eleven Sports 2ᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/elevensports2.png" group-title="★●• PORTUGAL LOW ●•★",Eleven Sports 2ᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18854.m3u8
-#EXTINF:-1 tvg-id="DESP3HD" tvg-name="Eleven Sports 3ᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/elevensports3.png" group-title="★●• PORTUGAL LOW ●•★",Eleven Sports 3ᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18855.m3u8
-#EXTINF:-1 tvg-id="EUROS" tvg-name="Eurosport 1ᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/eurosport1.png" group-title="★●• PORTUGAL LOW ●•★",Eurosport 1ᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18856.m3u8
-#EXTINF:-1 tvg-id="TVC1" tvg-name="TV Cine TOPᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/tvctop.png" group-title="★●• PORTUGAL LOW ●•★",TV Cine TOPᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18857.m3u8
-#EXTINF:-1 tvg-id="TVC2" tvg-name="TV Cine Editionᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/tvcedition.png" group-title="★●• PORTUGAL LOW ●•★",TV Cine Editionᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18858.m3u8
-#EXTINF:-1 tvg-id="TVC3" tvg-name="TV Cine Emotionᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/tvcemotion.png" group-title="★●• PORTUGAL LOW ●•★",TV Cine Emotionᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18859.m3u8
-#EXTINF:-1 tvg-id="TVC4" tvg-name="TV Cine Actionᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/icones1/tvcaction.png" group-title="★●• PORTUGAL LOW ●•★",TV Cine Actionᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18860.m3u8
-#EXTINF:-1 tvg-id="NOSSTUDIOSHD" tvg-name="Nos Studiosᴸᴼᵂ" tvg-logo="https://www.nos.pt/particulares/PublishingImages/Banners/NOSStudios/thumbNOSStudios.png" group-title="★●• PORTUGAL LOW ●•★",Nos Studiosᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18861.m3u8
-#EXTINF:-1 tvg-id="HOLLY" tvg-name="Hollywoodᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/hollywood.png" group-title="★●• PORTUGAL LOW ●•★",Hollywoodᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18862.m3u8
-#EXTINF:-1 tvg-id="CINEMUNDO" tvg-name="Cinemundoᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/cinemundo.png" group-title="★●• PORTUGAL LOW ●•★",Cinemundoᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18863.m3u8
-#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFYᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/syfy.png" group-title="★●• PORTUGAL LOW ●•★",SYFYᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18864.m3u8
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMCᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/amc.png" group-title="★●• PORTUGAL LOW ●•★",AMCᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18865.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXNᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/axn.png" group-title="★●• PORTUGAL LOW ●•★",AXNᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18866.m3u8
-#EXTINF:-1 tvg-id="AXN MOVIES HD" tvg-name="AXN Moviesᴸᴼᵂ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg" group-title="★●• PORTUGAL LOW ●•★",AXN Moviesᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18867.m3u8
-#EXTINF:-1 tvg-id="SET" tvg-name="AXN Whiteᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/axnwhite.png" group-title="★●• PORTUGAL LOW ●•★",AXN Whiteᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18868.m3u8
-#EXTINF:-1 tvg-id="FOX" tvg-name="FOXᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/fox.png" group-title="★●• PORTUGAL LOW ●•★",FOXᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18869.m3u8
-#EXTINF:-1 tvg-id="FX" tvg-name="FOX Comedyᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/foxcomedy.png" group-title="★●• PORTUGAL LOW ●•★",FOX Comedyᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18870.m3u8
-#EXTINF:-1 tvg-id="FOXCRIME" tvg-name="FOX Crimeᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/foxcrime.png" group-title="★●• PORTUGAL LOW ●•★",FOX Crimeᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18871.m3u8
-#EXTINF:-1 tvg-id="FOXLIFE" tvg-name="FOX Lifeᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/foxlife.png" group-title="★●• PORTUGAL LOW ●•★",FOX Lifeᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18872.m3u8
-#EXTINF:-1 tvg-id="FOXMOVIES" tvg-name="FOX Moviesᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/foxmovies.png" group-title="★●• PORTUGAL LOW ●•★",FOX Moviesᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18873.m3u8
-#EXTINF:-1 tvg-id="PANDA" tvg-name="Canal Pandaᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/canalpanda.png" group-title="★●• PORTUGAL LOW ●•★",Canal Pandaᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18874.m3u8
-#EXTINF:-1 tvg-id="DISNY" tvg-name="Disney Channelᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/disney.png" group-title="★●• PORTUGAL LOW ●•★",Disney Channelᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18875.m3u8
-#EXTINF:-1 tvg-id="SIC K" tvg-name="SIC Kidsᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/icones2/SIC%2520K.png" group-title="★●• PORTUGAL LOW ●•★",SIC Kidsᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18877.m3u8
-#EXTINF:-1 tvg-id="ODIS" tvg-name="Odisseiaᴸᴼᵂ" tvg-logo="http://traquinas.servecounterstrike.com/iconesall/odisea.png" group-title="★●• PORTUGAL LOW ●•★",Odisseiaᴸᴼᵂ
-http://asd.thefuture-tvip.xyz:8080/live/Irmao/Bruno/18878.m3u8
