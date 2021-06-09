@@ -316,7 +316,7 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BF290B33CBBAD62C6D8
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A026F7248B00E438401D1A1C03967EDD18123F06
 #EXTINF:0 tvg-logo="https://img.yts.mx/assets/images/movies/Second_in_Command_2006/medium-cover.jpg" group-title="FILMES",   Segundo no comando[COLOR yellow][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:625DB837744D4260C714551AC31BC85351F67A5C
-#EXTINF:0 tvg-logo="https://img.yts.mx/assets/images/movies/late_phases_2014/medium-cover.jpg" group-title="FILMES",  Noite do lobo
+#EXTINF:0 tvg-logo="https://img.yts.mx/assets/images/movies/late_phases_2014/medium-cover.jpg" group-title="FILMES",  Noite do lobo [COLOR yellow][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
 2014[COLOR yellow][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:575385B72C86C3ED2FC9B44B67113D2496A324A0
 #EXTINF:0 tvg-logo="https://img.yts.mx/assets/images/movies/The_Island_2005/medium-cover.jpg" group-title="FILMES",   A ilha[COLOR yellow][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
