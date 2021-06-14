@@ -259,6 +259,204 @@ http://e.advd.cyou:80/123456/123456/218432
 http://e.advd.cyou:80/123456/123456/218433
 #EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Variedades/tlc.png",TLC FHD H265
 http://e.advd.cyou:80/123456/123456/218434
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://st1.horizonplay.io:8080/icon/2380-b-1579913535139.png",Fox FHD H265
+http://e.advd.cyou:80/123456/123456/218335
+#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://st1.horizonplay.io:8080/icon/2380-b-1579913535139.png",Fox 4K *
+http://e.advd.cyou:80/123456/123456/218336
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/fox-premium.png",Fox Premium 1 FHD H265
+http://e.advd.cyou:80/123456/123456/218337
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/fox-premium.png",Fox Premium 1 FHD H265 *
+http://e.advd.cyou:80/123456/123456/218338
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/fox-premium-2.png",Fox Premium 2 FHD H265
+http://e.advd.cyou:80/123456/123456/218339
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/fox-premium-2.png",Fox Premium 2 FHD H265³
+http://e.advd.cyou:80/123456/123456/218340
+#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png",Fox Sports H.265
+http://e.advd.cyou:80/123456/123456/218341
+#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png",Fox Sports H.265²
+http://e.advd.cyou:80/123456/123456/218342
+#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png",Fox Sports 2 H.265
+http://e.advd.cyou:80/123456/123456/218343
+#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png",Fox Sports 2 4K²
+http://e.advd.cyou:80/123456/123456/218345
+#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png",Fox Sports 4K²
+http://e.advd.cyou:80/123456/123456/218346
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/FX.png",FX FHD H265
+http://e.advd.cyou:80/123456/123456/218347
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/FX.png",FX FHD H265 *
+http://e.advd.cyou:80/123456/123456/218348
+#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://st1.horizonplay.io:8080/icon/4350-b-1579808641649.png",Gazeta 4K *
+http://e.advd.cyou:80/123456/123456/218349
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png",Globo SP FHD H265³
+http://e.advd.cyou:80/123456/123456/218350
+#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png",Globo 4K³
+http://e.advd.cyou:80/123456/123456/218351
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Infantil/Gloob.png",Gloob FHD H265
+http://e.advd.cyou:80/123456/123456/218353
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Variedades/gnt.png",GNT FHD H265
+http://e.advd.cyou:80/123456/123456/218354
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://st1.horizonplay.io:8080/icon/4660-b-1579639727100.png",H2 FHD H265
+http://e.advd.cyou:80/123456/123456/218355
+#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO.png",HBO H.265
+http://e.advd.cyou:80/123456/123456/218356
+#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO.png",HBO 4K *
+http://e.advd.cyou:80/123456/123456/218358
+#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-2.png",HBO 2 H.265
+http://e.advd.cyou:80/123456/123456/218359
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-Xtreme.png",HBO Xtreme FHD H265
+http://e.advd.cyou:80/123456/123456/218360
+#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-Xtreme.png",HBO Xtreme 4K³
+http://e.advd.cyou:80/123456/123456/218361
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://st1.horizonplay.io:8080/icon/1621-b-1579904625815.png",HBO Familly FHD H265
+http://e.advd.cyou:80/123456/123456/218362
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-Mundi.png",HBO Mundi FHD H265
+http://e.advd.cyou:80/123456/123456/218363
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-Mundi.png",HBO Mundi FHD H265³
+http://e.advd.cyou:80/123456/123456/218364
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-plus.png",HBO Plus FHD H265
+http://e.advd.cyou:80/123456/123456/218365
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-pop.png",HBO Pop FHD H265
+http://e.advd.cyou:80/123456/123456/218366
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-pop.png",HBO Pop FHD H265 *
+http://e.advd.cyou:80/123456/123456/218367
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-Signature.png",HBO Signature FHD H265
+http://e.advd.cyou:80/123456/123456/218368
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-Xtreme.png",HBO Xtreme FHD H265 *
+http://e.advd.cyou:80/123456/123456/218369
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/History.png",History FHD H265
+http://e.advd.cyou:80/123456/123456/218370
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Variedades/HGTV.png",HGTV FHD H265
+http://e.advd.cyou:80/123456/123456/218372
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/ID-Investigation-Discovery.png",ID - Investigation Discovery FHD H265
+http://e.advd.cyou:80/123456/123456/218374
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/ID-Investigation-Discovery.png",ID - Investigation Discovery FHD H265 *
+http://e.advd.cyou:80/123456/123456/218375
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Variedades/lifetime.png",Lifetime FHD H265
+http://e.advd.cyou:80/123456/123456/218376
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Variedades/mais-globosat.png",Mais Globosat FHD H265
+http://e.advd.cyou:80/123456/123456/218377
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/megapix.png",Megapix FHD H265
+http://e.advd.cyou:80/123456/123456/218378
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/megapix.png",Megapix FHD H265 *
+http://e.advd.cyou:80/123456/123456/218379
+#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/megapix.png",Megapix 4K *
+http://e.advd.cyou:80/123456/123456/218380
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Musicas/mtv.png",MTV FHD H265
+http://e.advd.cyou:80/123456/123456/218381
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Musicas/multishow.png",Multishow FHD H265
+http://e.advd.cyou:80/123456/123456/218382
+#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Musicas/multishow.png",Multishow 4K *
+http://e.advd.cyou:80/123456/123456/218383
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/NatGeo.png",NatGeo FHD H265
+http://e.advd.cyou:80/123456/123456/218384
+#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/NatGeo.png",NatGeo 4K³
+http://e.advd.cyou:80/123456/123456/218385
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/NatGeo-Wild.png",NatGeo Wild FHD H265
+http://e.advd.cyou:80/123456/123456/218386
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Infantil/NatGeo-Kids.png",NatGeo Kids FHD H265
+http://e.advd.cyou:80/123456/123456/218387
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Infantil/nickelodeon.png",Nick FHD H265
+http://e.advd.cyou:80/123456/123456/218388
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Infantil/nick-jr.png",Nick Jr FHD H265
+http://e.advd.cyou:80/123456/123456/218389
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Variedades/OFF.png",OFF FHD H265
+http://e.advd.cyou:80/123456/123456/218390
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/paramount%20.png",Paramount FHD H265
+http://e.advd.cyou:80/123456/123456/218392
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png",Premiere Clubes FHD H265
+http://e.advd.cyou:80/123456/123456/218393
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png",Premiere Clubes FHD H265 *
+http://e.advd.cyou:80/123456/123456/218394
+#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png",Premiere Clubes 4K³
+http://e.advd.cyou:80/123456/123456/218395
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png",Premiere 2 FHD H265
+http://e.advd.cyou:80/123456/123456/218396
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png",Premiere 3 FHD H265
+http://e.advd.cyou:80/123456/123456/218397
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png",Premiere 4 FHD H265
+http://e.advd.cyou:80/123456/123456/218398
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png",Premiere 5 FHD H265
+http://e.advd.cyou:80/123456/123456/218399
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png",Premiere 6 FHD H265
+http://e.advd.cyou:80/123456/123456/218400
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png",Premiere 7 FHD H265
+http://e.advd.cyou:80/123456/123456/218401
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-Record/rede-record.png",Record TV Goiania FHD H265
+http://e.advd.cyou:80/123456/123456/218403
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://st1.horizonplay.io:8080/icon/4420-b-1579659158370.png",RedeTV! FHD H265
+http://e.advd.cyou:80/123456/123456/218404
+#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://st1.horizonplay.io:8080/icon/4420-b-1579659158370.png",RedeTV! 4K *
+http://e.advd.cyou:80/123456/123456/218405
+#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://st1.horizonplay.io:8080/icon/4420-b-1579659158370.png",RedeTV! 4K **
+http://e.advd.cyou:80/123456/123456/218406
+#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://st1.horizonplay.io:8080/icon/4370-b-1579989472915.png",SBT 4K *
+http://e.advd.cyou:80/123456/123456/218407
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://st1.horizonplay.io:8080/icon/4375-b-1579994779649.png",SBT TV Serra Dourada FHD H265
+http://e.advd.cyou:80/123456/123456/218408
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/space.png",Space FHD H265
+http://e.advd.cyou:80/123456/123456/218409
+#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/space.png",Space 4K³
+http://e.advd.cyou:80/123456/123456/218411
+#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png",SporTV H.265
+http://e.advd.cyou:80/123456/123456/218412
+#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png",SporTV H.265²
+http://e.advd.cyou:80/123456/123456/218413
+#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png",SporTV 4K²
+http://e.advd.cyou:80/123456/123456/218414
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-2.png",SporTV 2 H265
+http://e.advd.cyou:80/123456/123456/218415
+#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-3.png",SporTV 3 H.265
+http://e.advd.cyou:80/123456/123456/218417
+#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-3.png",SporTV 3 H.265²
+http://e.advd.cyou:80/123456/123456/218418
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/studio-universal.png",Studio Universal FHD H265
+http://e.advd.cyou:80/123456/123456/218419
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/SYFY.png",SYFY FHD H265
+http://e.advd.cyou:80/123456/123456/218420
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/TBS.png",TBS FHD H265
+http://e.advd.cyou:80/123456/123456/218421
+#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-Action.png",Telecine Action H.265
+http://e.advd.cyou:80/123456/123456/218422
+#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-cult-logo-2.png",Telecine Cult H.265
+http://e.advd.cyou:80/123456/123456/218424
+#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-Fun.png",Telecine Fun H.265
+http://e.advd.cyou:80/123456/123456/218425
+#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-Fun.png",Telecine Fun H.265²
+http://e.advd.cyou:80/123456/123456/218426
+#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-pipoca.png",Telecine Pipoca H.265
+http://e.advd.cyou:80/123456/123456/218427
+#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-pipoca.png",Telecine Pipoca H.265²
+http://e.advd.cyou:80/123456/123456/218428
+#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-pipoca.png",Telecine Pipoca 4K²
+http://e.advd.cyou:80/123456/123456/218429
+#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-premium.png",Telecine Premium H.265
+http://e.advd.cyou:80/123456/123456/218430
+#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-premium.png",Telecine Premium  H.265²
+http://e.advd.cyou:80/123456/123456/218431
+#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-premium.png",Telecine Premium 4K²
+http://e.advd.cyou:80/123456/123456/218432
+#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-touch.png",Telecine Touch  H.265
+http://e.advd.cyou:80/123456/123456/218433
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Variedades/tlc.png",TLC FHD H265
+http://e.advd.cyou:80/123456/123456/218434
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/TNT.png",TNT FHD H265
+http://e.advd.cyou:80/123456/123456/218435
+#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/TNT.png",TNT 4K *
+http://e.advd.cyou:80/123456/123456/218436
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/TNT-series.png",TNT Series FHD H265
+http://e.advd.cyou:80/123456/123456/218437
+#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/TNT-series.png",TNT Series 4K *
+http://e.advd.cyou:80/123456/123456/218439
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://st1.horizonplay.io:8080/icon/100-b-1573492375805.png",Tv Anhaguera FHD H265
+http://e.advd.cyou:80/123456/123456/218440
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/Universal-tv.png",Universal Tv FHD H265
+http://e.advd.cyou:80/123456/123456/218441
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Musicas/VH1.png",VH1 FHD H265
+http://e.advd.cyou:80/123456/123456/218443
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/Warner.png",Warner FHD H265
+http://e.advd.cyou:80/123456/123456/218444
+#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Variedades/woohoo.png",Woohoo FHD H265
+http://e.advd.cyou:80/123456/123456/218446
 #EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/TNT.png",TNT FHD H265
 http://e.advd.cyou:80/123456/123456/218435
 #EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/TNT.png",TNT 4K *
