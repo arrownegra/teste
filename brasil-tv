@@ -38,7 +38,8 @@ https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=641032935
 #EXTINF:-1 group-title="RedeTV" tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png",REDETV
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=7485000014348485000
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxCanais Tv ABERTAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxCanais TV Abertalxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 #EXTINF:-1 group-title="TV Aberta" tvg-logo="http://127.0.0.1/",GLOBO RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 #EXTINF:-1 group-title="TV Aberta" tvg-logo="http://127.0.0.1/",Globo RJ HD
@@ -107,8 +108,6 @@ http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/cLIdzw6.png",SBT HD
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1846566125_b216000_sleng.m3u8
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/cLIdzw6.png",SBT
-http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/Fh4SQ6L.png",BAND
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w16814077.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/YVPa4BB.png",REDETV! (Tocantins)
@@ -117,8 +116,6 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://www.redefamilia.com.br/wp-content/uploads/2019/02/logo_20_Anos-1.png",REDE FAMÍLIA
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.wixstatic.com/media/30f5ac_ceb7fad6e711455bbedba1131783e9da~mv2.png/v1/fill/w_121,h_31,al_c,usm_0.66_1.00_0.01/30f5ac_ceb7fad6e711455bbedba1131783e9da~mv2.png",ALL SPORTS BR
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1650280825.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/wMim9ai.jpg",YEEAAH
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/QFuVr5O.png",REDE BRASIL
@@ -129,12 +126,8 @@ https://59f1cbe63db89.streamlock.net:1443/tvbrusque/_definst_/tvbrusque/chunklis
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?Ita
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Rede_Meio_Norte.jpg",REDE METRÓPOLE (Rede Meio Norte)
 http://187.33.200.235:9000/hls/redemetropole.m3u8
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Rede_Meio_Norte.jpg",TV DO POVO (Rede Meio Norte)
-https://5cf4a2c2512a2.streamlock.net/tvdopovo1/tvdopovo1/chunklist_w2066036014.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/nFNKZ6W.jpg",TV ESTADO (Top TV)
 https://cdn.jmvstream.com/w/AVJ-9094/playlist/chunklist.m3u8
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://tv8brasil.com/wp-content/uploads/2020/05/logo_tv8_site_novo_2020.png",TV 8
-https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://pa-str.srvsite.com/arquivos/6234/cabecalho-6234-20201128201422.png",TV 8 RO
 https://stmv3.samcast.com.br/jose8272/jose8272/chunklist_w1342332292.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/slWITgo.png",TV CULTURA HD (Catve)
@@ -143,12 +136,6 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIA
 https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://tvbrasil.ebc.com.br/sites/default/themes/tvbrasil/img/logo_tvbrasil_201904.png",TV BRASIL (TVE Bahia)
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://tvbrasil.ebc.com.br/sites/default/themes/tvbrasil/img/logo_tvbrasil_201904.png",TV BRASIL (TVE Brasil)
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/SpFD1Uo.jpg",NOVA TV VALE
-https://5b7f3c45ab7c2.streamlock.net/8016/ngrp:8016/chunklist_w1899225291_b828000_DVR.m3u8
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://yata-apix-f3cc8007-25d7-45c8-98ed-24d9402d3c76.lss.locawebcorp.com.br/b3f6c3a71bfb45199b0fb19bf54f52ef.png",REDE NGT
-https://cdn.jmvstream.com/w/AVJ-9644/playlist/chunklist.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/100987566f7a57c654ac6f94c2a42b86.png",TV METRÓPOLE
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w2133373253.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/331000de68258bdb7681313d840ec833.png",TV POÇOS
@@ -175,8 +162,6 @@ https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w1656747096.m3u8
 http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
 #EXTINF:-1 group-title="Canais | Abertos",TV KIDMAIS
 https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8
-#EXTINF:-1 group-title="Canais | Abertos",NB TV
-https://5d82644094cc0.streamlock.net/8026/8026/chunklist_w1857902543.m3u8
 #EXTINF:-1 group-title="Canais | Abertos",TV NOVA ONDA
 https://5c483b9d1019c.streamlock.net/8078/8078/chunklist_w616485768.m3u8
 #EXTINF:-1 group-title="Canais | Abertos",TV ALTIORA
@@ -191,8 +176,6 @@ http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 http://eventials-i.akamaihd.net/hls/live/746370/uymfm3v51659vk7t/playlist.m3u8
 #EXTINF:-1 group-title="Canais | Abertos",GNMTV
 https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/chunklist_w1107061616.m3u8
-#EXTINF:-1 group-title="Canais | Abertos",NOVA BARREIROS TV
-https://5d82644094cc0.streamlock.net/8026/8026/chunklist_w1931045049.m3u8
 #EXTINF:-1 group-title="Canais | Abertos",SERTÃO TV
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w1172238546.m3u8
 #EXTINF:-1 group-title="Canais | Abertos",TV CENTRO SUL
@@ -219,12 +202,8 @@ https://novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/chun
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://imgur.com/yg60ANb.png",CATVE (CULTURA)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.m3u8
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/hd76Jt4.png",REDETV! RJ
-https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png",TV Arapuan HD
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://listaiptv.gratis/logos/imagens/brasiloeste.png",Brasil Oeste (MT)
-https://5d2c98775bafe.streamlock.net/8104/8104/playlist.m3u8
 
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxCanais Infantilxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -270,6 +249,7 @@ http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/140
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxCanais Esportesxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png",TNT Sports 2 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png",TNT Sports 3 Brasil
@@ -302,8 +282,6 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/playlist.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/6uxBFpQ.png",Premiere Clubes
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/6uxBFpQ.png",Premiere Clubes HD
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/YzY6fI2.png",SporTV
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/red-bull-icon-png-2.png",Red Bull 1 HD USA
@@ -352,14 +330,8 @@ http://188.35.9.11:21151/udp/193i
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/CUDFA4M.jpg",98 LIVE (Musica e Esporte)
 http://radio98fm-lh.akamaihd.net/i/pp_1@359238/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://static.wixstatic.com/media/30f5ac_ceb7fad6e711455bbedba1131783e9da~mv2.png/v1/fill/w_121,h_31,al_c,usm_0.66_1.00_0.01/30f5ac_ceb7fad6e711455bbedba1131783e9da~mv2.png",ALL SPORTS BR
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1650280825.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://i.imgur.com/5jMqNpW.png",REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/301f06c166156f3e5234ee0b6231b9a0.png",RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://pbs.twimg.com/profile_images/1056593228546404352/kNo3jrRg_400x400.jpg",BAND SPORTS (Cortesia)
-https://evpp.mm.uol.com.br/geob_band/bandsports/chunklist_w1866925157.m3u8
 #EXTINF:-1 group-title="Canais | Esportes",DUBAI RACING
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
 #EXTINF:-1 group-title="Canais | Esportes",DUBAI RACING 2
