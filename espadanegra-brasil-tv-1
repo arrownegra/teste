@@ -315,16 +315,13 @@ http://1music.hu/1music.m3u8
 #EXTINF:-1 group-title=" Entretenimento" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/570684b39f1b4362b87aeb98fccfa3b6.png",SEXY KPOP TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 ################################################################################# Esportes #################################################################################
-#EXTINF:-1 group-title=" Esportes" tvg-logo="https://static.wixstatic.com/media/30f5ac_ceb7fad6e711455bbedba1131783e9da~mv2.png/v1/fill/w_121,h_31,al_c,usm_0.66_1.00_0.01/30f5ac_ceb7fad6e711455bbedba1131783e9da~mv2.png",ALL SPORTS BR
+#EXTM3U
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://static.wixstatic.com/media/30f5ac_ceb7fad6e711455bbedba1131783e9da~mv2.png/v1/fill/w_121,h_31,al_c,usm_0.66_1.00_0.01/30f5ac_ceb7fad6e711455bbedba1131783e9da~mv2.png",ALL SPORTS BR
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1650280825.m3u8
-#EXTINF:-1 group-title=" Esportes" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/301f06c166156f3e5234ee0b6231b9a0.png",RED BULL TV
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/301f06c166156f3e5234ee0b6231b9a0.png",RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title=" Esportes",DUBAI RACING
-https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
-#EXTINF:-1 group-title=" Esportes",DUBAI RACING 2
+#EXTINF:-1 group-title="Esportes",DUBAI RACING 2
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://listaiptv.gratis/logos/imagens/redbull.png",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png",ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://iptvgratis.cf/images/logo-ultra-canais-novo-100.jpg",Eurosport1
@@ -355,10 +352,6 @@ http://31.220.41.90:8081/live/fr-beinsport1.stream/playlist.m3u8
 http://31.220.41.90:8081/live/fr-beinsport3.stream/playlist.m3u8
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://guidatv.sky.it/uuid/9b19c272-85bf-4e77-aab3-b37d85506b9c/background?tr=n-hero_desktop_1920",Dazn Formula1(Espanhol)
 http://dzaroslav2013.akadatel.com/iptv/QE967G4R8GUPTR/6071/index.m3u8
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png",Eurosport 1(Espanhol)
-http://91.126.141.201:1935/live/eurosport1nntv/playlist.m3u8
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://th.bing.com/th/id/Ra2b21fd9a440cba6e66df7ef6dd87266?rik=J3qnrb%2fAN%2b%2fkBA&pid=ImgRaw",Eurosport 2(Espanhol)
-http://91.126.141.201:1935/live/eurosport2hdnntv/playlist.m3u8
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://laligatvbar.es/meta-image.jpg",LaLiga TV Bar(Espanhol)
 http://31.220.41.86:8081/live/es-laligatvbar.stream/playlist.m3u8
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://th.bing.com/th/id/R8fc9c36ecde33d7a1fec2a5f46f24fe3?rik=Cp%2fm9%2byGK%2fQFIA&riu=http%3a%2f%2fcopaamericacentenario.com%2fwp-content%2fuploads%2f2018%2f03%2fmovistar-deportes.png&ehk=S3evx77ePtlLEGUAHOj75u2n9avxzXb3qOe6J%2fgsyDg%3d&risl=&pid=ImgRaw",Movistar Deportes(Espanhol)
@@ -379,23 +372,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 http://dzaroslav2013.akadatel.com/iptv/QE967G4R8GUPTR/6069/index.m3u8
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/D6plAdz.png",WooHoo
 http://177.20.208.58:8000/play/a022/index.m3u8
-################################################################################# Infantil #################################################################################
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png",Kuriakos Kids
-http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png",Retrô Cartoon
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://listaiptv.gratis/logos/imagens/locomotion.png",Locomotion - WebTV
-http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://listaiptv.gratis/logos/imagens/smilinguido.png",Gospel Cartoon
-https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/playlist.m3u8
-#EXTINF:-1 group-title=" Infantis" tvg-logo="https://i.imgur.com/x33MwPN.png",RETRO CARTOON (Desenhos Antigos)
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
-#EXTINF:-1 group-title=" Infantis" tvg-logo="https://i.imgur.com/20VEbHZ.png",GOSPEL CARTOON
-https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/chunklist_w1120351118.m3u8
-#EXTINF:-1 group-title=" Infantis" tvg-logo="https://i.imgur.com/Ns04L9j.png",KURIAKOS KIDS
-http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
-#EXTINF:-1 group-title=" Infantis" tvg-logo="https://i.imgur.com/rg5j9my.jpg",3ABN KIDS
-https://moiptvhls-i.akamaihd.net/hls/live/652318-b/secure/SQs/chunklist.m3u8
 ################################################################################# Documentários #################################################################################
 #EXTINF:-1 group-title=" Documentários" tvg-logo="https://imgur.com/JfLHsbj.png",TV INVESTIGAÇÃO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef20-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c6910880-42dc-4cb1-99bb-7227886a27ba&userId=&serverSideAds=true
