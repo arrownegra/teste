@@ -1,837 +1,1993 @@
 #EXTM3U
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/AeE.png",AeE FHD H265
-http://e.advd.cyou:80/123456/123456/218285
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/AeE.png",AeE FHD H265³
-http://e.advd.cyou:80/123456/123456/218286
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/AeE.png",AeE FHD H265³¹
-http://e.advd.cyou:80/123456/123456/218287
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/AeE.png",AeE FHD H265 ***
-http://e.advd.cyou:80/123456/123456/218288
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/animal-planet.png",Animal Planet FHD H265
-http://e.advd.cyou:80/123456/123456/218290
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/animal-planet.png",Animal Planet 4K³
-http://e.advd.cyou:80/123456/123456/218291
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/discovery-channel.png",Discovery Channel 4K³
-http://e.advd.cyou:80/123456/123456/218292
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/amc.png",AMC FHD H265
-http://e.advd.cyou:80/123456/123456/218293
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/AXN.png",AXN FHD H265
-http://e.advd.cyou:80/123456/123456/218294
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Canais-Aberto/bandeirantes.png",Band 4K³
-http://e.advd.cyou:80/123456/123456/218295
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Canais-Aberto/bandeirantes.png",Band TV Goiania FHD H265
-http://e.advd.cyou:80/123456/123456/218296
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Noticias/band-news.png",Band News H.265
-http://e.advd.cyou:80/123456/123456/218297
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Esportes/band-sports.png",BandSports H.265
-http://e.advd.cyou:80/123456/123456/218299
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Musicas/bis.png",BIS FHD H265
-http://e.advd.cyou:80/123456/123456/218301
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Infantil/boomerang.png",Boomerang FHD H265
-http://e.advd.cyou:80/123456/123456/218302
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Variedades/canal-Brasil.png",Canal Brasil FHD H265
-http://e.advd.cyou:80/123456/123456/218303
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/Sony.png",Canal Sony FHD H265
-http://e.advd.cyou:80/123456/123456/218304
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/Sony.png",Canal Sony FHD H265 *
-http://e.advd.cyou:80/123456/123456/218305
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Infantil/cartoon-network.png",Cartoon Network FHD H265
-http://e.advd.cyou:80/123456/123456/218306
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Infantil/cartoon-network.png",Cartoon Network 4K *
-http://e.advd.cyou:80/123456/123456/218307
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/cinemax.png",Cinemax FHD H265
-http://e.advd.cyou:80/123456/123456/218308
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Esportes/combate.png",Combate  H.265
-http://e.advd.cyou:80/123456/123456/218309
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Esportes/combate.png",Combate  H.265²
-http://e.advd.cyou:80/123456/123456/218310
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Esportes/combate.png",Combate 4K²
-http://e.advd.cyou:80/123456/123456/218311
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/comedy-central.png",Comedy Central FHD H265
-http://e.advd.cyou:80/123456/123456/218312
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/comedy-central.png",Comedy Central FHD H265³
-http://e.advd.cyou:80/123456/123456/218313
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/discovery-channel.png",Discovery Channel FHD H265
-http://e.advd.cyou:80/123456/123456/218314
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/discovery-channel.png",Discovery Channel FHD H265³
-http://e.advd.cyou:80/123456/123456/218315
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Variedades/H&H.png",Discovery Home e Health FHD H265
-http://e.advd.cyou:80/123456/123456/218316
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Infantil/discovery-kids.png",Discovery Kids FHD H265
-http://e.advd.cyou:80/123456/123456/218317
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/Discovery-science.png",Discovery Science FHD H265
-http://e.advd.cyou:80/123456/123456/218318
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://st1.horizonplay.io:8080/icon/1200-b-1579983177760.png",Discovery Theater FHD H265
-http://e.advd.cyou:80/123456/123456/218319
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/Discovery-turbo.png",Discovery Turbo FHD H265
-http://e.advd.cyou:80/123456/123456/218320
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/Discovery-world.png",Discovery World FHD H265
-http://e.advd.cyou:80/123456/123456/218321
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Infantil/Disney-channel.png",Disney Channel FHD H265
-http://e.advd.cyou:80/123456/123456/218322
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://st1.horizonplay.io:8080/icon/4020-b-1579988558426.png",Disney Junior FHD H265
-http://e.advd.cyou:80/123456/123456/218323
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Variedades/E!.png",E! FHD H265
-http://e.advd.cyou:80/123456/123456/218324
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn.png",ESPN H.265
-http://e.advd.cyou:80/123456/123456/218326
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn.png",ESPN 4K²
-http://e.advd.cyou:80/123456/123456/218327
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-extra.png",ESPN Extra FHD H265
-http://e.advd.cyou:80/123456/123456/218328
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-2.png",ESPN 2 H.265
-http://e.advd.cyou:80/123456/123456/218329
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-brasil.png",ESPN Brasil H.265
-http://e.advd.cyou:80/123456/123456/218330
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Esportes/fishtv.png",FishTV FHD H265
-http://e.advd.cyou:80/123456/123456/218331
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Variedades/Food-Network.png",Food Network FHD H265
-http://e.advd.cyou:80/123456/123456/218333
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://st1.horizonplay.io:8080/icon/2380-b-1579913535139.png",Fox FHD H265
-http://e.advd.cyou:80/123456/123456/218335
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://st1.horizonplay.io:8080/icon/2380-b-1579913535139.png",Fox 4K *
-http://e.advd.cyou:80/123456/123456/218336
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/fox-premium.png",Fox Premium 1 FHD H265
-http://e.advd.cyou:80/123456/123456/218337
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/fox-premium.png",Fox Premium 1 FHD H265 *
-http://e.advd.cyou:80/123456/123456/218338
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/fox-premium-2.png",Fox Premium 2 FHD H265
-http://e.advd.cyou:80/123456/123456/218339
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/fox-premium-2.png",Fox Premium 2 FHD H265³
-http://e.advd.cyou:80/123456/123456/218340
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png",Fox Sports H.265
-http://e.advd.cyou:80/123456/123456/218341
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png",Fox Sports H.265²
-http://e.advd.cyou:80/123456/123456/218342
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png",Fox Sports 2 H.265
-http://e.advd.cyou:80/123456/123456/218343
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png",Fox Sports 2 4K²
-http://e.advd.cyou:80/123456/123456/218345
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png",Fox Sports 4K²
-http://e.advd.cyou:80/123456/123456/218346
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/FX.png",FX FHD H265
-http://e.advd.cyou:80/123456/123456/218347
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/FX.png",FX FHD H265 *
-http://e.advd.cyou:80/123456/123456/218348
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://st1.horizonplay.io:8080/icon/4350-b-1579808641649.png",Gazeta 4K *
-http://e.advd.cyou:80/123456/123456/218349
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png",Globo SP FHD H265³
-http://e.advd.cyou:80/123456/123456/218350
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png",Globo 4K³
-http://e.advd.cyou:80/123456/123456/218351
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Infantil/Gloob.png",Gloob FHD H265
-http://e.advd.cyou:80/123456/123456/218353
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Variedades/gnt.png",GNT FHD H265
-http://e.advd.cyou:80/123456/123456/218354
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://st1.horizonplay.io:8080/icon/4660-b-1579639727100.png",H2 FHD H265
-http://e.advd.cyou:80/123456/123456/218355
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO.png",HBO H.265
-http://e.advd.cyou:80/123456/123456/218356
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO.png",HBO 4K *
-http://e.advd.cyou:80/123456/123456/218358
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-2.png",HBO 2 H.265
-http://e.advd.cyou:80/123456/123456/218359
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-Xtreme.png",HBO Xtreme FHD H265
-http://e.advd.cyou:80/123456/123456/218360
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://st1.horizonplay.io:8080/icon/1621-b-1579904625815.png",HBO Familly FHD H265
-http://e.advd.cyou:80/123456/123456/218362
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-Mundi.png",HBO Mundi FHD H265
-http://e.advd.cyou:80/123456/123456/218363
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-Mundi.png",HBO Mundi FHD H265³
-http://e.advd.cyou:80/123456/123456/218364
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-plus.png",HBO Plus FHD H265
-http://e.advd.cyou:80/123456/123456/218365
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-pop.png",HBO Pop FHD H265
-http://e.advd.cyou:80/123456/123456/218366
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-pop.png",HBO Pop FHD H265 *
-http://e.advd.cyou:80/123456/123456/218367
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-Signature.png",HBO Signature FHD H265
-http://e.advd.cyou:80/123456/123456/218368
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-Xtreme.png",HBO Xtreme FHD H265 *
-http://e.advd.cyou:80/123456/123456/218369
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/History.png",History FHD H265
-http://e.advd.cyou:80/123456/123456/218370
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Variedades/HGTV.png",HGTV FHD H265
-http://e.advd.cyou:80/123456/123456/218372
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/ID-Investigation-Discovery.png",ID - Investigation Discovery FHD H265
-http://e.advd.cyou:80/123456/123456/218374
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/ID-Investigation-Discovery.png",ID - Investigation Discovery FHD H265 *
-http://e.advd.cyou:80/123456/123456/218375
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Variedades/lifetime.png",Lifetime FHD H265
-http://e.advd.cyou:80/123456/123456/218376
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Variedades/mais-globosat.png",Mais Globosat FHD H265
-http://e.advd.cyou:80/123456/123456/218377
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/megapix.png",Megapix FHD H265
-http://e.advd.cyou:80/123456/123456/218378
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/megapix.png",Megapix FHD H265 *
-http://e.advd.cyou:80/123456/123456/218379
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/megapix.png",Megapix 4K *
-http://e.advd.cyou:80/123456/123456/218380
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Musicas/mtv.png",MTV FHD H265
-http://e.advd.cyou:80/123456/123456/218381
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Musicas/multishow.png",Multishow FHD H265
-http://e.advd.cyou:80/123456/123456/218382
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Musicas/multishow.png",Multishow 4K *
-http://e.advd.cyou:80/123456/123456/218383
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/NatGeo.png",NatGeo FHD H265
-http://e.advd.cyou:80/123456/123456/218384
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/NatGeo.png",NatGeo 4K³
-http://e.advd.cyou:80/123456/123456/218385
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/NatGeo-Wild.png",NatGeo Wild FHD H265
-http://e.advd.cyou:80/123456/123456/218386
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Infantil/NatGeo-Kids.png",NatGeo Kids FHD H265
-http://e.advd.cyou:80/123456/123456/218387
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Infantil/nickelodeon.png",Nick FHD H265
-http://e.advd.cyou:80/123456/123456/218388
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Infantil/nick-jr.png",Nick Jr FHD H265
-http://e.advd.cyou:80/123456/123456/218389
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Variedades/OFF.png",OFF FHD H265
-http://e.advd.cyou:80/123456/123456/218390
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/paramount%20.png",Paramount FHD H265
-http://e.advd.cyou:80/123456/123456/218392
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png",Premiere Clubes FHD H265
-http://e.advd.cyou:80/123456/123456/218393
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png",Premiere Clubes 4K³
-http://e.advd.cyou:80/123456/123456/218395
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png",Premiere 2 FHD H265
-http://e.advd.cyou:80/123456/123456/218396
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png",Premiere 3 FHD H265
-http://e.advd.cyou:80/123456/123456/218397
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png",Premiere 4 FHD H265
-http://e.advd.cyou:80/123456/123456/218398
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png",Premiere 5 FHD H265
-http://e.advd.cyou:80/123456/123456/218399
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png",Premiere 7 FHD H265
-http://e.advd.cyou:80/123456/123456/218401
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-Record/rede-record.png",Record TV Goiania FHD H265
-http://e.advd.cyou:80/123456/123456/218403
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://st1.horizonplay.io:8080/icon/4420-b-1579659158370.png",RedeTV! FHD H265
-http://e.advd.cyou:80/123456/123456/218404
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://st1.horizonplay.io:8080/icon/4420-b-1579659158370.png",RedeTV! 4K *
-http://e.advd.cyou:80/123456/123456/218405
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://st1.horizonplay.io:8080/icon/4420-b-1579659158370.png",RedeTV! 4K **
-http://e.advd.cyou:80/123456/123456/218406
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://st1.horizonplay.io:8080/icon/4370-b-1579989472915.png",SBT 4K *
-http://e.advd.cyou:80/123456/123456/218407
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://st1.horizonplay.io:8080/icon/4375-b-1579994779649.png",SBT TV Serra Dourada FHD H265
-http://e.advd.cyou:80/123456/123456/218408
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/space.png",Space FHD H265
-http://e.advd.cyou:80/123456/123456/218409
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/space.png",Space 4K³
-http://e.advd.cyou:80/123456/123456/218411
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png",SporTV H.265
-http://e.advd.cyou:80/123456/123456/218412
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png",SporTV H.265²
-http://e.advd.cyou:80/123456/123456/218413
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-2.png",SporTV 2 H265
-http://e.advd.cyou:80/123456/123456/218415
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-3.png",SporTV 3 H.265
-http://e.advd.cyou:80/123456/123456/218417
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-3.png",SporTV 3 H.265²
-http://e.advd.cyou:80/123456/123456/218418
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/studio-universal.png",Studio Universal FHD H265
-http://e.advd.cyou:80/123456/123456/218419
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/SYFY.png",SYFY FHD H265
-http://e.advd.cyou:80/123456/123456/218420
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/TBS.png",TBS FHD H265
-http://e.advd.cyou:80/123456/123456/218421
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-Action.png",Telecine Action H.265
-http://e.advd.cyou:80/123456/123456/218422
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-cult-logo-2.png",Telecine Cult H.265
-http://e.advd.cyou:80/123456/123456/218424
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-Fun.png",Telecine Fun H.265
-http://e.advd.cyou:80/123456/123456/218425
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-Fun.png",Telecine Fun H.265²
-http://e.advd.cyou:80/123456/123456/218426
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-pipoca.png",Telecine Pipoca H.265
-http://e.advd.cyou:80/123456/123456/218427
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-pipoca.png",Telecine Pipoca H.265²
-http://e.advd.cyou:80/123456/123456/218428
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-pipoca.png",Telecine Pipoca 4K²
-http://e.advd.cyou:80/123456/123456/218429
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-premium.png",Telecine Premium H.265
-http://e.advd.cyou:80/123456/123456/218430
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-premium.png",Telecine Premium  H.265²
-http://e.advd.cyou:80/123456/123456/218431
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-premium.png",Telecine Premium 4K²
-http://e.advd.cyou:80/123456/123456/218432
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-touch.png",Telecine Touch  H.265
-http://e.advd.cyou:80/123456/123456/218433
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Variedades/tlc.png",TLC FHD H265
-http://e.advd.cyou:80/123456/123456/218434
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://st1.horizonplay.io:8080/icon/2380-b-1579913535139.png",Fox FHD H265
-http://e.advd.cyou:80/123456/123456/218335
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://st1.horizonplay.io:8080/icon/2380-b-1579913535139.png",Fox 4K *
-http://e.advd.cyou:80/123456/123456/218336
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/fox-premium.png",Fox Premium 1 FHD H265
-http://e.advd.cyou:80/123456/123456/218337
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/fox-premium.png",Fox Premium 1 FHD H265 *
-http://e.advd.cyou:80/123456/123456/218338
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/fox-premium-2.png",Fox Premium 2 FHD H265
-http://e.advd.cyou:80/123456/123456/218339
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/fox-premium-2.png",Fox Premium 2 FHD H265³
-http://e.advd.cyou:80/123456/123456/218340
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png",Fox Sports H.265
-http://e.advd.cyou:80/123456/123456/218341
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png",Fox Sports H.265²
-http://e.advd.cyou:80/123456/123456/218342
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png",Fox Sports 2 H.265
-http://e.advd.cyou:80/123456/123456/218343
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png",Fox Sports 2 4K²
-http://e.advd.cyou:80/123456/123456/218345
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png",Fox Sports 4K²
-http://e.advd.cyou:80/123456/123456/218346
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/FX.png",FX FHD H265
-http://e.advd.cyou:80/123456/123456/218347
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/FX.png",FX FHD H265 *
-http://e.advd.cyou:80/123456/123456/218348
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://st1.horizonplay.io:8080/icon/4350-b-1579808641649.png",Gazeta 4K *
-http://e.advd.cyou:80/123456/123456/218349
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png",Globo SP FHD H265³
-http://e.advd.cyou:80/123456/123456/218350
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png",Globo 4K³
-http://e.advd.cyou:80/123456/123456/218351
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Infantil/Gloob.png",Gloob FHD H265
-http://e.advd.cyou:80/123456/123456/218353
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Variedades/gnt.png",GNT FHD H265
-http://e.advd.cyou:80/123456/123456/218354
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://st1.horizonplay.io:8080/icon/4660-b-1579639727100.png",H2 FHD H265
-http://e.advd.cyou:80/123456/123456/218355
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO.png",HBO H.265
-http://e.advd.cyou:80/123456/123456/218356
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO.png",HBO 4K *
-http://e.advd.cyou:80/123456/123456/218358
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-2.png",HBO 2 H.265
-http://e.advd.cyou:80/123456/123456/218359
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-Xtreme.png",HBO Xtreme FHD H265
-http://e.advd.cyou:80/123456/123456/218360
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-Xtreme.png",HBO Xtreme 4K³
-http://e.advd.cyou:80/123456/123456/218361
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://st1.horizonplay.io:8080/icon/1621-b-1579904625815.png",HBO Familly FHD H265
-http://e.advd.cyou:80/123456/123456/218362
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-Mundi.png",HBO Mundi FHD H265
-http://e.advd.cyou:80/123456/123456/218363
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-Mundi.png",HBO Mundi FHD H265³
-http://e.advd.cyou:80/123456/123456/218364
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-plus.png",HBO Plus FHD H265
-http://e.advd.cyou:80/123456/123456/218365
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-pop.png",HBO Pop FHD H265
-http://e.advd.cyou:80/123456/123456/218366
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-pop.png",HBO Pop FHD H265 *
-http://e.advd.cyou:80/123456/123456/218367
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-Signature.png",HBO Signature FHD H265
-http://e.advd.cyou:80/123456/123456/218368
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-Xtreme.png",HBO Xtreme FHD H265 *
-http://e.advd.cyou:80/123456/123456/218369
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/History.png",History FHD H265
-http://e.advd.cyou:80/123456/123456/218370
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Variedades/HGTV.png",HGTV FHD H265
-http://e.advd.cyou:80/123456/123456/218372
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/ID-Investigation-Discovery.png",ID - Investigation Discovery FHD H265
-http://e.advd.cyou:80/123456/123456/218374
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/ID-Investigation-Discovery.png",ID - Investigation Discovery FHD H265 *
-http://e.advd.cyou:80/123456/123456/218375
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Variedades/lifetime.png",Lifetime FHD H265
-http://e.advd.cyou:80/123456/123456/218376
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Variedades/mais-globosat.png",Mais Globosat FHD H265
-http://e.advd.cyou:80/123456/123456/218377
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/megapix.png",Megapix FHD H265
-http://e.advd.cyou:80/123456/123456/218378
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/megapix.png",Megapix FHD H265 *
-http://e.advd.cyou:80/123456/123456/218379
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/megapix.png",Megapix 4K *
-http://e.advd.cyou:80/123456/123456/218380
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Musicas/mtv.png",MTV FHD H265
-http://e.advd.cyou:80/123456/123456/218381
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Musicas/multishow.png",Multishow FHD H265
-http://e.advd.cyou:80/123456/123456/218382
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Musicas/multishow.png",Multishow 4K *
-http://e.advd.cyou:80/123456/123456/218383
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/NatGeo.png",NatGeo FHD H265
-http://e.advd.cyou:80/123456/123456/218384
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/NatGeo.png",NatGeo 4K³
-http://e.advd.cyou:80/123456/123456/218385
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/NatGeo-Wild.png",NatGeo Wild FHD H265
-http://e.advd.cyou:80/123456/123456/218386
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Infantil/NatGeo-Kids.png",NatGeo Kids FHD H265
-http://e.advd.cyou:80/123456/123456/218387
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Infantil/nickelodeon.png",Nick FHD H265
-http://e.advd.cyou:80/123456/123456/218388
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Infantil/nick-jr.png",Nick Jr FHD H265
-http://e.advd.cyou:80/123456/123456/218389
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Variedades/OFF.png",OFF FHD H265
-http://e.advd.cyou:80/123456/123456/218390
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/paramount%20.png",Paramount FHD H265
-http://e.advd.cyou:80/123456/123456/218392
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png",Premiere Clubes FHD H265
-http://e.advd.cyou:80/123456/123456/218393
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png",Premiere Clubes FHD H265 *
-http://e.advd.cyou:80/123456/123456/218394
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png",Premiere Clubes 4K³
-http://e.advd.cyou:80/123456/123456/218395
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png",Premiere 2 FHD H265
-http://e.advd.cyou:80/123456/123456/218396
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png",Premiere 3 FHD H265
-http://e.advd.cyou:80/123456/123456/218397
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png",Premiere 4 FHD H265
-http://e.advd.cyou:80/123456/123456/218398
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png",Premiere 5 FHD H265
-http://e.advd.cyou:80/123456/123456/218399
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png",Premiere 6 FHD H265
-http://e.advd.cyou:80/123456/123456/218400
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png",Premiere 7 FHD H265
-http://e.advd.cyou:80/123456/123456/218401
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Rede-Record/rede-record.png",Record TV Goiania FHD H265
-http://e.advd.cyou:80/123456/123456/218403
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://st1.horizonplay.io:8080/icon/4420-b-1579659158370.png",RedeTV! FHD H265
-http://e.advd.cyou:80/123456/123456/218404
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://st1.horizonplay.io:8080/icon/4420-b-1579659158370.png",RedeTV! 4K *
-http://e.advd.cyou:80/123456/123456/218405
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://st1.horizonplay.io:8080/icon/4420-b-1579659158370.png",RedeTV! 4K **
-http://e.advd.cyou:80/123456/123456/218406
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://st1.horizonplay.io:8080/icon/4370-b-1579989472915.png",SBT 4K *
-http://e.advd.cyou:80/123456/123456/218407
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://st1.horizonplay.io:8080/icon/4375-b-1579994779649.png",SBT TV Serra Dourada FHD H265
-http://e.advd.cyou:80/123456/123456/218408
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/space.png",Space FHD H265
-http://e.advd.cyou:80/123456/123456/218409
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/space.png",Space 4K³
-http://e.advd.cyou:80/123456/123456/218411
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png",SporTV H.265
-http://e.advd.cyou:80/123456/123456/218412
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png",SporTV H.265²
-http://e.advd.cyou:80/123456/123456/218413
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png",SporTV 4K²
-http://e.advd.cyou:80/123456/123456/218414
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-2.png",SporTV 2 H265
-http://e.advd.cyou:80/123456/123456/218415
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-3.png",SporTV 3 H.265
-http://e.advd.cyou:80/123456/123456/218417
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-3.png",SporTV 3 H.265²
-http://e.advd.cyou:80/123456/123456/218418
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/studio-universal.png",Studio Universal FHD H265
-http://e.advd.cyou:80/123456/123456/218419
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/SYFY.png",SYFY FHD H265
-http://e.advd.cyou:80/123456/123456/218420
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/TBS.png",TBS FHD H265
-http://e.advd.cyou:80/123456/123456/218421
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-Action.png",Telecine Action H.265
-http://e.advd.cyou:80/123456/123456/218422
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-cult-logo-2.png",Telecine Cult H.265
-http://e.advd.cyou:80/123456/123456/218424
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-Fun.png",Telecine Fun H.265
-http://e.advd.cyou:80/123456/123456/218425
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-Fun.png",Telecine Fun H.265²
-http://e.advd.cyou:80/123456/123456/218426
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-pipoca.png",Telecine Pipoca H.265
-http://e.advd.cyou:80/123456/123456/218427
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-pipoca.png",Telecine Pipoca H.265²
-http://e.advd.cyou:80/123456/123456/218428
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-pipoca.png",Telecine Pipoca 4K²
-http://e.advd.cyou:80/123456/123456/218429
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-premium.png",Telecine Premium H.265
-http://e.advd.cyou:80/123456/123456/218430
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-premium.png",Telecine Premium  H.265²
-http://e.advd.cyou:80/123456/123456/218431
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-premium.png",Telecine Premium 4K²
-http://e.advd.cyou:80/123456/123456/218432
-#EXTINF:-1 group-title="CANAIS BR FHD FULL" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-touch.png",Telecine Touch  H.265
-http://e.advd.cyou:80/123456/123456/218433
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Variedades/tlc.png",TLC FHD H265
-http://e.advd.cyou:80/123456/123456/218434
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/TNT.png",TNT FHD H265
-http://e.advd.cyou:80/123456/123456/218435
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/TNT.png",TNT 4K *
-http://e.advd.cyou:80/123456/123456/218436
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/TNT-series.png",TNT Series FHD H265
-http://e.advd.cyou:80/123456/123456/218437
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/TNT-series.png",TNT Series 4K *
-http://e.advd.cyou:80/123456/123456/218439
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://st1.horizonplay.io:8080/icon/100-b-1573492375805.png",Tv Anhaguera FHD H265
-http://e.advd.cyou:80/123456/123456/218440
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/Universal-tv.png",Universal Tv FHD H265
-http://e.advd.cyou:80/123456/123456/218441
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Musicas/VH1.png",VH1 FHD H265
-http://e.advd.cyou:80/123456/123456/218443
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/Warner.png",Warner FHD H265
-http://e.advd.cyou:80/123456/123456/218444
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Variedades/woohoo.png",Woohoo FHD H265
-http://e.advd.cyou:80/123456/123456/218446
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/TNT.png",TNT FHD H265
-http://e.advd.cyou:80/123456/123456/218435
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/TNT.png",TNT 4K *
-http://e.advd.cyou:80/123456/123456/218436
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/TNT-series.png",TNT Series FHD H265
-http://e.advd.cyou:80/123456/123456/218437
-#EXTINF:-1 group-title="CANAIS BR 4K" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/TNT-series.png",TNT Series 4K *
-http://e.advd.cyou:80/123456/123456/218439
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://st1.horizonplay.io:8080/icon/100-b-1573492375805.png",Tv Anhaguera FHD H265
-http://e.advd.cyou:80/123456/123456/218440
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/Universal-tv.png",Universal Tv FHD H265
-http://e.advd.cyou:80/123456/123456/218441
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Musicas/VH1.png",VH1 FHD H265
-http://e.advd.cyou:80/123456/123456/218443
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Filmes-e-Series/Warner.png",Warner FHD H265
-http://e.advd.cyou:80/123456/123456/218444
-#EXTINF:-1 group-title="CANAIS BR H265" tvg-logo="http://script.clearnight.xyz/logos/Variedades/woohoo.png",Woohoo FHD H265
-http://e.advd.cyou:80/123456/123456/218446
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/32/9-1-1_title.png",9-1-1 24h
-http://e.advd.cyou:80/123456/123456/218447
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9000-b-1579837727252.png",3 Palavrinhas 24h
-http://e.advd.cyou:80/123456/123456/218448
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/4810-b-1580161306022.jpg",A Feiticeira 24hs
-http://e.advd.cyou:80/123456/123456/218449
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/a-grande-familia-logo-png-2.png",A Grande Familia 24h
-http://e.advd.cyou:80/123456/123456/218450
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/4922-b-1590702777533.jpg",A historia de Deus com Morgan Freeman 1 24h
-http://e.advd.cyou:80/123456/123456/218451
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/4922-b-1590702777533.jpg",A historia de Deus com Morgan Freeman 2 24h
-http://e.advd.cyou:80/123456/123456/218452
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://script.clearnight.xyz/logos/24h-Especiais/a-maldicao-da-residencia-hill.png",A Maldicao da Residencia 24h
-http://e.advd.cyou:80/123456/123456/218453
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9124-b-1579812607747.jpg",Aladdin 24h
-http://e.advd.cyou:80/123456/123456/218454
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/History.png",American Horror History 3 24h
-http://e.advd.cyou:80/123456/123456/218455
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/History.png",American Horror History 5
-http://e.advd.cyou:80/123456/123456/218456
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/History.png",American Horror History 6 24h
-http://e.advd.cyou:80/123456/123456/218457
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/History.png",American Horror History 7 24h
-http://e.advd.cyou:80/123456/123456/218458
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="https://www.anda.jor.br/wp-content/uploads/2019/10/nature-1282230_960_720-2.jpg",Animais Selvagens 24h
-http://e.advd.cyou:80/123456/123456/218459
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/4673-b-1590702217652.jpg",Apenas um Show 24h
-http://e.advd.cyou:80/123456/123456/218460
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://4.bp.blogspot.com/-tfr3bas9HnA/Uu0pSCDeGOI/AAAAAAAAhIk/Lh3oruE5S10/s1600/haunted-hathaways.jpg",A Familia Hathaways 24h
-http://e.advd.cyou:80/123456/123456/218461
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9768-b-1579825626931.jpg",As Aventuras de Jackie Chan 24h
-http://e.advd.cyou:80/123456/123456/218462
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9004-b-1579812941016.jpg",As Meninas Superpoderosas 24h
-http://e.advd.cyou:80/123456/123456/218463
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9050-b-1579833920359.png",As Tartarugas Ninjas 24h
-http://e.advd.cyou:80/123456/123456/218464
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/4567-b-1590702153672.jpg",As Tartarugas Ninja 2 24h
-http://e.advd.cyou:80/123456/123456/218465
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/4355-b-1590702014373.jpg",As Telefonistas 1 24h
-http://e.advd.cyou:80/123456/123456/218466
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/4355-b-1590702014373.jpg",As Telefonistas 2 24h
-http://e.advd.cyou:80/123456/123456/218467
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/4355-b-1590702014373.jpg",As Telefonistas 3 24h
-http://e.advd.cyou:80/123456/123456/218468
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/4325-b-1590701938617.jpg",Assedio 24h
-http://e.advd.cyou:80/123456/123456/218469
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/4323-b-1590701645073.jpg",Bates Motel 1 24h
-http://e.advd.cyou:80/123456/123456/218470
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/4323-b-1590701645073.jpg",Bates Motel 2 24h
-http://e.advd.cyou:80/123456/123456/218471
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/4323-b-1590701645073.jpg",Bates Motel 3 24h
-http://e.advd.cyou:80/123456/123456/218472
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/4323-b-1590701645073.jpg",Bates Motel 4 24h
-http://e.advd.cyou:80/123456/123456/218473
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/4323-b-1590701645073.jpg",Bates Motel 5 24h
-http://e.advd.cyou:80/123456/123456/218474
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9117-b-1579813279108.jpg",Ben 10 24h
-http://e.advd.cyou:80/123456/123456/218475
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="https://nerdlicious.com.br/wp-content/uploads/2021/01/analise-big-mouth-4-temporada-5.jpg",Big Mouth 24h
-http://e.advd.cyou:80/123456/123456/218476
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/33-b-1580160469447.png",Bita e os Animais 24h
-http://e.advd.cyou:80/123456/123456/218477
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/4115-b-1590701445475.jfif",Black Lightning 24h
-http://e.advd.cyou:80/123456/123456/218478
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9059-b-1579813575204.png",Bob Esponja 24h
-http://e.advd.cyou:80/123456/123456/218479
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9059-b-1579813575204.png",Bob Esponja 2 24h
-http://e.advd.cyou:80/123456/123456/218480
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/3825-b-1590701367052.jpg",Bob Zoom 24h
-http://e.advd.cyou:80/123456/123456/218481
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9107-b-1579814628954.png",Breaking Bad 24h
-http://e.advd.cyou:80/123456/123456/218482
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/3288-b-1590701241011.jpg",Shadowhunters 1 24h
-http://e.advd.cyou:80/123456/123456/218483
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/3284-b-1590701015854.jpg",Carcereiros 24h
-http://e.advd.cyou:80/123456/123456/218484
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/285-b-1590700667009.jpg",Cavalo de Fogo 24h
-http://e.advd.cyou:80/123456/123456/218485
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/1646-b-1590700854777.jpg",Cavaleiros do Zodiaco 24h
-http://e.advd.cyou:80/123456/123456/218486
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/2560-b-1590700948230.jpg",Cascao Maratona 24h
-http://e.advd.cyou:80/123456/123456/218487
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9145-b-1579815115400.png",Caverna do Dragao 24h
-http://e.advd.cyou:80/123456/123456/218488
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/738-b-1590700517484.jpg",Caverna do Dragao 2 24h
-http://e.advd.cyou:80/123456/123456/218489
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9149-b-1579815329273.png",Chapolin Colorado 24h
-http://e.advd.cyou:80/123456/123456/218490
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9149-b-1579815329273.png",Chapolin Colorado 2 24h
-http://e.advd.cyou:80/123456/123456/218491
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9150-b-1579815479007.png",Chaves 24h
-http://e.advd.cyou:80/123456/123456/218492
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/281-b-1590700022915.jpg",Chaves 2 24h
-http://e.advd.cyou:80/123456/123456/218493
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9147-b-1579815613926.png",Chaves Desenho 24h
-http://e.advd.cyou:80/123456/123456/218494
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/735-b-1590697613258.jpg",Chicago Med 1 24h
-http://e.advd.cyou:80/123456/123456/218495
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/735-b-1590697613258.jpg",Chicago Med 2 24h
-http://e.advd.cyou:80/123456/123456/218496
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/735-b-1590697613258.jpg",Chicago Med 3 24h
-http://e.advd.cyou:80/123456/123456/218497
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9151-b-1579814935253.jpg",Coragem o Cao Covarde 24h
-http://e.advd.cyou:80/123456/123456/218498
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9151-b-1579814935253.jpg",Coragem o Cao Covarde 2 24h
-http://e.advd.cyou:80/123456/123456/218499
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="https://www.leonardolopes.com.br/wp-content/uploads/2019/01/viagem-coreia-do-norte-1.jpg",Coreia do Norte 24h
-http://e.advd.cyou:80/123456/123456/218500
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9043-b-1595263071720.jpg",Corrida Maluca 24h
-http://e.advd.cyou:80/123456/123456/218501
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/125-b-1590697432061.jpg",Damnation 24h
-http://e.advd.cyou:80/123456/123456/218502
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/5257-b-1590697294386.png",Dark Matter 24h
-http://e.advd.cyou:80/123456/123456/218503
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/5255-b-1590697186995.jpg",Deceptions 24h
-http://e.advd.cyou:80/123456/123456/218504
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/5253-b-1590697058455.jpg",Demolidor 24h
-http://e.advd.cyou:80/123456/123456/218505
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/5253-b-1590697058455.jpg",Demolidor 2 24h
-http://e.advd.cyou:80/123456/123456/218506
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/5253-b-1590697058455.jpg",Demolidor 3 24h
-http://e.advd.cyou:80/123456/123456/218507
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9201-b-1579815853962.jpg",Dennis o Pimentinha 24h
-http://e.advd.cyou:80/123456/123456/218508
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9201-b-1579815853962.jpg",Dennis o Pimentinha 2 24h
-http://e.advd.cyou:80/123456/123456/218509
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="https://i.ytimg.com/vi/Be9B02s6Ves/maxresdefault.jpg",Desastres Aereos 24h
-http://e.advd.cyou:80/123456/123456/218510
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/1501-b-1579816951096.png",Desenhos Biblicos 24h
-http://e.advd.cyou:80/123456/123456/218511
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9780-b-1579817113005.jpg",Desenhos Disney 24h
-http://e.advd.cyou:80/123456/123456/218512
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/5245-b-1590696989382.jpg",Diarios de Horrores 24h
-http://e.advd.cyou:80/123456/123456/218513
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="https://reservacinefila.com.br/wp-content/uploads/2020/04/NICK.jpg",Drake e Josh 24h
-http://e.advd.cyou:80/123456/123456/218514
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/65-b-1590694859389.jpg",Diarios de Um Vampiro 1 24h
-http://e.advd.cyou:80/123456/123456/218515
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/65-b-1590694859389.jpg",Diarios de um Vampiro 2 24h
-http://e.advd.cyou:80/123456/123456/218516
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9167-b-1579817323495.gif",Digimon 24h
-http://e.advd.cyou:80/123456/123456/218517
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/977-b-1590695137605.jpg",Doctor Who 1 24h
-http://e.advd.cyou:80/123456/123456/218518
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/977-b-1590695137605.jpg",Doctor Who 2 24h
-http://e.advd.cyou:80/123456/123456/218519
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/977-b-1590695137605.jpg",Doctor Who 3 24h
-http://e.advd.cyou:80/123456/123456/218520
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/977-b-1590695137605.jpg",Doctor Who 4 24h
-http://e.advd.cyou:80/123456/123456/218521
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/977-b-1590695137605.jpg",Doctor Who 5 24h
-http://e.advd.cyou:80/123456/123456/218522
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/977-b-1590695137605.jpg",Doctor Who 6 24h
-http://e.advd.cyou:80/123456/123456/218523
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/977-b-1590695137605.jpg",Doctor Who 7 24h
-http://e.advd.cyou:80/123456/123456/218524
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/977-b-1590695137605.jpg",Doctor Who 8 24h
-http://e.advd.cyou:80/123456/123456/218525
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/60110-b-1579819950376.jpg",Dois Homens e Meio 24h
-http://e.advd.cyou:80/123456/123456/218526
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/60110-b-1579819950376.jpg",Dois Homens e Meio 1 24h
-http://e.advd.cyou:80/123456/123456/218527
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/60110-b-1579819950376.jpg",Dois Homens e Meio 2 24h
-http://e.advd.cyou:80/123456/123456/218528
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9157-b-1579820077583.gif",Doug 24h
-http://e.advd.cyou:80/123456/123456/218529
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/1503-b-1579820691816.png",Dragon Ball GT 24h
-http://e.advd.cyou:80/123456/123456/218530
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/1502-b-1579820950912.png",Dragon Ball Super 24h
-http://e.advd.cyou:80/123456/123456/218531
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/1504-b-1579821161556.png",Dragon Ball Z 24h
-http://e.advd.cyou:80/123456/123456/218532
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/70-b-1590694968206.jfif",Dupla Identidade 24h
-http://e.advd.cyou:80/123456/123456/218533
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/5241-b-1590696663289.gif",Elite 24h
-http://e.advd.cyou:80/123456/123456/218534
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://script.clearnight.xyz/logos/24h-Especiais/eu-a-patroa-e-as-criancas.png",Eu a Patroa e as Criancas 24h
-http://e.advd.cyou:80/123456/123456/218535
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://script.clearnight.xyz/logos/24h-Especiais/eu-a-patroa-e-as-criancas.png",Eu a Patroa e as Criancas 1 24h
-http://e.advd.cyou:80/123456/123456/218536
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://script.clearnight.xyz/logos/24h-Especiais/eu-a-patroa-e-as-criancas.png",Eu a Patroa e as Criancas 2 24h
-http://e.advd.cyou:80/123456/123456/218537
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://script.clearnight.xyz/logos/24h-Especiais/eu-a-patroa-e-as-criancas.png",Eu a Patroa e as Criancas 3 24h
-http://e.advd.cyou:80/123456/123456/218538
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/3247-b-1590696397514.jpg",Familia Soprano 1 24h
-http://e.advd.cyou:80/123456/123456/218539
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/3247-b-1590696397514.jpg",Familia Soprano 2 24h
-http://e.advd.cyou:80/123456/123456/218540
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/3247-b-1590696397514.jpg",Familia Soprano 3 24h
-http://e.advd.cyou:80/123456/123456/218541
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/3247-b-1590696397514.jpg",Familia Soprano 4 24h
-http://e.advd.cyou:80/123456/123456/218542
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/3247-b-1590696397514.jpg",Familia Soprano 5 24h
-http://e.advd.cyou:80/123456/123456/218543
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/8034-b-1595263441223.jpg",Familia Urso 24h
-http://e.advd.cyou:80/123456/123456/218544
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/3248-b-1590696304140.jpg",Farina - Cocaine Coast 24h
-http://e.advd.cyou:80/123456/123456/218545
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/5242-b-1590695873534.jpg",Fear The Walking Dead 1 24h
-http://e.advd.cyou:80/123456/123456/218546
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/5242-b-1590695873534.jpg",Fear The Walking Dead 2 24h
-http://e.advd.cyou:80/123456/123456/218547
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/5242-b-1590695873534.jpg",Fear The Walking Dead 3 24h
-http://e.advd.cyou:80/123456/123456/218548
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9142-b-1579821580831.jpg",Formiga Atomica 24h
-http://e.advd.cyou:80/123456/123456/218549
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/131-b-1590695685033.jpg",Frequency 24h
-http://e.advd.cyou:80/123456/123456/218550
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/639-b-1590695545861.jpg",Fugitivos 24h
-http://e.advd.cyou:80/123456/123456/218551
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/4321-b-1590695448860.jpg",Future Man 24h
-http://e.advd.cyou:80/123456/123456/218552
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9430-b-1579821866015.png",Galinha Pintadinha 24h
-http://e.advd.cyou:80/123456/123456/218553
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/5680-b-1590703256448.jpg",Galinha Pintadinha 2 24h
-http://e.advd.cyou:80/123456/123456/218554
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/5670-b-1590703154022.jpg",Gamebros 24h
-http://e.advd.cyou:80/123456/123456/218555
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/8047-b-1595263541614.jpg",Garfield 24h
-http://e.advd.cyou:80/123456/123456/218556
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/5650-b-1590703061799.jpg",Gothan 1 24h
-http://e.advd.cyou:80/123456/123456/218557
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/5600-b-1590702934833.jpg",Greys Anatomy 24h
-http://e.advd.cyou:80/123456/123456/218558
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="https://www.einerd.com.br/wp-content/uploads/2019/08/Guardi%C3%B5es-da-Gal%C3%A1xia-HQ-capa-890x466.jpg",Guardioes da Galaxia 24h
-http://e.advd.cyou:80/123456/123456/218559
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9455-b-1595106530432.jpg",Hannibal 1 24h
-http://e.advd.cyou:80/123456/123456/218560
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9763-b-1579822361489.jpg",He Man 24h
-http://e.advd.cyou:80/123456/123456/218561
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9764-b-1579822661013.png",Hercules 24h
-http://e.advd.cyou:80/123456/123456/218562
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9766-b-1579824574111.jpg",Historias Disney 24h
-http://e.advd.cyou:80/123456/123456/218563
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/1659-b-1579824712511.jpg",Homem Aranha 24h
-http://e.advd.cyou:80/123456/123456/218564
-#EXTINF:-1 group-title="CANAIS 24 HS",Homem Aranha 2 24h
-http://e.advd.cyou:80/123456/123456/218565
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/1669-b-1579824904373.jpg",Homem de Ferro 24h
-http://e.advd.cyou:80/123456/123456/218566
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="https://media.fstatic.com/NoVj_KhFBHKKhBVvv5cnJxVVaPQ=/fit-in/290x478/smart/media/movies/covers/2012/06/3c38324924fff3557d8cf13196dc5544.jpg",Homens de Preto 24h
-http://e.advd.cyou:80/123456/123456/218567
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/1679-b-1580160313443.jpg",Incrivel Hulk 24h
-http://e.advd.cyou:80/123456/123456/218568
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/3294-b-1595258698039.jpg",Irmaos de Guerra 24h
-http://e.advd.cyou:80/123456/123456/218569
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/5620-b-1595258796580.jpg",Impuros 24h
-http://e.advd.cyou:80/123456/123456/218570
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/5630-b-1595258921273.jpg",Jackass 24h
-http://e.advd.cyou:80/123456/123456/218571
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9470-b-1579825808220.jpg",Jaspion 24h
-http://e.advd.cyou:80/123456/123456/218572
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/5690-b-1595259140924.jpg",Jaspion & Jonny Quest 24h
-http://e.advd.cyou:80/123456/123456/218573
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/7-b-1579826105581.jpg",Jiraiya 24h
-http://e.advd.cyou:80/123456/123456/218574
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/5700-b-1595259340517.jpg",Jogos Sagrados 24h
-http://e.advd.cyou:80/123456/123456/218575
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/5720-b-1595259429287.jpg",Jose do Egito 24h
-http://e.advd.cyou:80/123456/123456/218576
-#EXTINF:-1 group-title="CANAIS 24 HS",Justiceiro 1 24h
-http://e.advd.cyou:80/123456/123456/218577
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9773-b-1579826325684.jpg",Kenan e Kel 24h
-http://e.advd.cyou:80/123456/123456/218578
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/5780-b-1595259572345.jpg",La Casa de Papel 1 24h
-http://e.advd.cyou:80/123456/123456/218579
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/5780-b-1595259572345.jpg",La Casa de Papel 2 24h
-http://e.advd.cyou:80/123456/123456/218580
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/5780-b-1595259572345.jpg",La Casa de Papel 3 24h
-http://e.advd.cyou:80/123456/123456/218581
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icv3e1l8od9VjQD4NlvpBySyY09.jpg",Legend of Tomorrow 1  24h
-http://e.advd.cyou:80/123456/123456/218582
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icv3e1l8od9VjQD4NlvpBySyY09.jpg",Legend of Tomorrow 2 24h
-http://e.advd.cyou:80/123456/123456/218583
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/34-b-1580160770714.jpg",Liga da Justica 24h
-http://e.advd.cyou:80/123456/123456/218584
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/8054-b-1595366063096.jpg",Looney Tunes 24h
-http://e.advd.cyou:80/123456/123456/218585
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9515-b-1595259873883.jpg",Lucifer 1 24h
-http://e.advd.cyou:80/123456/123456/218586
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9515-b-1595259873883.jpg",Lucifer 2 24h
-http://e.advd.cyou:80/123456/123456/218587
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9515-b-1595259873883.jpg",Lucifer 3 24h
-http://e.advd.cyou:80/123456/123456/218588
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9535-b-1579826514408.jpg",Luluzinha 24h
-http://e.advd.cyou:80/123456/123456/218589
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9535-b-1579826514408.jpg",Luluzinha 2 24h
-http://e.advd.cyou:80/123456/123456/218590
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9025-b-1595366279584.jpg",Manda Chuva 24h
-http://e.advd.cyou:80/123456/123456/218591
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9545-b-1595260189441.jpg",Maquina Mortifera 1 24h
-http://e.advd.cyou:80/123456/123456/218592
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/8088-b-1595366442932.jpg",Masha e o Urso 24h
-http://e.advd.cyou:80/123456/123456/218593
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="https://http2.mlstatic.com/medabots-hd-D_NQ_NP_841272-MLB27948798333_082018-F.jpg",Medabots 24h
-http://e.advd.cyou:80/123456/123456/218594
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9778-b-1579826818716.jpg",MegaMan 24h
-http://e.advd.cyou:80/123456/123456/218595
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9739-b-1579827025144.jpg",Mortal Kombat 24h
-http://e.advd.cyou:80/123456/123456/218596
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9782-b-1579827737437.png",Mr. Bean 24h
-http://e.advd.cyou:80/123456/123456/218597
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTmal9fDbwh5F0waol2hq35U4ah.jpg",Narcos 1 24h
-http://e.advd.cyou:80/123456/123456/218598
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTmal9fDbwh5F0waol2hq35U4ah.jpg",Narcos 2 24h
-http://e.advd.cyou:80/123456/123456/218599
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/1689-b-1579827967465.png",Naruto 24h
-http://e.advd.cyou:80/123456/123456/218600
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/1699-b-1579828246002.png",Naruto Shippuden 24h
-http://e.advd.cyou:80/123456/123456/218601
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9785-b-1579828443140.jpg",O Fantastico Mundo de Bobby 24h
-http://e.advd.cyou:80/123456/123456/218602
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/5790-b-1595260530970.jpg",O Homem do Castelo Alto 1 24h
-http://e.advd.cyou:80/123456/123456/218603
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9787-b-1579828595813.jpg",O Inspetor 24h
-http://e.advd.cyou:80/123456/123456/218604
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="https://http2.mlstatic.com/desenho-o-maskara-a-serie-animada-completo-dublado-D_NQ_NP_430311-MLB20513565639_122015-F.jpg",O Mascara 24h
-http://e.advd.cyou:80/123456/123456/218605
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgPG7iWLy3IFUNj4BSLqxB1D6JH.jpg",O Negocio 1 24h
-http://e.advd.cyou:80/123456/123456/218606
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgPG7iWLy3IFUNj4BSLqxB1D6JH.jpg",O Negocio 2 24h
-http://e.advd.cyou:80/123456/123456/218607
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgPG7iWLy3IFUNj4BSLqxB1D6JH.jpg",O Negocio 3 24h
-http://e.advd.cyou:80/123456/123456/218608
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgPG7iWLy3IFUNj4BSLqxB1D6JH.jpg",O Negocio 4 24h
-http://e.advd.cyou:80/123456/123456/218609
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/6800-b-1595260727556.jpg",Outsiders 1 24h
-http://e.advd.cyou:80/123456/123456/218610
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/6800-b-1595260727556.jpg",Outsiders 2 24h
-http://e.advd.cyou:80/123456/123456/218611
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9135-b-1579829092670.png",Os Cavaleiros do Zodiaco 24h
-http://e.advd.cyou:80/123456/123456/218612
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="https://i.pinimg.com/originals/79/91/26/7991263e17cd5f91cd60bc343805c40e.png",Os Flintstones 24h
-http://e.advd.cyou:80/123456/123456/218613
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9152-b-1579829403003.jpg",Os Simpsons 24h
-http://e.advd.cyou:80/123456/123456/218614
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9152-b-1579829403003.jpg",Os Simpsons 2 24h
-http://e.advd.cyou:80/123456/123456/218615
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9152-b-1579829403003.jpg",Os Simpsons 3 24h
-http://e.advd.cyou:80/123456/123456/218616
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://script.clearnight.xyz/logos/24h-Especiais/os-trapalhoes.png",Os Trapalhoes 24h
-http://e.advd.cyou:80/123456/123456/218617
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://script.clearnight.xyz/logos/24h-Especiais/os-trapalhoes.png",Os Trapalhoes 2 24h
-http://e.advd.cyou:80/123456/123456/218618
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/5009-b-1579829809407.png",Os Vingadores 24h
-http://e.advd.cyou:80/123456/123456/218619
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/5009-b-1579829809407.png",Os Vingadores 1 24h
-http://e.advd.cyou:80/123456/123456/218620
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/6802-b-1595260964155.jpg",O Universo 24h
-http://e.advd.cyou:80/123456/123456/218621
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9625-b-1595366906077.jpg",Padrinhos Magicos 24h
-http://e.advd.cyou:80/123456/123456/218622
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9625-b-1595366906077.jpg",Padrinhos Magicos / Pica Pau 24h
-http://e.advd.cyou:80/123456/123456/218623
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9794-b-1579830100503.jpg",Papa-Leguas 24h
-http://e.advd.cyou:80/123456/123456/218624
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9153-b-1595368393306.jpg",Patati Patata 24h
-http://e.advd.cyou:80/123456/123456/218625
-#EXTINF:-1 group-title="CANAIS 24 HS" tvg-logo="http://st1.horizonplay.io:8080/icon/9744-b-1595369003927.jpg",Patrulha Canina 24h
-http://e.advd.cyou:80/123456/123456/218626
+#EXTINF:-1,A&E SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6883
+#EXTINF:-1,A&E SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4123
+#EXTINF:-1,AMC SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4127
+#EXTINF:-1,AMC SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4129
+#EXTINF:-1,AMC SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6929
+#EXTINF:-1,ANIMAL PLANET SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3936
+#EXTINF:-1,ANIMAL PLANET SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6849
+#EXTINF:-1,APARECIDA SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4605
+#EXTINF:-1,ARTE 1 SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3993
+#EXTINF:-1,AXN HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4131
+#EXTINF:-1,AXN HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4130
+#EXTINF:-1,AXN SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4132
+#EXTINF:-1,AXN SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6942
+#EXTINF:-1,TELECINE ACTION SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7097
+#EXTINF:-1,BABY TV SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4223
+#EXTINF:-1,BABY TV SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6985
+#EXTINF:-1,BAND CAMPINAS SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3816
+#EXTINF:-1,BAND NEWS FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4270
+#EXTINF:-1,BAND NEWS HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4279
+#EXTINF:-1,BAND NEWS SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4277
+#EXTINF:-1,BAND NEWS SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4280
+#EXTINF:-1,BAND SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3821
+#EXTINF:-1,BAND SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6831
+#EXTINF:-1,BAND SPORTS SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4552
+#EXTINF:-1,BAND SPORTS SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6919
+#EXTINF:-1,BIS SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3996
+#EXTINF:-1,BOA VONTADE TV SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7088
+#EXTINF:-1,BOOMERANG SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6998
+#EXTINF:-1,BOOMERANG SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4220
+#EXTINF:-1,CANAL BRASIL SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4140
+#EXTINF:-1,CANAL BRASIL SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6881
+#EXTINF:-1,DISCOVERY CHANNEL SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6857
+#EXTINF:-1,HISTORY CHANNEL SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3964
+#EXTINF:-1,CANAL DO BOI SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3855
+#EXTINF:-1,CANAL FUTURA SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3860
+#EXTINF:-1,CANAL RURAL SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6827
+#EXTINF:-1,CANAL SONY HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4135
+#EXTINF:-1,CANAL SONY HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4134
+#EXTINF:-1,CANAL SONY SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4137
+#EXTINF:-1,CANAL SONY SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6961
+#EXTINF:-1,CANÇAO NOVA SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7089
+#EXTINF:-1,CARTOON NETWORK SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4226
+#EXTINF:-1,CARTOON NETWORK SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7000
+#EXTINF:-1,CINEMAX SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4145
+#EXTINF:-1,cinemax sd¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6945
+#EXTINF:-1,CNN BRASIL FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4271
+#EXTINF:-1,CNN BRASIL SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4281
+#EXTINF:-1,CNN BRASIL SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7015
+#EXTINF:-1,CNN ESPANHOL SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4282
+#EXTINF:-1,CNN INTERNACIONAL SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4283
+#EXTINF:-1,CNN INTERNACIONAL SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7016
+#EXTINF:-1,COMBATE SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4551
+#EXTINF:-1,COMBATE SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6909
+#EXTINF:-1,COMEDY CENTRAL SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4033
+#EXTINF:-1,COMEDY SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6880
+#EXTINF:-1,CULTURA SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3852
+#EXTINF:-1,CURTA! SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3857
+#EXTINF:-1,DAZN HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6806
+#EXTINF:-1,DISCOVERY SCIENCE DUAL SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6864
+#EXTINF:-1,DISCOVERY KIDS SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6994
+#EXTINF:-1,DISCOVERY H&H SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6855
+#EXTINF:-1,DISCOVERY CHANNEL SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3940
+#EXTINF:-1,DISCOVERY CIVILIZATION SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3978
+#EXTINF:-1,DISCOVERY H&H SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3944
+#EXTINF:-1,DISCOVERY KIDS SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4230
+#EXTINF:-1,DISCOVERY SCIENCE SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3948
+#EXTINF:-1,DISCOVERY THEATER DUAL AUDIO SD¹ 
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6862
+#EXTINF:-1,DISCOVERY THEATER SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3951
+#EXTINF:-1,DISCOVERY TURBO SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3954
+#EXTINF:-1,DISCOVERY TURBO SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6860
+#EXTINF:-1,DISCOVERY WORLD DUAL SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6865
+#EXTINF:-1,DISCOVERY WORLD SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3957
+#EXTINF:-1,DISNEY CHANNEL SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4236
+#EXTINF:-1,DISNEY CHANNEL SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6992
+#EXTINF:-1,DISNEY JR SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6988
+#EXTINF:-1,DISNEY JUNIOR SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4242
+#EXTINF:-1,DISNEY SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6986
+#EXTINF:-1,DISNEY XD SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4246
+#EXTINF:-1,DISNEY XD SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6990
+#EXTINF:-1,DW DEUTSCHE WELLE SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4076
+#EXTINF:-1,DW ESPANHOL SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4077
+#EXTINF:-1,dw sd¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6893
+#EXTINF:-1,E! SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4002
+#EXTINF:-1,EIPLUS 2 SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4679
+#EXTINF:-1,EIPLUS 3 SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4681
+#EXTINF:-1,EIPLUS 4 SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4683
+#EXTINF:-1,EIPLUS 5 SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4685
+#EXTINF:-1,EIPLUS 6 SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4687
+#EXTINF:-1,EIPLUS SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4678
+#EXTINF:-1,SPACE SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6959
+#EXTINF:-1,ESPN 2 SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4569
+#EXTINF:-1,ESPN 2 DUAL SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6926
+#EXTINF:-1,ESPN BRASIL SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4557
+#EXTINF:-1,ESPN BRASIL SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4561
+#EXTINF:-1,ESPN EXTRA DUAL AUDIO SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6927
+#EXTINF:-1,ESPN EXTRA SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4565
+#EXTINF:-1,ESPN HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6820
+#EXTINF:-1,ESPN SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4556
+#EXTINF:-1,ESPN SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4568
+#EXTINF:-1,espn sd¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6925
+#EXTINF:-1,FILM & ARTS SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4147
+#EXTINF:-1,filmes artes sd¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6948
+#EXTINF:-1,FISH TV SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4035
+#EXTINF:-1,FISH TV SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6853
+#EXTINF:-1,FOOD NETWORK SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4007
+#EXTINF:-1,FOOD NETWORK SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6888
+#EXTINF:-1,STAR CHANNEL HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4150
+#EXTINF:-1,STAR CHANNEL HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4148
+#EXTINF:-1,STAR CHANNEL SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4149
+#EXTINF:-1,STAR LIFE HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4153
+#EXTINF:-1,STAR LIFE HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4152
+#EXTINF:-1,STAR LIFE SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4154
+#EXTINF:-1,STAR LIFE SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6932
+#EXTINF:-1,STAR PREMIUM DUAL AUDIO SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6936
+#EXTINF:-1,STAR PREMIUM 1 HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4157
+#EXTINF:-1,STAR PREMIUM 1 HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4156
+#EXTINF:-1,STAR PREMIUM 1 SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4158
+#EXTINF:-1,STAR PREMIUM 2 HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4160
+#EXTINF:-1,STAR PREMIUM 2 HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4159
+#EXTINF:-1,STAR PREMIUM 2 SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4161
+#EXTINF:-1,STAR PREMIUM SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6939
+#EXTINF:-1,STAR CHANNEL SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6935
+#EXTINF:-1,FOX SPORTS 2 SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4575
+#EXTINF:-1,FOX SPORTS SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4573
+#EXTINF:-1,Fox Sports SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6906
+#EXTINF:-1,FX HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4163
+#EXTINF:-1,FX HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4162
+#EXTINF:-1,FX SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4164
+#EXTINF:-1,FX SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6907
+#EXTINF:-1,GLOBO ACRE HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4506
+#EXTINF:-1,GLOBO ACRE SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4505
+#EXTINF:-1,GLOBO BAHIA HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4469
+#EXTINF:-1,GLOBO BELEM HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4471
+#EXTINF:-1,GLOBO BELEM HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7053
+#EXTINF:-1,GLOBO BELEM SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4470
+#EXTINF:-1,GLOBO BELEM SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7054
+#EXTINF:-1,GLOBO BH HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7050
+#EXTINF:-1,GLOBO BH SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7051
+#EXTINF:-1,GLOBO BOA VISTA HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4473
+#EXTINF:-1,GLOBO BOA VISTA SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4472
+#EXTINF:-1,GLOBO BRASILIA HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4474
+#EXTINF:-1,GLOBO BRASILIA HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7048
+#EXTINF:-1,GLOBO BRASILIA SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4475
+#EXTINF:-1,GLOBO BRASILIA SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7049
+#EXTINF:-1,GLOBO CEARA HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4476
+#EXTINF:-1,GLOBO CEARA SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4477
+#EXTINF:-1,GLOBO CURITIBA HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4478
+#EXTINF:-1,GLOBO CURITIBA HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7045
+#EXTINF:-1,globo curitiba sd¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7046
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4480
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4479
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7065
+#EXTINF:-1,GLOBO EPTV SAO CARLOS SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4483
+#EXTINF:-1,GLOBO EPTV SAO CARLOS SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7067
+#EXTINF:-1,GLOBO FLORIANOPOLIS HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4485
+#EXTINF:-1,GLOBO  FLORIANOPOLIS HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7047
+#EXTINF:-1,GLOBO FLORIANOPOLIS SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4484
+#EXTINF:-1,GLOBO  FORTALEZA HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7041
+#EXTINF:-1,GLOBO FORTALEZA SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7042
+#EXTINF:-1,GLOBO GAZETA SUL ALEGRE ES HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7082
+#EXTINF:-1,GLOBO GAZETA SUL ALEGRE ES SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7083
+#EXTINF:-1,GLOBO GOIANIA HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4487
+#EXTINF:-1,GLOBO GOIANIA HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7061
+#EXTINF:-1,GLOBO GOIANIA SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4486
+#EXTINF:-1,GLOBO HD SP¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7043
+#EXTINF:-1,GLOBO INTER TV CABUGI SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4488
+#EXTINF:-1,GLOBO INTER TV CABUGI SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7069
+#EXTINF:-1,GLOBO MACAPA HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4490
+#EXTINF:-1,GLOBO MACAPA SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4489
+#EXTINF:-1,GLOBO MANAUS HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7070
+#EXTINF:-1,GLOBO  MANAUS SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7071
+#EXTINF:-1,GLOBO MATO GROSSO HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7055
+#EXTINF:-1,GLOBO MINAS HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4491
+#EXTINF:-1,GLOBO MINAS SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4492
+#EXTINF:-1,GLOBO NATAL HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4494
+#EXTINF:-1,GLOBO NATAL SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4493
+#EXTINF:-1,GLOBO NEWS FHD H265²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4464
+#EXTINF:-1,GLOBO NEWS FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4463
+#EXTINF:-1,GLOBO NEWS HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4275
+#EXTINF:-1,GLOBO NEWS HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7080
+#EXTINF:-1,GLOBO NEWS SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4272
+#EXTINF:-1,GLOBO NEWS SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7081
+#EXTINF:-1,GLOBO NORDESTE HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4495
+#EXTINF:-1,GLOBO NORDESTE SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4496
+#EXTINF:-1,GLOBO NORDESTE SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7068
+#EXTINF:-1,GLOBO  NSC JOINVILLE  HD¹ SC
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7086
+#EXTINF:-1,GLOBO NSC JOINVILLE SD¹ 
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7087
+#EXTINF:-1,GLOBO PORTO ALEGRE  HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7056
+#EXTINF:-1,GLOBO PORTO VELHO HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4498
+#EXTINF:-1,GLOBO PORTO VELHO SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4497
+#EXTINF:-1,GLOBO RBS POA SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7057
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4499
+#EXTINF:-1,GLOBO RECIFE HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4501
+#EXTINF:-1,GLOBO RECIFE SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4500
+#EXTINF:-1,GLOBO REDE AMAZONICA HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4503
+#EXTINF:-1,GLOBO REDE AMAZONICA SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4502
+#EXTINF:-1,GLOBO RIO GRANDE DO SUL HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4508
+#EXTINF:-1,GLOBO RIO GRANDE DO SUL SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4507
+#EXTINF:-1,GLOBO RIO HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4509
+#EXTINF:-1,GLOBO RIO HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7058
+#EXTINF:-1,GLOBO RIO SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4504
+#EXTINF:-1,GLOBO RIO SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7060
+#EXTINF:-1,GLOBO RPC TV CURITIBA SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4510
+#EXTINF:-1,GLOBO SALVADOR HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7072
+#EXTINF:-1,globo salvador sd¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7073
+#EXTINF:-1,GLOBO SAO LUIS MA HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7052
+#EXTINF:-1,GLOBO sd¹ GOIAS
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7079
+#EXTINF:-1,GLOBO SJRP SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4511
+#EXTINF:-1,GLOBO SP HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4513
+#EXTINF:-1,GLOBO SP HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4514
+#EXTINF:-1,GLOBO SP SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4515
+#EXTINF:-1,GLOBO SP SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7044
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7062
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4516
+#EXTINF:-1,GLOBO TV BAHIA SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4517
+#EXTINF:-1,GLOBO TV BAHIA SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7074
+#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7075
+#EXTINF:-1,GLOBO TV CENTRO AMICA CUIB SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4518
+#EXTINF:-1,GLOBO TV CLUBE PI HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7084
+#EXTINF:-1,GLOBO TV CLUBE PI SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7085
+#EXTINF:-1,GLOBO TV LIBERAL BELEM SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4519
+#EXTINF:-1,GLOBO TV RIO SUL SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4520
+#EXTINF:-1,GLOBO TV TEM BAURU SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4521
+#EXTINF:-1,GLOBO TV TEM BAURU SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7063
+#EXTINF:-1,GLOBO TV TEM SOROCABA SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4522
+#EXTINF:-1,GLOBO TV TEM SOROCABA SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7064
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4523
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7077
+#EXTINF:-1,GLOBO TV VANGUARDA S JOSDOS CAMPOS SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4524
+#EXTINF:-1,GLOBO TV VANGUARDA S. J. DOS CAMPOS SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7076
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4525
+#EXTINF:-1,GLOBO VITORIA HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4527
+#EXTINF:-1,GLOBO VITORIA SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4526
+#EXTINF:-1,GLOOB SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4266
+#EXTINF:-1,GLOOB SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6996
+#EXTINF:-1,GLOOBINHO SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4268
+#EXTINF:-1,GNT SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4012
+#EXTINF:-1,gnt sd¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6884
+#EXTINF:-1,RECORD FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6764
+#EXTINF:-1,RECORD NEWS SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7024
+#EXTINF:-1,RECORD SP SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6837
+#EXTINF:-1,HISTORY 2 SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6871
+#EXTINF:-1,HBO + SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3884
+#EXTINF:-1,HBO 2 SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3886
+#EXTINF:-1,HBO 2 SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6975
+#EXTINF:-1,HBO SIGNATURE SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6980
+#EXTINF:-1,HBO FAMILY SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3891
+#EXTINF:-1,HBO FAMILY SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6982
+#EXTINF:-1,HBO MUNDI SD LEG $
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6805
+#EXTINF:-1,HBO MUNDI SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3903
+#EXTINF:-1,HBO PLUS SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6976
+#EXTINF:-1,HBO POP SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3910
+#EXTINF:-1,HBO POP SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6983
+#EXTINF:-1,HBO SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3881
+#EXTINF:-1,HBO SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6974
+#EXTINF:-1,HBO SIGNATURE SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3898
+#EXTINF:-1,HBO XTREME SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3907
+#EXTINF:-1,HBO XTREME SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6978
+#EXTINF:-1,HISTORY 2 SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3960
+#EXTINF:-1,HISTORY 2 SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3961
+#EXTINF:-1,HISTORY SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6851
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6873
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3967
+#EXTINF:-1,LIFETIME SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4015
+#EXTINF:-1,MAIS GLOBOSAT SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4058
+#EXTINF:-1,MAIS GLOBOSAT SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7078
+#EXTINF:-1,MAX UP SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6930
+#EXTINF:-1,mega tv sd¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6962
+#EXTINF:-1,MEGAPIX HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4167
+#EXTINF:-1,MEGAPIX HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4166
+#EXTINF:-1,MEGAPIX SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4168
+#EXTINF:-1,MEGAPIX sd¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6947
+#EXTINF:-1,MTV SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4021
+#EXTINF:-1,MULTISHOW SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4026
+#EXTINF:-1,MULTISHOW SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6886
+#EXTINF:-1,MUSIC BOX BRAZIL SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4062
+#EXTINF:-1,NATGEO HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3974
+#EXTINF:-1,NATGEO HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3973
+#EXTINF:-1,NATGEO HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6866
+#EXTINF:-1,NATGEO KIDS SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4250
+#EXTINF:-1,NATGEO SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3976
+#EXTINF:-1,NATGEO WILD SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6867
+#EXTINF:-1,NATGEO WILD SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3971
+#EXTINF:-1,NATGEO SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6869
+#EXTINF:-1,NHK SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4040
+#EXTINF:-1,NHK SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7018
+#EXTINF:-1,NICK JR SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4254
+#EXTINF:-1,NICK JR SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7004
+#EXTINF:-1,NICKELODEON SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4053
+#EXTINF:-1,NICKELODEON SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7001
+#EXTINF:-1,OFF SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4028
+#EXTINF:-1,off sd¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6892
+#EXTINF:-1,PARAMOUNT CHANNEL HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4170
+#EXTINF:-1,PARAMOUNT CHANNEL SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4173
+#EXTINF:-1,PARAMOUNT HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4171
+#EXTINF:-1,PLAY TV SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4032
+#EXTINF:-1,PLAYKIDS SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4269
+#EXTINF:-1,polishop sd¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6894
+#EXTINF:-1,PREMIERE SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7025
+#EXTINF:-1,PREMIERE 2 SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7027
+#EXTINF:-1,PREMIERE 3 SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7029
+#EXTINF:-1,PREMIERE 4 SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7031
+#EXTINF:-1,PREMIERE 5 SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7033
+#EXTINF:-1,premier 6 sd¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7035
+#EXTINF:-1,premier 7 sd ¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7036
+#EXTINF:-1,premier 8 sd¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7037
+#EXTINF:-1,PREMIERE 2 SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4636
+#EXTINF:-1,PREMIERE 3 SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4640
+#EXTINF:-1,PREMIERE 4 SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4646
+#EXTINF:-1,PREMIERE 5 SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4651
+#EXTINF:-1,PREMIERE 7 SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4659
+#EXTINF:-1,PREMIERE 8 SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4662
+#EXTINF:-1,PREMIERE CLUBES SD*
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4635
+#EXTINF:-1,PREMIERE CLUBES SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4634
+#EXTINF:-1,PREMIERE CLUBES SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7039
+#EXTINF:-1,PRIME BOX BRAZIL SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4073
+#EXTINF:-1,PRIME BOX SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6917
+#EXTINF:-1,RECORD BAHIA SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3824
+#EXTINF:-1,RECORD BELEM SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3826
+#EXTINF:-1,RECORD BRASILIA SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3827
+#EXTINF:-1,RECORD GOIAS SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3829
+#EXTINF:-1,RECORD MINAS SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3832
+#EXTINF:-1,RECORD NEWS FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6765
+#EXTINF:-1,RECORD NEWS HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4285
+#EXTINF:-1,RECORD NEWS SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4284
+#EXTINF:-1,RECORD RIO SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3834
+#EXTINF:-1,RECORD RS SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3836
+#EXTINF:-1,RECORD SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3823
+#EXTINF:-1,REDE CNT SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4616
+#EXTINF:-1,rede gospel sd¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7091
+#EXTINF:-1,REDE VIDA SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4609
+#EXTINF:-1,REDETV SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3838
+#EXTINF:-1,RIT SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7092
+#EXTINF:-1,RPC HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4528
+#EXTINF:-1,sbn sd¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7093
+#EXTINF:-1,SBT PARANA SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6834
+#EXTINF:-1,SBT SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3841
+#EXTINF:-1,SBT SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3846
+#EXTINF:-1,SBT SP SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6833
+#EXTINF:-1,ideal sd¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6889
+#EXTINF:-1,shoptime sd¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6896
+#EXTINF:-1,SIC INTERNACIONAL SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4085
+#EXTINF:-1,SIC SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7019
+#EXTINF:-1,SPACE HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4175
+#EXTINF:-1,SPACE HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4174
+#EXTINF:-1,SPACE SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4176
+#EXTINF:-1,SPORTV 2 SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4586
+#EXTINF:-1,SPORTV 2 SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6914
+#EXTINF:-1,SPORTV 3 SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4587
+#EXTINF:-1,SPORTV 3 SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4591
+#EXTINF:-1,SPORTV 3 SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6915
+#EXTINF:-1,SPORTV ALT SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6916
+#EXTINF:-1,SPORTV SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4581
+#EXTINF:-1,SPORTV SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4595
+#EXTINF:-1,SPORTV SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6913
+#EXTINF:-1,STUDIO UNIVERSAL FHD H265²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4112
+#EXTINF:-1,STUDIO UNIVERSAL HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4179
+#EXTINF:-1,STUDIO UNIVERSAL HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4178
+#EXTINF:-1,STUDIO UNIVERSAL SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4181
+#EXTINF:-1,UNIVERSAL TV SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6940
+#EXTINF:-1,SYFY HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4183
+#EXTINF:-1,SYFY HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4182
+#EXTINF:-1,SYFY SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4184
+#EXTINF:-1,SYFY SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4185
+#EXTINF:-1,syfy sd¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6950
+#EXTINF:-1,TBS HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4187
+#EXTINF:-1,TBS HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4186
+#EXTINF:-1,TBS SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4188
+#EXTINF:-1,tbs sd¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6952
+#EXTINF:-1,TCM SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4079
+#EXTINF:-1,tcm sd¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6943
+#EXTINF:-1,TELECINE ACTION SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4304
+#EXTINF:-1,TELECINE CULT SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4307
+#EXTINF:-1,TELECINE CULT SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7099
+#EXTINF:-1,TELECINE FUN SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4311
+#EXTINF:-1,TELECINE FUN SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7101
+#EXTINF:-1,TELECINE PIPOCA DUAL AUDIO SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7107
+#EXTINF:-1,TELECINE PIPOCA SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4313
+#EXTINF:-1,TELECINE PREMIUM SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4317
+#EXTINF:-1,TELECINE PREMIUM SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7105
+#EXTINF:-1,TELECINE TOUCH SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4321
+#EXTINF:-1,TELECINE TOUCH SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7103
+#EXTINF:-1,life time sd¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6890
+#EXTINF:-1,TLC HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4190
+#EXTINF:-1,TLC HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4189
+#EXTINF:-1,TLC SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4191
+#EXTINF:-1,TLC SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6964
+#EXTINF:-1,TNT DUAL AUDIO SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6957
+#EXTINF:-1,TNT DUAL AUDIO SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6963
+#EXTINF:-1,TNT HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4194
+#EXTINF:-1,TNT SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4195
+#EXTINF:-1,TNT SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6953
+#EXTINF:-1,TNT SERIES HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4200
+#EXTINF:-1,TNT SERIES HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4199
+#EXTINF:-1,TNT SERIES SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4197
+#EXTINF:-1,TNT SERIES SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6956
+#EXTINF:-1,TOONCAST SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4256
+#EXTINF:-1,TRUTV SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4043
+#EXTINF:-1,tv aparecida sd¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7094
+#EXTINF:-1,TV CABO BRANCO HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4529
+#EXTINF:-1,TV CULTURA SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7021
+#EXTINF:-1,TV EVANGELIZAR SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4611
+#EXTINF:-1,tv novo tempo sd¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7090
+#EXTINF:-1,TV PAI ETERNO SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4608
+#EXTINF:-1,TV RATIBUM SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7006
+#EXTINF:-1,TV RATIMBUM SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4261
+#EXTINF:-1,TV UP SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3851
+#EXTINF:-1,UNIVERSAL TV HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4202
+#EXTINF:-1,UNIVERSAL TV HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4201
+#EXTINF:-1,UNIVERSAL TV SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4203
+#EXTINF:-1,UNIVERSAL TV SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6969
+#EXTINF:-1,VEM E VTV 1 SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4614
+#EXTINF:-1,VH1 MEGAHITS SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4067
+#EXTINF:-1,VH1 SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4064
+#EXTINF:-1,vh1 sd¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6965
+#EXTINF:-1,VIVA SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4049
+#EXTINF:-1,VIVA SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6885
+#EXTINF:-1,WARNER CHANNEL SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4207
+#EXTINF:-1,WARNER CHANNEL SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7011
+#EXTINF:-1,WOOHOO SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4045
+#EXTINF:-1,WOOHOO SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7007
+#EXTINF:-1,ZOOMOO SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4070
+#EXTINF:-1,GLOBO HD 2 RJ dual audio¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7059
+#EXTINF:-1,FILM ARTS HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4146
+#EXTINF:-1,CINEMAX HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4143
+#EXTINF:-1,CINEMAX HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4142
+#EXTINF:-1,AMC HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4128
+#EXTINF:-1,AMC HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4126
+#EXTINF:-1,A&E HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4122
+#EXTINF:-1,HBO HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3892
+#EXTINF:-1,HBO + HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3882
+#EXTINF:-1,HBO+ HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3900
+#EXTINF:-1,HBO FAMILY HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3889
+#EXTINF:-1,HBO SIGNATURE HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3897
+#EXTINF:-1,HBO FAMILY HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3888
+#EXTINF:-1,HBO XTREME HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3906
+#EXTINF:-1,HBO XTREME HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3905
+#EXTINF:-1,HBO MUNDI HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3902
+#EXTINF:-1,HBO SIGNATURE HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3896
+#EXTINF:-1,HBO POP HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3895
+#EXTINF:-1,HBO MUNDI HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3894
+#EXTINF:-1,TELECINE TOUCH HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4319
+#EXTINF:-1,TELECINE PREMIUM HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4315
+#EXTINF:-1,TELECINE PREMIUM HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4301
+#EXTINF:-1,TELECINE FUN HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4309
+#EXTINF:-1,TELECINE CULT HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4306
+#EXTINF:-1,TELECINE ACTION HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4303
+#EXTINF:-1,TELECINE ACTION HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4297
+#EXTINF:-1,TELECINE TOUCH HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4302
+#EXTINF:-1,TELECINE PIPOCA HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4300
+#EXTINF:-1,TELECINE CULT HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4298
+#EXTINF:-1,EIPLUS HD ²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4689
+#EXTINF:-1,EIPLUS 6 HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4688
+#EXTINF:-1,EIPLUS 5 HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4686
+#EXTINF:-1,EIPLUS 4 HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4684
+#EXTINF:-1,EIPLUS 3 HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4682
+#EXTINF:-1,EIPLUS 2 HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4680
+#EXTINF:-1,ESPORTE INTERATIVO ²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4690
+#EXTINF:-1,ESPORTE INTERATIVO ²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4691
+#EXTINF:-1,ESPORTE INTERATIVO HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4692
+#EXTINF:-1,ESPORTE INTERATIVO HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4693
+#EXTINF:-1,DAZN²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4677
+#EXTINF:-1,DAZN FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4676
+#EXTINF:-1,ANIMAL PLANET HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3935
+#EXTINF:-1,ANIMAL PLANET HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3934
+#EXTINF:-1,DISCOVERY CHANNEL HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6856
+#EXTINF:-1,DISCOVERY H&H HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6854
+#EXTINF:-1,DISCOVERY TURBO HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6859
+#EXTINF:-1,DISCOVERY TURBO HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3953
+#EXTINF:-1,DISCOVERY TURBO HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3952
+#EXTINF:-1,DISCOVERY WORLD HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6858
+#EXTINF:-1,TELECINE FUN HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7100
+#EXTINF:-1,TELECINE PREMIUM HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7104
+#EXTINF:-1,TELECINE TOUCH HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7102
+#EXTINF:-1,TELECINE CULT HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7098
+#EXTINF:-1,TLC HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7108
+#EXTINF:-1,SMITHSONIAN HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6903
+#EXTINF:-1,LIVE 2 ES¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6902
+#EXTINF:-1,SHOP TIME HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6895
+#EXTINF:-1,SBT  SP FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6766
+#EXTINF:-1,CONMEBOL FHD 1 
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/17378
+#EXTINF:-1,CONMEBOL FHD 2 
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/17379
+#EXTINF:-1,CONMEBOL FHD 3 
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/17380
+#EXTINF:-1,CONMEBOL FHD 4
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/17381
+#EXTINF:-1,CONMEBOL 1 FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/17382
+#EXTINF:-1,CONMEBOL 2 FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/17383
+#EXTINF:-1,CONMEBOL 3 FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/17384
+#EXTINF:-1,CONMEBOL 4 FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/17385
+#EXTINF:-1,CINEMAX HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6944
+#EXTINF:-1,STAR PREMIUM 1 HD LEGENDADO 
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6802
+#EXTINF:-1,A&E HD DUAL AUDIO H.265¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6819
+#EXTINF:-1,HBO  HD LEGENDADO $
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6791
+#EXTINF:-1,SYFY HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6949
+#EXTINF:-1,PLUTO TV SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/21868
+#EXTINF:-1,PLUTO TV HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/21869
+#EXTINF:-1,LOADING HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/21871
+#EXTINF:-1,LOADING SD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/21870
+#EXTINF:-1,ESPN BRASIL HD³
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/22157
+#EXTINF:-1,COPA DO NORDESTE HD 1
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/23231
+#EXTINF:-1,COPA DO NORDESTE HD 2
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/23232
+#EXTINF:-1,COPA DO NORDESTE
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/23233
+#EXTINF:-1,COPA DO NORDESTE 2
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/23234
+#EXTINF:-1,COPA DO NORDESTE 2 HD
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/23235
+#EXTINF:-1,COPA DO NORDESTE 3
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/23236
+#EXTINF:-1,COPA DO NORDESTE 3 HD
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/23237
+#EXTINF:-1,COPA DO NORDESTE HD
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/23238
+#EXTINF:-1,CAMPEONATO CARIOCA HD 1
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/23240
+#EXTINF:-1,CARIOCÃO
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/23241
+#EXTINF:-1,CARIOCÃO HD
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/23242
+#EXTINF:-1,CARIOCÃO 2
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/23243
+#EXTINF:-1,CARIOCÃO 2 HD
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/23244
+#EXTINF:-1,CINE SKY LIGA DA JUSTIÇA
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/24199
+#EXTINF:-1,COPA DO NORDESTE 4
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/25245
+#EXTINF:-1,COPA DO NORDESTE 4 HD
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/25246
+#EXTINF:-1,COPA DO NORDESTE 7 HD
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/25247
+#EXTINF:-1,COPA DO NORDESTE 5
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/25248
+#EXTINF:-1,COPA DO NORDESTE 5 HD
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/25249
+#EXTINF:-1,COPA DO NORDESTE 6
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/25250
+#EXTINF:-1,COPA DO NORDESTE 6 HD
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/25251
+#EXTINF:-1,COPA DO NORDESTE 7
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/25252
+#EXTINF:-1,LIGA FUTSAL 2 HD
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/25462
+#EXTINF:-1,LIGA FUTSAL 2 SD
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/25463
+#EXTINF:-1,LIGA FUTSAL HD
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/25464
+#EXTINF:-1,LIGA FUTSAL SD
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/25465
+#EXTINF:-1,POWER COUPLE 5 HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/25530
+#EXTINF:-1,POWER COUPLE BRASIL HD³
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/25557
+#EXTINF:-1,MY TIME MOVIE NETWORK HD
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/25704
+#EXTINF:-1,ABU DABI SPORT 1 HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4596
+#EXTINF:-1,ABU DABI SPORT 2 HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4597
+#EXTINF:-1,ABU DABI SPORT 3 HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4598
+#EXTINF:-1,ABU DABI SPORT 4 HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4599
+#EXTINF:-1,ABU DABI SPORT 5 HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4600
+#EXTINF:-1,BAND SPORTS FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4531
+#EXTINF:-1,BAND SPORTS FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6703
+#EXTINF:-1,BAND SPORTS HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4554
+#EXTINF:-1,BAND SPORTS HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6918
+#EXTINF:-1,COMBATE FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4530
+#EXTINF:-1,COMBATE FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6704
+#EXTINF:-1,COMBATE HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4549
+#EXTINF:-1,COMBATE HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4548
+#EXTINF:-1,COMBATE HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6908
+#EXTINF:-1,ESPN 2 FHD H265²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4537
+#EXTINF:-1,ESPN 2 FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4538
+#EXTINF:-1,ESPN 2 FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6705
+#EXTINF:-1,ESPN 2 HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4570
+#EXTINF:-1,ESPN 2 HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6923
+#EXTINF:-1,ESPN BRASIL FHD H265²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4532
+#EXTINF:-1,ESPN BRASIL FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4533
+#EXTINF:-1,ESPN BRASIL FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6707
+#EXTINF:-1,ESPN BRASIL HDD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6921
+#EXTINF:-1,ESPN BRASIL HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4560
+#EXTINF:-1,ESPN  BRASIL HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6922
+#EXTINF:-1,ESPN EXTRA FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4534
+#EXTINF:-1,ESPN EXTRA FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6708
+#EXTINF:-1,ESPN EXTRA HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4563
+#EXTINF:-1,ESPN EXTRA HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4564
+#EXTINF:-1,ESPN EXTRA HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6924
+#EXTINF:-1,ESPN FHD H265²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4535
+#EXTINF:-1,ESPN FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4536
+#EXTINF:-1,ESPN FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6706
+#EXTINF:-1,ESPN HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4562
+#EXTINF:-1,ESPN HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4567
+#EXTINF:-1,ESPN HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6920
+#EXTINF:-1,STAR CHANNEL FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6709
+#EXTINF:-1,FOX SPORTS 2 FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4539
+#EXTINF:-1,FOX SPORTS 2 HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4577
+#EXTINF:-1,FOX SPORTS 2 HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4576
+#EXTINF:-1,FOX SPORTS 2 HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6905
+#EXTINF:-1,FOX SPORTS FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4542
+#EXTINF:-1,FOX SPORTS FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6710
+#EXTINF:-1,FOX SPORTS FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6711
+#EXTINF:-1,FOX SPORTS HD DUAL
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4580
+#EXTINF:-1,FOX SPORTS HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4579
+#EXTINF:-1,FOX SPORTS HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6904
+#EXTINF:-1,FX FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6714
+#EXTINF:-1,PREMIER 2 FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6770
+#EXTINF:-1,PREMIER 3 FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6771
+#EXTINF:-1,PREMIERE 4 FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6772
+#EXTINF:-1,PREMIER 5 FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6773
+#EXTINF:-1,PREMIER 6 FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6774
+#EXTINF:-1,PREMIER 7 FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6775
+#EXTINF:-1,PREMIER HD 3¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7028
+#EXTINF:-1,PREMIER HD 4¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7030
+#EXTINF:-1,PREMIER HD 5¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7032
+#EXTINF:-1,PREMIER HD 6¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7034
+#EXTINF:-1,PREMIERE  2 HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7026
+#EXTINF:-1,PREMIERE 2 FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4621
+#EXTINF:-1,PREMIERE 2 HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4639
+#EXTINF:-1,PREMIERE 2 HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4638
+#EXTINF:-1,PREMIERE 3 FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4623
+#EXTINF:-1,PREMIERE 3 HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4644
+#EXTINF:-1,PREMIERE 3 HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4642
+#EXTINF:-1,PREMIERE 4 FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4625
+#EXTINF:-1,PREMIERE 4 HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4649
+#EXTINF:-1,PREMIERE 4 HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4647
+#EXTINF:-1,PREMIERE 5 FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4626
+#EXTINF:-1,PREMIERE 5 HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4653
+#EXTINF:-1,PREMIERE 5 HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4652
+#EXTINF:-1,PREMIERE 6 FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4629
+#EXTINF:-1,PREMIERE 6 HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4657
+#EXTINF:-1,PREMIERE 6 HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4656
+#EXTINF:-1,PREMIERE 7 FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4630
+#EXTINF:-1,PREMIERE 7 HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4661
+#EXTINF:-1,PREMIERE 7 HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4660
+#EXTINF:-1,PREMIERE CLUBES FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6769
+#EXTINF:-1,PREMIERE CLUBE HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7038
+#EXTINF:-1,PREMIERE CLUBES FHD  H.265¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7040
+#EXTINF:-1,PREMIERE CLUBES FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4619
+#EXTINF:-1,PREMIERE CLUBES HD³
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4633
+#EXTINF:-1,PREMIERE CLUBES HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4632
+#EXTINF:-1,RED BULL TV  FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6715
+#EXTINF:-1,SPORTV 2 FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4543
+#EXTINF:-1,SPORTV 2 HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4584
+#EXTINF:-1,SPORTV 2 HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4585
+#EXTINF:-1,SPORTV 3 FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4544
+#EXTINF:-1,SPORTV 3 HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4589
+#EXTINF:-1,SPORTV 3 HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4588
+#EXTINF:-1,SPORTV 3 HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4590
+#EXTINF:-1,SPORTV FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4546
+#EXTINF:-1,SPORTV FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6712
+#EXTINF:-1,SPORTV FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6713
+#EXTINF:-1,SPORTV 2 HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6911
+#EXTINF:-1,SPORTV HD 3¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6912
+#EXTINF:-1,SPORTV HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4593
+#EXTINF:-1,SPORTV HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4592
+#EXTINF:-1,SPORTV HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4594
+#EXTINF:-1,SPORTV HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6910
+#EXTINF:-1,AGRO CANAL HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6826
+#EXTINF:-1,BAND CAMPINAS HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3817
+#EXTINF:-1,BAND HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3820
+#EXTINF:-1,BAND HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3819
+#EXTINF:-1,BAND HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6830
+#EXTINF:-1,CANAL BRASIL HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6840
+#EXTINF:-1,CANAL FUTURA HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3862
+#EXTINF:-1,CULTURA HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3853
+#EXTINF:-1,CULTURA HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3854
+#EXTINF:-1,CURTA HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3856
+#EXTINF:-1,CURTA! HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3859
+#EXTINF:-1,RECORD BAHIA HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3825
+#EXTINF:-1,RECORD BRASILIA HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3828
+#EXTINF:-1,RECORD HD RJ¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6839
+#EXTINF:-1,RECORD HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3830
+#EXTINF:-1,RECORD MG HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6838
+#EXTINF:-1,RECORD MINAS HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3833
+#EXTINF:-1,RECORD PARANA HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6835
+#EXTINF:-1,RECORD RIO HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3835
+#EXTINF:-1,RECORD RS HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3837
+#EXTINF:-1,REDE MASSA HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3847
+#EXTINF:-1,REDE TV FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6656
+#EXTINF:-1,REDE TV HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6829
+#EXTINF:-1,REDETV HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3840
+#EXTINF:-1,REDETV HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3839
+#EXTINF:-1,SBT GOIANIA HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3842
+#EXTINF:-1,SBT HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3844
+#EXTINF:-1,SBT HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3843
+#EXTINF:-1,SBT PERNAMBUCO HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3845
+#EXTINF:-1,SBT SP HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6832
+#EXTINF:-1,TV FONTE HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3849
+#EXTINF:-1,TV GAZETA HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3848
+#EXTINF:-1,TV GUARULHOS HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3850
+#EXTINF:-1,TV PAMPA RS  HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6828
+#EXTINF:-1,A&E FHD H265²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4088
+#EXTINF:-1,A&E FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6701
+#EXTINF:-1,A&E HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4125
+#EXTINF:-1,A&E HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6882
+#EXTINF:-1,AMC FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4089
+#EXTINF:-1,AMC FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6736
+#EXTINF:-1,AMC HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6928
+#EXTINF:-1,ANIMAL PLANET FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3912
+#EXTINF:-1,ANIMAL PLANET FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6669
+#EXTINF:-1,ANIMAL PLANET HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6848
+#EXTINF:-1,ARTE 1 FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6688
+#EXTINF:-1,ARTE 1 HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3992
+#EXTINF:-1,ARTE 1 HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6875
+#EXTINF:-1,AXN FHD H265²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4091
+#EXTINF:-1,AXN FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4090
+#EXTINF:-1,AXN FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6717
+#EXTINF:-1,AXN HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6941
+#EXTINF:-1,BAND FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3809
+#EXTINF:-1,BAND NEWS FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6763
+#EXTINF:-1,BIS FHD H265²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3981
+#EXTINF:-1,BIS FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3980
+#EXTINF:-1,BIS HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3998
+#EXTINF:-1,BIS HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3999
+#EXTINF:-1,BLOOMBERG INTERNATIONAL FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6754
+#EXTINF:-1,BOOMERANG FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6755
+#EXTINF:-1,BOOMERANG FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4209
+#EXTINF:-1,CANAL BRASIL FHD H265²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4094
+#EXTINF:-1,CANAL BRASIL FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6653
+#EXTINF:-1,CANAL BRASIL HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4139
+#EXTINF:-1,WARNER CHANNEL FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6672
+#EXTINF:-1,CANAL DO BOI FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6657
+#EXTINF:-1,CANAL SONY FHD H265²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4093
+#EXTINF:-1,CANAL SONY FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6725
+#EXTINF:-1,CANAL SONY FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6734
+#EXTINF:-1,CANAL SONY HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6960
+#EXTINF:-1,CARTOON NETWORK FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4211
+#EXTINF:-1,CINEMAX dual audio FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6724
+#EXTINF:-1,CINEMAX FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4095
+#EXTINF:-1,CNN BRASIL FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6697
+#EXTINF:-1,COMBATE FHD DUAL AUDIO H265¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6818
+#EXTINF:-1,COMEDY CENTRAL FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3989
+#EXTINF:-1,COMEDY CENTRAL HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4034
+#EXTINF:-1,COMEDY FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6700
+#EXTINF:-1,COMEDY HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6879
+#EXTINF:-1,DISCOVERY CHANNEL FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3913
+#EXTINF:-1,DISCOVERY CHANNEL FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6676
+#EXTINF:-1,DISCOVERY CHANNEL FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6679
+#EXTINF:-1,DISCOVERY CHANNEL HD DUAL ²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3939
+#EXTINF:-1,DISCOVERY CHANNEL HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3938
+#EXTINF:-1,DISCOVERY CIVILIZATION FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3915
+#EXTINF:-1,DISCOVERY H&H FHD H265²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3917
+#EXTINF:-1,DISCOVERY H&H FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3916
+#EXTINF:-1,DISCOVERY H&H FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6678
+#EXTINF:-1,DISCOVERY H&H HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3942
+#EXTINF:-1,DISCOVERY KIDS FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4212
+#EXTINF:-1,DISCOVERY SCIENCE FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3918
+#EXTINF:-1,DISCOVERY SCIENCE FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6677
+#EXTINF:-1,DISCOVERY SCIENCE HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3947
+#EXTINF:-1,DISCOVERY SCIENCE HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3946
+#EXTINF:-1,DISCOVERY SCIENCE HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6863
+#EXTINF:-1,DISCOVERY TEATHER FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3919
+#EXTINF:-1,DISCOVERY THEATER FHD LEGENDADO $
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6798
+#EXTINF:-1,DISCOVERY THEATER FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6674
+#EXTINF:-1,DISCOVERY THEATER HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3950
+#EXTINF:-1,DISCOVERY THEATER HD LEGENDADO $
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6799
+#EXTINF:-1,DISCOVERY THEATER HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3949
+#EXTINF:-1,DISCOVERY THEATER HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6861
+#EXTINF:-1,DISCOVERY TURBO FHD H265²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3922
+#EXTINF:-1,DISCOVERY TURBO FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3921
+#EXTINF:-1,DISCOVERY TURBO FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6670
+#EXTINF:-1,DISCOVERY WORLD FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3923
+#EXTINF:-1,DISCOVERY WORLD FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6675
+#EXTINF:-1,DISCOVERY WORLD HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3956
+#EXTINF:-1,DISCOVERY WORLD HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3955
+#EXTINF:-1,DISCOVERY-H&H HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3943
+#EXTINF:-1,DISNEY CHANNEL FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4213
+#EXTINF:-1,DISNEY CHANNEL FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6760
+#EXTINF:-1,DISNEY JR FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6756
+#EXTINF:-1,DISNEY JUNIOR FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4214
+#EXTINF:-1,DISNEY XD FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6757
+#EXTINF:-1,DOG TV FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6702
+#EXTINF:-1,DOG TV HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6878
+#EXTINF:-1,E CHANNEL HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6876
+#EXTINF:-1,E! HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4004
+#EXTINF:-1,E! HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4003
+#EXTINF:-1,FASHION FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6690
+#EXTINF:-1,FASHION TV HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6899
+#EXTINF:-1,FILM & ARTS FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4097
+#EXTINF:-1,FILM ARTS FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6728
+#EXTINF:-1,FISH FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3990
+#EXTINF:-1,FISH HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6852
+#EXTINF:-1,FISH TV FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6682
+#EXTINF:-1,FISH TV HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4038
+#EXTINF:-1,FISH TV HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4037
+#EXTINF:-1,FOOD NETWORK FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3983
+#EXTINF:-1,FOOD NETWORK FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6699
+#EXTINF:-1,FOOD NETWORK HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4006
+#EXTINF:-1,FOOD NETWORK HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4005
+#EXTINF:-1,FOOD NETWORK HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6887
+#EXTINF:-1,FOOD NETWORK²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3982
+#EXTINF:-1,STAR CHANNEL FHD H265²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4098
+#EXTINF:-1,STAR CHANNEL FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4099
+#EXTINF:-1,STAR CHANNEL HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6934
+#EXTINF:-1,STAR LIFE FHD H265²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4101
+#EXTINF:-1,STAR LIFE FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4100
+#EXTINF:-1,STAR LIFE FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6718
+#EXTINF:-1,STAR LIFE HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6931
+#EXTINF:-1,STAR PREMIUM 1 FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4102
+#EXTINF:-1,STAR PREMIUM 1 HD  H.265¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6816
+#EXTINF:-1,STAR PREMIUM 1 HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6937
+#EXTINF:-1,STAR PREMIUM 2 FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4103
+#EXTINF:-1,STAR PREMIUM 2 HD DUAL AUDIO H.265¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6817
+#EXTINF:-1,STAR PREMIUM 2 HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6938
+#EXTINF:-1,STAR PREMIUM FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6719
+#EXTINF:-1,STAR PREMIUM FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6720
+#EXTINF:-1,STAR PREMIUM HD 2 LEGENDADO 
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6803
+#EXTINF:-1,FOX SPORTS FHD H.265¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6825
+#EXTINF:-1,FX FHD DUAL AUDIO H.265¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6810
+#EXTINF:-1,FX FHD H265²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4105
+#EXTINF:-1,FX FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4104
+#EXTINF:-1,FX HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6933
+#EXTINF:-1,GLOBO  FLORIANOPOLIS FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6737
+#EXTINF:-1,GLOBO BRASILIA FHD H265²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4462
+#EXTINF:-1,GLOBO FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6741
+#EXTINF:-1,GLOBO RBS TV PO FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4465
+#EXTINF:-1,GLOBO RIO FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6740
+#EXTINF:-1,GLOBO RJ FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4466
+#EXTINF:-1,GLOBO SP FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4468
+#EXTINF:-1,GLOBO TV DIARIO FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6738
+#EXTINF:-1,GLOOB FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6758
+#EXTINF:-1,GLOOBINHO FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4217
+#EXTINF:-1,GNT FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6691
+#EXTINF:-1,GNT HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3984
+#EXTINF:-1,GNT HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4010
+#EXTINF:-1,HISTORY 2 FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6742
+#EXTINF:-1,HISTORY 2 HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6870
+#EXTINF:-1,HBO  FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6743
+#EXTINF:-1,HBO + DUAL AUDIO H.265¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6808
+#EXTINF:-1,HBO + FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3865
+#EXTINF:-1,HBO + HD LEGENDADO
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6790
+#EXTINF:-1,HBO 2 FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3867
+#EXTINF:-1,HBO 2 FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6744
+#EXTINF:-1,HBO FAMILY FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3869
+#EXTINF:-1,HBO FAMILY FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6748
+#EXTINF:-1,HBO FHD DUAL AUDIO  H.265¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6807
+#EXTINF:-1,HBO FHD LEGENDADO $
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6792
+#EXTINF:-1,HBO FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3871
+#EXTINF:-1,HBO FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6745
+#EXTINF:-1,HBO MUNDI FHD H265²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3875
+#EXTINF:-1,HBO MUNDI FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3874
+#EXTINF:-1,HBO MUNDI FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6749
+#EXTINF:-1,HBO MUNDI HD LEG $
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6804
+#EXTINF:-1,HBO PLUS + FHD LEGENDADO $
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6793
+#EXTINF:-1,HBO PLUS FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6746
+#EXTINF:-1,HBO POP DUAL  AUDIO FHD¹  H.265
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6809
+#EXTINF:-1,HBO POP FHD H265²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3879
+#EXTINF:-1,HBO SIGNATURA HD LEGENDADO $
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6789
+#EXTINF:-1,HBO SIGNATURE FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3873
+#EXTINF:-1,HBO SIGNATURE FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6747
+#EXTINF:-1,HBO XTREME FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6750
+#EXTINF:-1,HGTV FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6687
+#EXTINF:-1,HGTV HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4056
+#EXTINF:-1,HGTV HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6877
+#EXTINF:-1,HISTORY 2 FHD H265²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3925
+#EXTINF:-1,HISTORY 2 FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3924
+#EXTINF:-1,HISTORY 2 HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3958
+#EXTINF:-1,HISTORY 2 HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3959
+#EXTINF:-1,HISTORY CHANNEL FHD H265²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3927
+#EXTINF:-1,HISTORY CHANNEL FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3926
+#EXTINF:-1,HISTORY CHANNEL HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3962
+#EXTINF:-1,HISTORY FHD H.265  dual audio¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6821
+#EXTINF:-1,HISTORY HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3963
+#EXTINF:-1,HISTORY HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6850
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY FHD H.265¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6822
+#EXTINF:-1,ID HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3979
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6872
+#EXTINF:-1,IDEAL TV FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6696
+#EXTINF:-1,INTERNATIONAL NEWS FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6767
+#EXTINF:-1,INVESTIGAO DISCOVERY FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3928
+#EXTINF:-1,INVESTIGAO DISCOVERY HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3966
+#EXTINF:-1,LIFE TIME FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6689
+#EXTINF:-1,LIFETIME FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3985
+#EXTINF:-1,LIFETIME HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4014
+#EXTINF:-1,LIFETIME HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4013
+#EXTINF:-1,LIKE HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4086
+#EXTINF:-1,LIVE 1¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6900
+#EXTINF:-1,LIVE 2¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6901
+#EXTINF:-1,LOVE NATURAL FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6683
+#EXTINF:-1,LOVE NATURE HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4087
+#EXTINF:-1,MAIS GLOBO SAT FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6739
+#EXTINF:-1,MAIS GLOBOSAT HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4061
+#EXTINF:-1,MAIS GLOBOSAT HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4060
+#EXTINF:-1,MAX FHD DUAL AUDIO H.265¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6813
+#EXTINF:-1,MAX PRIME DUAL AUDIO H.265¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6812
+#EXTINF:-1,MAX PRIME FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6721
+#EXTINF:-1,MAX UP FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6730
+#EXTINF:-1,MAXPRIME HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6966
+#EXTINF:-1,MEGA PIX DUAL AUDIO H.265¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6811
+#EXTINF:-1,MEGA PIX FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6732
+#EXTINF:-1,MEGA PIX HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6946
+#EXTINF:-1,MEGA TV FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6731
+#EXTINF:-1,MEGAPIX FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4106
+#EXTINF:-1,MIAMI TV HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6874
+#EXTINF:-1,MTV FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3986
+#EXTINF:-1,MTV HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4018
+#EXTINF:-1,MTV HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4017
+#EXTINF:-1,MTV LIVE HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4019
+#EXTINF:-1,MULTISHOW FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3988
+#EXTINF:-1,MULTISHOW HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4024
+#EXTINF:-1,MULTISHOW HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4023
+#EXTINF:-1,MUSIC BOX BRAZIL HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4063
+#EXTINF:-1,NATGEO FHD H265²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3933
+#EXTINF:-1,NATGEO FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3932
+#EXTINF:-1,NATGEO FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6671
+#EXTINF:-1,NATGEO KIDS FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4215
+#EXTINF:-1,NATGEO KIDS FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6753
+#EXTINF:-1,NATGEO WILD FHD H265²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3931
+#EXTINF:-1,NATGEO WILD FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3930
+#EXTINF:-1,NATGEO WILD FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6680
+#EXTINF:-1,NATGEO WILD HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3970
+#EXTINF:-1,NATGEO WILD HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3969
+#EXTINF:-1,NATGEO WILD HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6868
+#EXTINF:-1,NHK HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4039
+#EXTINF:-1,NHK WORLD HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4041
+#EXTINF:-1,NHK WORLD JAPAN HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4042
+#EXTINF:-1,NICK JR FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4216
+#EXTINF:-1,NICK JR FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6759
+#EXTINF:-1,NICKELODEON FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3991
+#EXTINF:-1,NICKELODEON HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4055
+#EXTINF:-1,NICKELODEON FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6762
+#EXTINF:-1,OFF FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6693
+#EXTINF:-1,OFF HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4031
+#EXTINF:-1,OFF HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4030
+#EXTINF:-1,OFF HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6891
+#EXTINF:-1,PARAMOUNT CHANNEL FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4108
+#EXTINF:-1,PRIME BOX BRAZIL HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4075
+#EXTINF:-1,PRIME BOX BRAZIL HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4074
+#EXTINF:-1,RECORD FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3811
+#EXTINF:-1,REDETV FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3812
+#EXTINF:-1,RICTV MARINGA FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3813
+#EXTINF:-1,SBT FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3814
+#EXTINF:-1,SBT INTERIOR FHD ²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3815
+#EXTINF:-1,SKY NEWS FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6768
+#EXTINF:-1,SMITHSONIAN FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6686
+#EXTINF:-1,SMITHSONIAN HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3977
+#EXTINF:-1,SPACE DUAL AUDO H.265¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6814
+#EXTINF:-1,SPACE FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4109
+#EXTINF:-1,SPACE FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6723
+#EXTINF:-1,SPACE HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6958
+#EXTINF:-1,SPORTV FHD 3 H.265¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6824
+#EXTINF:-1,SPORTV FHD H.265¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6823
+#EXTINF:-1,STUDIO UNIVERSAL   HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6967
+#EXTINF:-1,STUDIO UNIVERSAL FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4111
+#EXTINF:-1,STUDIO UNIVERSAL FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6733
+#EXTINF:-1,SYFY FHD H265²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4114
+#EXTINF:-1,SYFY FHD LEG $
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6786
+#EXTINF:-1,SYFY FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4113
+#EXTINF:-1,SYFY FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6726
+#EXTINF:-1,SYFY HD LEGENDADO
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6787
+#EXTINF:-1,TBS FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6727
+#EXTINF:-1,TBS HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6951
+#EXTINF:-1,TELECINE FUN HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4299
+#EXTINF:-1,TCM HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4080
+#EXTINF:-1,TELECINE ACTION FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4287
+#EXTINF:-1,TELECINE ACTION FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6778
+#EXTINF:-1,TELECINE ACTION FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6779
+#EXTINF:-1,TELECINE ACTION HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7096
+#EXTINF:-1,TELECINE CULT FHD LEGENDADO $
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6797
+#EXTINF:-1,TELECINE CULT FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4288
+#EXTINF:-1,TELECINE CULT FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6785
+#EXTINF:-1,TELECINE CULT HD LEGENDADO $
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6796
+#EXTINF:-1,TELECINE FUN FHD DUAL AUDIO H.265¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7110
+#EXTINF:-1,TELECINE FUN FHD H265²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4291
+#EXTINF:-1,TELECINE FUN FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4290
+#EXTINF:-1,TELECINE FUN FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6784
+#EXTINF:-1,TELECINE PIPOCA  FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6783
+#EXTINF:-1,TELECINE PIPOCA DUAL AUDIO H.265¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7111
+#EXTINF:-1,TELECINE PIPOCA FHD H265²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4293
+#EXTINF:-1,TELECINE PIPOCA FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4292
+#EXTINF:-1,TELECINE PIPOCA HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4312
+#EXTINF:-1,TELECINE PIPOCA HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7106
+#EXTINF:-1,TELECINE PREMIUM FHD DUAL AUDIO H.265¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7109
+#EXTINF:-1,TELECINE PREMIUM FHD LEGENDADO $
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6795
+#EXTINF:-1,TELECINE PREMIUM FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4294
+#EXTINF:-1,TELECINE PREMIUM FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6782
+#EXTINF:-1,TELECINE PREMIUM HD LEGENDADO $
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6794
+#EXTINF:-1,TELECINE TOUCH FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4296
+#EXTINF:-1,TELECINE TOUCH FHD² 
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4318
+#EXTINF:-1,TELECINE TOUCH FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6780
+#EXTINF:-1,TELECINE TOUCH FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6781
+#EXTINF:-1,TLC FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6684
+#EXTINF:-1,TNT FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4115
+#EXTINF:-1,TNT FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6685
+#EXTINF:-1,TNT HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4193
+#EXTINF:-1,TNT HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6954
+#EXTINF:-1,TNT SERIES FHD DUAL AUDIO H.265¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6815
+#EXTINF:-1,TNT SERIES FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4117
+#EXTINF:-1,TNT SERIES FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6722
+#EXTINF:-1,TNT SERIES HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6955
+#EXTINF:-1,TOP TV HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4068
+#EXTINF:-1,TRACE BRAZUKA FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6698
+#EXTINF:-1,TRAVEL BOX BRAZIL HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4081
+#EXTINF:-1,TRAVEL BOX FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6695
+#EXTINF:-1,TV BRASIL HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4082
+#EXTINF:-1,TV CAIUA HD ²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4083
+#EXTINF:-1,TV CULTURA FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6654
+#EXTINF:-1,TV GAZETA FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6655
+#EXTINF:-1,TV RATIMBUM FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6761
+#EXTINF:-1,TV TAROBA HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4084
+#EXTINF:-1,UNIVERSAL CHANNEL FHD LEG $
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6800
+#EXTINF:-1,UNIVERSAL CHANNEL HD LEGENDADO $
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6801
+#EXTINF:-1,UNIVERSAL TV  FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6735
+#EXTINF:-1,UNIVERSAL TV FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4118
+#EXTINF:-1,UNIVERSAL TV HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6968
+#EXTINF:-1,VH1 FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6681
+#EXTINF:-1,VH1 HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4066
+#EXTINF:-1,VH1 HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4065
+#EXTINF:-1,VIVA FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6692
+#EXTINF:-1,VIVA HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4052
+#EXTINF:-1,VIVA HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4051
+#EXTINF:-1,WARNER CHANNEL FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4120
+#EXTINF:-1,WARNER CHANNEL HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4206
+#EXTINF:-1,WARNER CHANNEL HD LEG $
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6788
+#EXTINF:-1,WARNER CHANNEL HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4205
+#EXTINF:-1,WARNER CHANNEL HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/7010
+#EXTINF:-1,WARNER CHANNEL FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6673
+#EXTINF:-1,WOHOO FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6729
+#EXTINF:-1,WOOHOO HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4047
+#EXTINF:-1,WOOHOO HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4046
+#EXTINF:-1,ZOOMO FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6694
+#EXTINF:-1,Zoomoo
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6897
+#EXTINF:-1,ZOOMOO HD DUAL²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4072
+#EXTINF:-1,ZOOMOO HD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4071
+#EXTINF:-1,HBO POP FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3878
+#EXTINF:-1,HBO XTREME FHD²
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/3877
