@@ -1,1 +1,387 @@
-Ddd
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]============[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COR cyan][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&url=http
+#EXTM3U
+
+
+#EXTM3U
+#EXTINF:-1,PT: A BOLA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/128992.ts
+#EXTINF:-1,PT: MÚSICA AFRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/128993.ts
+#EXTINF:-1,PT: ALMA LUSA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/128995.ts
+#EXTINF:-1,PT: AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/128996.ts
+#EXTINF:-1,PT: APANHADOS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/128997.ts
+#EXTINF:-1,PT: APANHADOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/128998.ts
+#EXTINF:-1,PT: AR TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/128999.ts
+#EXTINF:-1,PT: AXN Black
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129000.ts
+#EXTINF:-1,PT: AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129001.ts
+#EXTINF:-1,PT: Filmes AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129002.ts
+#EXTINF:-1,PT: AXN White FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129003.ts
+#EXTINF:-1,PT: TV DOS AÇORES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129004.ts
+#EXTINF:-1,PT: BABY TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129005.ts
+#EXTINF:-1,PT: BBC ENTERTAINEMENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129007.ts
+#EXTINF:-1,PT: BBC World News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129008.ts
+#EXTINF:-1,PT: Benfica TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129009.ts
+#EXTINF:-1,PT: BIGGS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129010.ts
+#EXTINF:-1,PT: BLAZE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129011.ts
+#EXTINF:-1,PT: Bloomberg HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129013.ts
+#EXTINF:-1,PT: BUMERANGUE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129014.ts
+#EXTINF:-1,PT: BTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129015.ts
+#EXTINF:-1,PT: CAMPO PEQUENO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129016.ts
+#EXTINF:-1,PT: Canal 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129017.ts
+#EXTINF:-1,PT: CANAL 180
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129018.ts
+#EXTINF:-1,PT: CANAL NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129019.ts
+#EXTINF:-1,PT: CANAL PANDA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129020.ts
+#EXTINF:-1,PT: Canal Porto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129021.ts
+#EXTINF:-1,PT: CANAL Q FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129022.ts
+#EXTINF:-1,PT: Canal Ricos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129023.ts
+#EXTINF:-1,PT: CANCAO NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129024.ts
+#EXTINF:-1,PT: Cartoon Network FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129025.ts
+#EXTINF:-1,PT: CASA E COZINHA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129027.ts
+#EXTINF:-1,PT: CASA Y PESCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129028.ts
+#EXTINF:-1,PT: CBC Reality
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129029.ts
+#EXTINF:-1,PT: CBS REALITY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129030.ts
+#EXTINF:-1,PT: CGTN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129031.ts
+#EXTINF:-1,PT: CINEMA PORTUGAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129032.ts
+#EXTINF:-1,PT: CINEMUNDO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129033.ts
+#EXTINF:-1,PT: Clubbing TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129034.ts
+#EXTINF:-1,PT: CM TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129035.ts
+#EXTINF:-1,PT: CNBC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129036.ts
+#EXTINF:-1,PT: CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129037.ts
+#EXTINF:-1,PT: COMBATE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129038.ts
+#EXTINF:-1,PT: Crime+ Investigation HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129039.ts
+#EXTINF:-1,PT: Discovery Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129041.ts
+#EXTINF:-1,PT: Discovery Showcase HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129042.ts
+#EXTINF:-1,PT: Discovery World Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129044.ts
+#EXTINF:-1,PT: Disney Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129045.ts
+#EXTINF:-1,PT: Disney JUNIOR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129047.ts
+#EXTINF:-1,PT: Disney+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129049.ts
+#EXTINF:-1,PT: DOG FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129050.ts
+#EXTINF:-1,PT: DRAGON BALL SUPER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129051.ts
+#EXTINF:-1,PT: DW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129052.ts
+#EXTINF:-1,PT: E! FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129053.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129055.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129057.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129059.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129061.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129063.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129065.ts
+#EXTINF:-1,PT: ESTUDOS EM CASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129067.ts
+#EXTINF:-1,PT: euronews HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129068.ts
+#EXTINF:-1,PT: FASHION TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129074.ts
+#EXTINF:-1,PT: FATIMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129075.ts
+#EXTINF:-1,PT: FIGHT BOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129076.ts
+#EXTINF:-1,PT: FIGHT Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129078.ts
+#EXTINF:-1,PT: FOOD NETWORK FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129079.ts
+#EXTINF:-1,PT: FOX Comedy FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129080.ts
+#EXTINF:-1,PT: FOX Crime FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129081.ts
+#EXTINF:-1,PT: FOX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129082.ts
+#EXTINF:-1,PT: FOX Life FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129083.ts
+#EXTINF:-1,PT: FOX Movies FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129085.ts
+#EXTINF:-1,PT: FOX News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129086.ts
+#EXTINF:-1,PT: FOX SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129087.ts
+#EXTINF:-1,PT: france 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129088.ts
+#EXTINF:-1,PT: FUEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129089.ts
+#EXTINF:-1,PT: GALICIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129090.ts
+#EXTINF:-1,PT: Gametoon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129091.ts
+#EXTINF:-1,PT: GATO FEDORENTO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129092.ts
+#EXTINF:-1,PT: GINX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129093.ts
+#EXTINF:-1,PT: GLOBO BRAZIL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129094.ts
+#EXTINF:-1,PT: GLOBO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129095.ts
+#EXTINF:-1,PT: GLOBO NOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129096.ts
+#EXTINF:-1,PT: GLOBO PORTUGAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129097.ts
+#EXTINF:-1,PT: GLOBO PREMIUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129098.ts
+#EXTINF:-1,PT: HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129099.ts
+#EXTINF:-1,PT: HBO PORTUGAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129100.ts
+#EXTINF:-1,PT: HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129101.ts
+#EXTINF:-1,PT: Hollywood FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129103.ts
+#EXTINF:-1,PT: INSIDE FORMULA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129104.ts
+#EXTINF:-1,PT: Investigation Discovery FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129105.ts
+#EXTINF:-1,PT: JimJam FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129107.ts
+#EXTINF:-1,PT: KOMBAT SPORT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129109.ts
+#EXTINF:-1,PT: KURIAKOS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129110.ts
+#EXTINF:-1,PT: KURIAKOS KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129111.ts
+#EXTINF:-1,PT: LOCALVISAO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129112.ts
+#EXTINF:-1,PT: Lolly Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129113.ts
+#EXTINF:-1,PT: MARVEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129114.ts
+#EXTINF:-1,PT: MAS CHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129115.ts
+#EXTINF:-1,PT: MCM POP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129116.ts
+#EXTINF:-1,PT: MCM TOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129118.ts
+#EXTINF:-1,PT: MEO Destaques
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129120.ts
+#EXTINF:-1,PT: MEO Videoclube
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129121.ts
+#EXTINF:-1,PT: MEZZO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129122.ts
+#EXTINF:-1,PT: MOTORVISION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129123.ts
+#EXTINF:-1,PT: MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129124.ts
+#EXTINF:-1,PT: MTV PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129125.ts
+#EXTINF:-1,PT: NAT GEO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129126.ts
+#EXTINF:-1,PT: NAT GEO Wild FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129128.ts
+#EXTINF:-1,PT: NBA TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129130.ts
+#EXTINF:-1,PT: NETFLIX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129131.ts
+#EXTINF:-1,PT: NETFLIX KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129132.ts
+#EXTINF:-1,PT: NHK World
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129133.ts
+#EXTINF:-1,PT: Nick Junior FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129134.ts
+#EXTINF:-1,PT: nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129136.ts
+#EXTINF:-1,PT: Nicklelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129138.ts
+#EXTINF:-1,PT: NOS STUDIO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129139.ts
+#EXTINF:-1,PT: NOW FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129140.ts
+#EXTINF:-1,PT: ODISSEIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129141.ts
+#EXTINF:-1,PT: OPTO SIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129142.ts
+#EXTINF:-1,PT: OUTDOOR Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129143.ts
+#EXTINF:-1,PT: PANDA BIGGS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129144.ts
+#EXTINF:-1,PT: PORTO CANAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129145.ts
+#EXTINF:-1,PT: QYOU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129146.ts
+#EXTINF:-1,PT: REAL MADRID TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129147.ts
+#EXTINF:-1,PT: Record News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129148.ts
+#EXTINF:-1,PT: Record TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129149.ts
+#EXTINF:-1,PT: RED BULL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129150.ts
+#EXTINF:-1,PT: RTP 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129151.ts
+#EXTINF:-1,PT: RTP 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129152.ts
+#EXTINF:-1,PT: RTP 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129153.ts
+#EXTINF:-1,PT: RTP ACORES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129154.ts
+#EXTINF:-1,PT: RTP AFRICA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129155.ts
+#EXTINF:-1,PT: RTP INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129156.ts
+#EXTINF:-1,PT: RTP MADEIRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129157.ts
+#EXTINF:-1,PT: RTP Memoria FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129158.ts
+#EXTINF:-1,PT: S+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129159.ts
+#EXTINF:-1,PT: SIC CARAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129160.ts
+#EXTINF:-1,PT: SIC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129161.ts
+#EXTINF:-1,PT: SIC K HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129162.ts
+#EXTINF:-1,PT: SIC KIDS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129163.ts
+#EXTINF:-1,PT: SIC Mulher FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129164.ts
+#EXTINF:-1,PT: SIC NOTICIAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129165.ts
+#EXTINF:-1,PT: SIC RADICAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129166.ts
+#EXTINF:-1,PT: Sky News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129167.ts
+#EXTINF:-1,PT: SPORT TV + FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129168.ts
+#EXTINF:-1,PT: SPORT TV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129170.ts
+#EXTINF:-1,PT: SPORT TV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129172.ts
+#EXTINF:-1,PT: SPORT TV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129174.ts
+#EXTINF:-1,PT: SPORT TV 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129176.ts
+#EXTINF:-1,PT: SPORT TV 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129178.ts
+#EXTINF:-1,PT: SPORT TV NBA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129180.ts
+#EXTINF:-1,PT: Sporting HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129181.ts
+#EXTINF:-1,PT: SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129182.ts
+#EXTINF:-1,PT: TCV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129183.ts
+#EXTINF:-1,PT: TIJI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129184.ts
+#EXTINF:-1,PT: TLC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129185.ts
+#EXTINF:-1,PT: TOROS TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129186.ts
+#EXTINF:-1,PT: TPA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129187.ts
+#EXTINF:-1,PT: TPA INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129188.ts
+#EXTINF:-1,PT: TRACE TOCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129189.ts
+#EXTINF:-1,PT: TRACE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129190.ts
+#EXTINF:-1,PT: TRACE URBAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129191.ts
+#EXTINF:-1,PT: Travel Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129192.ts
+#EXTINF:-1,PT: TV BNO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129194.ts
+#EXTINF:-1,PT: TV Cancao Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129195.ts
+#EXTINF:-1,PT: TV Globo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129196.ts
+#EXTINF:-1,PT: TV GLOBO PREMIUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129197.ts
+#EXTINF:-1,PT: TV Man
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129198.ts
+#EXTINF:-1,PT: TV PAI ETERNO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129199.ts
+#EXTINF:-1,PT: TV Record FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129200.ts
+#EXTINF:-1,PT: TV5 MONDE EUROPE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129201.ts
+#EXTINF:-1,PT: TVC News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129202.ts
+#EXTINF:-1,PT: TVCine Action FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129203.ts
+#EXTINF:-1,PT: TVCINE EDITIOMN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129204.ts
+#EXTINF:-1,PT: TVCine Edition FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129205.ts
+#EXTINF:-1,PT: TVCine Emotion FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129206.ts
+#EXTINF:-1,PT: TVCine Top FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129207.ts
+#EXTINF:-1,PT: TVCine+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129208.ts
+#EXTINF:-1,PT: TVE 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129209.ts
+#EXTINF:-1,PT: TVE Internacional
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129210.ts
+#EXTINF:-1,PT: TVI 24 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129211.ts
+#EXTINF:-1,PT: TVI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129212.ts
+#EXTINF:-1,PT: TVI FICCAO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129213.ts
+#EXTINF:-1,PT: tvi Fisclo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129214.ts
+#EXTINF:-1,PT: Realidade TVI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129215.ts
+#EXTINF:-1,PT: TVI REALITY MOSAICO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129216.ts
+#EXTINF:-1,PT: VH1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129217.ts
+#EXTINF:-1,PT: WWE NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129219.ts
+#EXTINF:-1,PT: ZAP VIVA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129220.ts
