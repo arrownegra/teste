@@ -2,386 +2,587 @@
 #EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]============[/B][/COLOR]
 plugin://plugin.video.f4mTester/?name=[COR cyan][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&url=http
 #EXTM3U
+     
 
 
 #EXTM3U
-#EXTINF:-1,PT: A BOLA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/128992.ts
-#EXTINF:-1,PT: MÚSICA AFRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/128993.ts
-#EXTINF:-1,PT: ALMA LUSA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/128995.ts
-#EXTINF:-1,PT: AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/128996.ts
-#EXTINF:-1,PT: APANHADOS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/128997.ts
-#EXTINF:-1,PT: APANHADOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/128998.ts
-#EXTINF:-1,PT: AR TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/128999.ts
-#EXTINF:-1,PT: AXN Black
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129000.ts
-#EXTINF:-1,PT: AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129001.ts
-#EXTINF:-1,PT: Filmes AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129002.ts
-#EXTINF:-1,PT: AXN White FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129003.ts
-#EXTINF:-1,PT: TV DOS AÇORES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129004.ts
-#EXTINF:-1,PT: BABY TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129005.ts
-#EXTINF:-1,PT: BBC ENTERTAINEMENT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129007.ts
-#EXTINF:-1,PT: BBC World News FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129008.ts
-#EXTINF:-1,PT: Benfica TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129009.ts
-#EXTINF:-1,PT: BIGGS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129010.ts
-#EXTINF:-1,PT: BLAZE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129011.ts
-#EXTINF:-1,PT: Bloomberg HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129013.ts
-#EXTINF:-1,PT: BUMERANGUE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129014.ts
-#EXTINF:-1,PT: BTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129015.ts
-#EXTINF:-1,PT: CAMPO PEQUENO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129016.ts
-#EXTINF:-1,PT: Canal 11 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129017.ts
-#EXTINF:-1,PT: CANAL 180
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129018.ts
-#EXTINF:-1,PT: CANAL NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129019.ts
-#EXTINF:-1,PT: CANAL PANDA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129020.ts
-#EXTINF:-1,PT: Canal Porto
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129021.ts
-#EXTINF:-1,PT: CANAL Q FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129022.ts
-#EXTINF:-1,PT: Canal Ricos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129023.ts
-#EXTINF:-1,PT: CANCAO NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129024.ts
-#EXTINF:-1,PT: Cartoon Network FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129025.ts
-#EXTINF:-1,PT: CASA E COZINHA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129027.ts
-#EXTINF:-1,PT: CASA Y PESCA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129028.ts
-#EXTINF:-1,PT: CBC Reality
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129029.ts
-#EXTINF:-1,PT: CBS REALITY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129030.ts
-#EXTINF:-1,PT: CGTN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129031.ts
-#EXTINF:-1,PT: CINEMA PORTUGAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129032.ts
-#EXTINF:-1,PT: CINEMUNDO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129033.ts
-#EXTINF:-1,PT: Clubbing TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129034.ts
-#EXTINF:-1,PT: CM TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129035.ts
-#EXTINF:-1,PT: CNBC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129036.ts
-#EXTINF:-1,PT: CNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129037.ts
-#EXTINF:-1,PT: COMBATE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129038.ts
-#EXTINF:-1,PT: Crime+ Investigation HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129039.ts
-#EXTINF:-1,PT: Discovery Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129041.ts
-#EXTINF:-1,PT: Discovery Showcase HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129042.ts
-#EXTINF:-1,PT: Discovery World Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129044.ts
-#EXTINF:-1,PT: Disney Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129045.ts
-#EXTINF:-1,PT: Disney JUNIOR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129047.ts
-#EXTINF:-1,PT: Disney+ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129049.ts
-#EXTINF:-1,PT: DOG FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129050.ts
-#EXTINF:-1,PT: DRAGON BALL SUPER HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129051.ts
-#EXTINF:-1,PT: DW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129052.ts
-#EXTINF:-1,PT: E! FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129053.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129055.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129057.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129059.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129061.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129063.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129065.ts
-#EXTINF:-1,PT: ESTUDOS EM CASA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129067.ts
-#EXTINF:-1,PT: euronews HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129068.ts
-#EXTINF:-1,PT: FASHION TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129074.ts
-#EXTINF:-1,PT: FATIMA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129075.ts
-#EXTINF:-1,PT: FIGHT BOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129076.ts
-#EXTINF:-1,PT: FIGHT Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129078.ts
-#EXTINF:-1,PT: FOOD NETWORK FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129079.ts
-#EXTINF:-1,PT: FOX Comedy FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129080.ts
-#EXTINF:-1,PT: FOX Crime FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129081.ts
-#EXTINF:-1,PT: FOX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129082.ts
-#EXTINF:-1,PT: FOX Life FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129083.ts
-#EXTINF:-1,PT: FOX Movies FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129085.ts
-#EXTINF:-1,PT: FOX News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129086.ts
-#EXTINF:-1,PT: FOX SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129087.ts
-#EXTINF:-1,PT: france 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129088.ts
-#EXTINF:-1,PT: FUEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129089.ts
-#EXTINF:-1,PT: GALICIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129090.ts
-#EXTINF:-1,PT: Gametoon HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129091.ts
-#EXTINF:-1,PT: GATO FEDORENTO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129092.ts
-#EXTINF:-1,PT: GINX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129093.ts
-#EXTINF:-1,PT: GLOBO BRAZIL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129094.ts
-#EXTINF:-1,PT: GLOBO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129095.ts
-#EXTINF:-1,PT: GLOBO NOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129096.ts
-#EXTINF:-1,PT: GLOBO PORTUGAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129097.ts
-#EXTINF:-1,PT: GLOBO PREMIUM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129098.ts
-#EXTINF:-1,PT: HBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129099.ts
-#EXTINF:-1,PT: HBO PORTUGAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129100.ts
-#EXTINF:-1,PT: HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129101.ts
-#EXTINF:-1,PT: Hollywood FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129103.ts
-#EXTINF:-1,PT: INSIDE FORMULA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129104.ts
-#EXTINF:-1,PT: Investigation Discovery FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129105.ts
-#EXTINF:-1,PT: JimJam FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129107.ts
-#EXTINF:-1,PT: KOMBAT SPORT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129109.ts
-#EXTINF:-1,PT: KURIAKOS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129110.ts
-#EXTINF:-1,PT: KURIAKOS KIDS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129111.ts
-#EXTINF:-1,PT: LOCALVISAO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129112.ts
-#EXTINF:-1,PT: Lolly Kids HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129113.ts
-#EXTINF:-1,PT: MARVEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129114.ts
-#EXTINF:-1,PT: MAS CHIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129115.ts
-#EXTINF:-1,PT: MCM POP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129116.ts
-#EXTINF:-1,PT: MCM TOP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129118.ts
-#EXTINF:-1,PT: MEO Destaques
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129120.ts
-#EXTINF:-1,PT: MEO Videoclube
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129121.ts
-#EXTINF:-1,PT: MEZZO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129122.ts
-#EXTINF:-1,PT: MOTORVISION FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129123.ts
-#EXTINF:-1,PT: MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129124.ts
-#EXTINF:-1,PT: MTV PORTUGAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129125.ts
-#EXTINF:-1,PT: NAT GEO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129126.ts
-#EXTINF:-1,PT: NAT GEO Wild FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129128.ts
-#EXTINF:-1,PT: NBA TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129130.ts
-#EXTINF:-1,PT: NETFLIX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129131.ts
-#EXTINF:-1,PT: NETFLIX KIDS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129132.ts
-#EXTINF:-1,PT: NHK World
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129133.ts
-#EXTINF:-1,PT: Nick Junior FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129134.ts
-#EXTINF:-1,PT: nickelodeon HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129136.ts
-#EXTINF:-1,PT: Nicklelodeon HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129138.ts
-#EXTINF:-1,PT: NOS STUDIO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129139.ts
-#EXTINF:-1,PT: NOW FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129140.ts
-#EXTINF:-1,PT: ODISSEIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129141.ts
-#EXTINF:-1,PT: OPTO SIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129142.ts
-#EXTINF:-1,PT: OUTDOOR Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129143.ts
-#EXTINF:-1,PT: PANDA BIGGS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129144.ts
-#EXTINF:-1,PT: PORTO CANAL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129145.ts
-#EXTINF:-1,PT: QYOU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129146.ts
-#EXTINF:-1,PT: REAL MADRID TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129147.ts
-#EXTINF:-1,PT: Record News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129148.ts
-#EXTINF:-1,PT: Record TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129149.ts
-#EXTINF:-1,PT: RED BULL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129150.ts
+#EXTINF:-1,PT: RTP 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2211
 #EXTINF:-1,PT: RTP 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129151.ts
-#EXTINF:-1,PT: RTP 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129152.ts
-#EXTINF:-1,PT: RTP 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129153.ts
-#EXTINF:-1,PT: RTP ACORES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129154.ts
-#EXTINF:-1,PT: RTP AFRICA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129155.ts
-#EXTINF:-1,PT: RTP INTERNACIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129156.ts
-#EXTINF:-1,PT: RTP MADEIRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129157.ts
-#EXTINF:-1,PT: RTP Memoria FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129158.ts
-#EXTINF:-1,PT: S+ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129159.ts
-#EXTINF:-1,PT: SIC CARAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129160.ts
-#EXTINF:-1,PT: SIC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129161.ts
-#EXTINF:-1,PT: SIC K HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129162.ts
-#EXTINF:-1,PT: SIC KIDS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129163.ts
-#EXTINF:-1,PT: SIC Mulher FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129164.ts
-#EXTINF:-1,PT: SIC NOTICIAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129165.ts
-#EXTINF:-1,PT: SIC RADICAL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129166.ts
-#EXTINF:-1,PT: Sky News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129167.ts
-#EXTINF:-1,PT: SPORT TV + FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129168.ts
-#EXTINF:-1,PT: SPORT TV 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129170.ts
-#EXTINF:-1,PT: SPORT TV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129172.ts
-#EXTINF:-1,PT: SPORT TV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129174.ts
-#EXTINF:-1,PT: SPORT TV 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129176.ts
-#EXTINF:-1,PT: SPORT TV 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129178.ts
-#EXTINF:-1,PT: SPORT TV NBA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129180.ts
-#EXTINF:-1,PT: Sporting HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129181.ts
-#EXTINF:-1,PT: SYFY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129182.ts
-#EXTINF:-1,PT: TCV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129183.ts
-#EXTINF:-1,PT: TIJI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129184.ts
-#EXTINF:-1,PT: TLC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129185.ts
-#EXTINF:-1,PT: TOROS TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129186.ts
-#EXTINF:-1,PT: TPA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129187.ts
-#EXTINF:-1,PT: TPA INTERNACIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129188.ts
-#EXTINF:-1,PT: TRACE TOCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129189.ts
-#EXTINF:-1,PT: TRACE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129190.ts
-#EXTINF:-1,PT: TRACE URBAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129191.ts
-#EXTINF:-1,PT: Travel Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129192.ts
-#EXTINF:-1,PT: TV BNO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129194.ts
-#EXTINF:-1,PT: TV Cancao Nova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129195.ts
-#EXTINF:-1,PT: TV Globo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129196.ts
-#EXTINF:-1,PT: TV GLOBO PREMIUM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129197.ts
-#EXTINF:-1,PT: TV Man
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129198.ts
-#EXTINF:-1,PT: TV PAI ETERNO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129199.ts
-#EXTINF:-1,PT: TV Record FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129200.ts
-#EXTINF:-1,PT: TV5 MONDE EUROPE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129201.ts
-#EXTINF:-1,PT: TVC News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129202.ts
-#EXTINF:-1,PT: TVCine Action FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129203.ts
-#EXTINF:-1,PT: TVCINE EDITIOMN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129204.ts
-#EXTINF:-1,PT: TVCine Edition FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129205.ts
-#EXTINF:-1,PT: TVCine Emotion FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129206.ts
-#EXTINF:-1,PT: TVCine Top FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129207.ts
-#EXTINF:-1,PT: TVCine+ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129208.ts
-#EXTINF:-1,PT: TVE 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129209.ts
-#EXTINF:-1,PT: TVE Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129210.ts
-#EXTINF:-1,PT: TVI 24 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129211.ts
-#EXTINF:-1,PT: TVI FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129212.ts
-#EXTINF:-1,PT: TVI FICCAO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129213.ts
-#EXTINF:-1,PT: tvi Fisclo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129214.ts
-#EXTINF:-1,PT: Realidade TVI FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129215.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/162611
+#EXTINF:-1,PT: RTP 1 H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/205663
+#EXTINF:-1,PT: RTP 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2212
+#EXTINF:-1,PT: RTP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/205664
+#EXTINF:-1,PT: RTP 2 H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/162612
+#EXTINF:-1,PT: SIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2216
+#EXTINF:-1,PT: SIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/169304
+#EXTINF:-1,PT: SIC H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/205665
+#EXTINF:-1,PT: TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2220
+#EXTINF:-1,PT: TVI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/169303
+#EXTINF:-1,PT: TVI H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/209530
+#EXTINF:-1,PT: CNN PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2221
+#EXTINF:-1,PT: CNN PORTUGAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374642
+#EXTINF:-1,PT: CNN PORTUGAL H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/338931
+#EXTINF:-1,PT: TVI FICÇAO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/136631
+#EXTINF:-1,PT: TVI FICÇAO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374643
+#EXTINF:-1,PT: TVI FICCAO H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/338953
+#EXTINF:-1,PT: TVI REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/136659
+#EXTINF:-1,PT: TVI REALITY H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/338963
+#EXTINF:-1,PT: TVI REALITY - O AMOR ACONTECE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374676
+#EXTINF:-1,PT: TVI REALITY - BIG BROTHER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/361077
 #EXTINF:-1,PT: TVI REALITY MOSAICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129216.ts
-#EXTINF:-1,PT: VH1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129217.ts
-#EXTINF:-1,PT: WWE NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129219.ts
-#EXTINF:-1,PT: ZAP VIVA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/129220.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/264147
+#EXTINF:-1,PT: RTP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/136263
+#EXTINF:-1,PT: RTP 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374672
+#EXTINF:-1,PT: RTP 3 H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/338956
+#EXTINF:-1,PT: RTP AFRICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/136684
+#EXTINF:-1,PT: RTP ACORES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2213
+#EXTINF:-1,PT: RTP MADEIRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2215
+#EXTINF:-1,PT: RTP MEMORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2214
+#EXTINF:-1,PT: SIC NOTICIAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2219
+#EXTINF:-1,PT: SIC NOTICIAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374677
+#EXTINF:-1,PT: SIC NOTICIAS H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/338932
+#EXTINF:-1,PT: SIC RADICAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/136264
+#EXTINF:-1,PT: SIC RADICAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374648
+#EXTINF:-1,PT: SIC RADICAL H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/338962
+#EXTINF:-1,PT: SIC CARAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/136630
+#EXTINF:-1,PT: SIC CARAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374650
+#EXTINF:-1,PT: SIC CARAS H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/338959
+#EXTINF:-1,PT: SIC MULHER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2218
+#EXTINF:-1,PT: SIC MULHER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374649
+#EXTINF:-1,PT: SIC MULHER H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/338961
+#EXTINF:-1,PT: CMTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2204
+#EXTINF:-1,PT: CMTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374670
+#EXTINF:-1,PT: CMTV H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/338928
+#EXTINF:-1,PT: ZAP VIVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/252147
+#EXTINF:-1,PT: ZAP VIVA H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/198367
+#EXTINF:-1,PT: ZAP VIVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/252146
+#EXTINF:-1,PT: TCV CABO VERDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/240454
+#EXTINF:-1,PT: TV MOÇAMBIQUE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/240455
+#EXTINF:-1,PT: CASA E COZINHA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/251728
+#EXTINF:-1,PT: CASA E COZINHA H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/251726
+#EXTINF:-1,PT: CASA E COZINHA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/251727
+#EXTINF:-1,PT: 24 KITCHEN 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/234098
+#EXTINF:-1,PT: 24 KITCHEN H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2203
+#EXTINF:-1,PT: 24 KITCHEN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/234099
+#EXTINF:-1,PT: CANÇAO NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/165587
+#EXTINF:-1,PT: CANAL Q
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/132901
+#EXTINF:-1,PT: CBS REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/132903
+#EXTINF:-1,PT: MAS CHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374674
+#EXTINF:-1,PT: E! 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/132910
+#EXTINF:-1,PT: E! H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/338958
+#EXTINF:-1,PT: FASHION TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/136676
+#EXTINF:-1,PT: FOX NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/132917
+#EXTINF:-1,PT: GLOBO NOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/132897
+#EXTINF:-1,PT: GLOBO PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2209
+#EXTINF:-1,PT: GLOBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374668
+#EXTINF:-1,PT: GLOBO H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/338946
+#EXTINF:-1,PT: GLOBO INTER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/246535
+#EXTINF:-1,PT: BLOOMBERG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/136683
+#EXTINF:-1,PT: TV RECORD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2225
+#EXTINF:-1,PT: RECORD NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/212611
+#EXTINF:-1,PT: TV  FATIMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/165588
+#EXTINF:-1,PT: SAUDE +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374538
+#EXTINF:-1,PT: TPA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/256004
+#EXTINF:-1,PT: PORTO CANAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2210
+#EXTINF:-1,PT: PORTO CANAL H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/367635
+#EXTINF:-1,PT: MARRADAS EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401831
+#EXTINF:-1,PT: STRONG BY ZUMBA EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401830
+#EXTINF:-1,PT: TREINE EM CASA EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401829
+#EXTINF:-1,PT: HERMAN JOSE TV EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401828
+#EXTINF:-1,PT: CINEMA STEVEN SEAGAL EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401827
+#EXTINF:-1,PT: CINEMA PORTUGUES EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401826
+#EXTINF:-1,PT: STALLONE VS SCHWARZENEGGER EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401825
+#EXTINF:-1,PT: CINEMA ARTES MARCIAIS EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401824
+#EXTINF:-1,PT: DISNEY + EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401823
+#EXTINF:-1,PT: CINEMA EM CASA EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401822
+#EXTINF:-1,PT: CINEMA AÇÃO EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401821
+#EXTINF:-1,PT: ESPECIAL EM FAMILIA EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401820
+#EXTINF:-1,PT: REVISTA PORTUGUESA EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401819
+#EXTINF:-1,PT: DISNEY PIXAR EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401818
+#EXTINF:-1,PT: CINEMA BRASIL EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401817
+#EXTINF:-1,PT: Cinema as Escuras Erotico EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401816
+#EXTINF:-1,PT: Canal Barbie EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401815
+#EXTINF:-1,PT: STAND UP EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401814
+#EXTINF:-1,PT: CINEMA FICÇÃO CIENTIFICA EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401813
+#EXTINF:-1,PT: CANAL SUSPENSE/TERROR EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401812
+#EXTINF:-1,PT: RALLY MANIA EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401811
+#EXTINF:-1,PT: BOOBA EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401810
+#EXTINF:-1,PT: CANAL LUCAS NETO TV EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401809
+#EXTINF:-1,PT: FOX KIDS EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401808
+#EXTINF:-1,PT: CINEMA FANTASIA EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401807
+#EXTINF:-1,PT: CANAL PETER RABITT EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401806
+#EXTINF:-1,PT: MARVEL VS DC EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401805
+#EXTINF:-1,PT: NETFLIX EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401804
+#EXTINF:-1,PT: PJ MASKS EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401803
+#EXTINF:-1,PT: CANAL MOTO GP EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401802
+#EXTINF:-1,PT: WB KIDS EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401801
+#EXTINF:-1,PT: CINEMA GUERRA EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401800
+#EXTINF:-1,PT: THE VOICE EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401799
+#EXTINF:-1,PT: TOM E OS AMIGOS EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401798
+#EXTINF:-1,PT: TOM HEROES EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401797
+#EXTINF:-1,PT: CINEMA MUSICAL EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401796
+#EXTINF:-1,PT: TOP MIX TV EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401795
+#EXTINF:-1,PT: CINEMA COMEDIA EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401794
+#EXTINF:-1,PT: MIRACULOUS EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401793
+#EXTINF:-1,PT: APAIXONADOS SERIES EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401792
+#EXTINF:-1,PT: MOVIES DISNEY EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401791
+#EXTINF:-1,PT: CINEMA INDIANO EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401790
+#EXTINF:-1,PT: CINEMA 2020 EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401789
+#EXTINF:-1,PT: FILMES WESTERN EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401788
+#EXTINF:-1,PT: TOM SAWYER + DARTACAN EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401787
+#EXTINF:-1,PT: CINEMA TOM CRUISE EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401786
+#EXTINF:-1,PT: NETFLIX KIDS EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401785
+#EXTINF:-1,PT: CINEMA JACKIE CHAN EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401784
+#EXTINF:-1,PT: CAFE CONCERTO EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401783
+#EXTINF:-1,PT: DREAMWORKS EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401782
+#EXTINF:-1,PT: JOAO KLEBER SHOW EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401781
+#EXTINF:-1,PT: Cinema KIDS PT EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401780
+#EXTINF:-1,PT: FOLCLORE-DESGARRADAS EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401779
+#EXTINF:-1,PT: RIR ATE CAIR EXCLUSIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/401778
+#EXTINF:-1,PT: TVCINE TOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/194449
+#EXTINF:-1,PT: TVCINE TOP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2234
+#EXTINF:-1,PT: TVCINE TOP  H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/207333
+#EXTINF:-1,PT: TVCINE EDITION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/194450
+#EXTINF:-1,PT: TVCINE EDITION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2235
+#EXTINF:-1,PT: TVCINE EDITION H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/207334
+#EXTINF:-1,PT: TVCINE EMOTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2236
+#EXTINF:-1,PT: TVCINE EMOTION H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/207342
+#EXTINF:-1,PT: TVCINE ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2237
+#EXTINF:-1,PT: TVCINE ACTION H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/207343
+#EXTINF:-1,PT: NOS STUDIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/202823
+#EXTINF:-1,PT: NOS STUDIOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/205662
+#EXTINF:-1,PT: NOS STUDIOS H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/198788
+#EXTINF:-1,PT: AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/136668
+#EXTINF:-1,PT: AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/205656
+#EXTINF:-1,PT: AXN H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2233
+#EXTINF:-1,PT: AXN WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/167482
+#EXTINF:-1,PT: AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/205658
+#EXTINF:-1,PT: AXN WHITE H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/132925
+#EXTINF:-1,PT: AXN MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/167481
+#EXTINF:-1,PT: AXN MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/205657
+#EXTINF:-1,PT: AXN MOVIES H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/132924
+#EXTINF:-1,PT: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/132923
+#EXTINF:-1,PT: AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/209534
+#EXTINF:-1,PT: AMC H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/169311
+#EXTINF:-1,PT: HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/132921
+#EXTINF:-1,PT: HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/221898
+#EXTINF:-1,PT: HOLLYWOOD H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/196607
+#EXTINF:-1,PT: SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/169312
+#EXTINF:-1,PT: SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374644
+#EXTINF:-1,PT: SYFY H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/338952
+#EXTINF:-1,PT: FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/198366
+#EXTINF:-1,PT: FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/205661
+#EXTINF:-1,PT: FOX H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2206
+#EXTINF:-1,PT: FOX COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2208
+#EXTINF:-1,PT: FOX CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/132913
+#EXTINF:-1,PT: FOX CRIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/209536
+#EXTINF:-1,PT: FOX CRIME H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/132914
+#EXTINF:-1,PT: FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/167480
+#EXTINF:-1,PT: FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/233866
+#EXTINF:-1,PT: FOX LIFE H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/132915
+#EXTINF:-1,PT: FOX MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2207
+#EXTINF:-1,PT: FOX MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374641
+#EXTINF:-1,PT: FOX MOVIES H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/338948
+#EXTINF:-1,PT: CINEMUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/132905
+#EXTINF:-1,PT: CINEMUNDO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374669
+#EXTINF:-1,PT: CINEMUNDO H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/338929
+#EXTINF:-1,PT: CANAL 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/203036
+#EXTINF:-1,PT: CANAL 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/205660
+#EXTINF:-1,PT: CANAL 11 H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/203037
+#EXTINF:-1,PT: SPORT TV +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/161969
+#EXTINF:-1,PT: SPORT TV + HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374647
+#EXTINF:-1,PT: SPORT TV +H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/338957
+#EXTINF:-1,PT: SPORT TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/285911
+#EXTINF:-1,PT: SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/302761
+#EXTINF:-1,PT: SPORT TV 1 H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/1455
+#EXTINF:-1,PT: SPORT TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/161957
+#EXTINF:-1,PT: SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/205667
+#EXTINF:-1,PT: SPORT TV 2 H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/1456
+#EXTINF:-1,PT: SPORT TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/161966
+#EXTINF:-1,PT: SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/205668
+#EXTINF:-1,PT: SPORT TV 3 H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/1457
+#EXTINF:-1,PT: SPORT TV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/161967
+#EXTINF:-1,PT: SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/1458
+#EXTINF:-1,PT: SPORT TV 4 H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/209531
+#EXTINF:-1,PT: SPORT TV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/161968
+#EXTINF:-1,PT: SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/1459
+#EXTINF:-1,PT: SPORT TV 5 H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/178145
+#EXTINF:-1,PT: SPORT TV 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374543
+#EXTINF:-1,PT: SPORT TV 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/367634
+#EXTINF:-1,PT: SPORT TV 6 H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374544
+#EXTINF:-1,PT: SPORT TV NBA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/178146
+#EXTINF:-1,PT: SPORT TV NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/252145
+#EXTINF:-1,PT: SPORT TV NBA H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/183821
+#EXTINF:-1,PT: BTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/161970
+#EXTINF:-1,PT: BTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/205659
+#EXTINF:-1,PT: BTV H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/271763
+#EXTINF:-1,PT: PFC INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/277512
+#EXTINF:-1,PT: REDBULL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/178144
+#EXTINF:-1,PT: REDBULL TV 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/178148
+#EXTINF:-1,PT: ELEVEN SPORTS 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/164977
+#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/158069
+#EXTINF:-1,PT: ELEVEN SPORTS 1 H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/285912
+#EXTINF:-1,PT: ELEVEN SPORTS 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/164978
+#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/158902
+#EXTINF:-1,PT: ELEVEN SPORTS 2 H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/272329
+#EXTINF:-1,PT: ELEVEN SPORTS 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/164979
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/159765
+#EXTINF:-1,PT: ELEVEN SPORTS 3 H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/272330
+#EXTINF:-1,PT: ELEVEN SPORTS 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/164980
+#EXTINF:-1,PT: ELEVEN SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/159766
+#EXTINF:-1,PT: ELEVEN SPORTS 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/164981
+#EXTINF:-1,PT: ELEVENSPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/159767
+#EXTINF:-1,PT: ELEVEN SPORTS 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/164982
+#EXTINF:-1,PT: ELEVENSPORT 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/159768
+#EXTINF:-1,PT: A BOLA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/136661
+#EXTINF:-1,PT: A BOLA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374671
+#EXTINF:-1,PT: A BOLA TV H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/338945
+#EXTINF:-1,PT: NBA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/132918
+#EXTINF:-1,PT: REAL MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/136663
+#EXTINF:-1,PT: CAÇA E PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/132899
+#EXTINF:-1,PT: SPORTING TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2232
+#EXTINF:-1,PT: SPORTING TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374645
+#EXTINF:-1,PT: SPORTING H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374646
+#EXTINF:-1,PT: TOROS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/136662
+#EXTINF:-1,PT: MCM TOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374673
+#EXTINF:-1,PT: MCM POP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/132890
+#EXTINF:-1,PT: MTV PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/136673
+#EXTINF:-1,PT: MTV 00s
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374537
+#EXTINF:-1,PT: MEZZO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/136675
+#EXTINF:-1,PT: TRACE URBAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/136672
+#EXTINF:-1,PT: TRACE NAIJA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374533
+#EXTINF:-1,PT: TRACE TOCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374535
+#EXTINF:-1,PT: TRACE LATINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374536
+#EXTINF:-1,PT: CLUBBING TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374675
+#EXTINF:-1,PT: AFRO MUSIC CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/136674
+#EXTINF:-1,PT: PANDA KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/361078
+#EXTINF:-1,PT: CANAL PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2222
+#EXTINF:-1,PT: BIGGS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/180946
+#EXTINF:-1,PT: LOLLY KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/333092
+#EXTINF:-1,PT: LOLLY KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374571
+#EXTINF:-1,PT: LOLLY KIDS H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374572
+#EXTINF:-1,PT: NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/136669
+#EXTINF:-1,PT: NICK JR.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/181786
+#EXTINF:-1,PT: SIC K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2217
+#EXTINF:-1,PT: SIC K HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374569
+#EXTINF:-1,PT: SIC K H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374570
+#EXTINF:-1,PT: BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/136667
+#EXTINF:-1,PT: DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2223
+#EXTINF:-1,PT: DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2224
+#EXTINF:-1,PT: BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/308019
+#EXTINF:-1,PT: JIM JAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/132885
+#EXTINF:-1,PT: NATIONAL GEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/233871
+#EXTINF:-1,PT: NATIONAL GEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/233872
+#EXTINF:-1,PT: NATIONAL GEO H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/132920
+#EXTINF:-1,PT: NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2228
+#EXTINF:-1,PT: NAT WILD H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/338955
+#EXTINF:-1,PT: TRAVEL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/330929
+#EXTINF:-1,PT: TRAVEL CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/330928
+#EXTINF:-1,PT: TRAVEL CHANNEL H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/330927
+#EXTINF:-1,PT: MOTORVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/132896
+#EXTINF:-1,PT: FOOD NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/181785
+#EXTINF:-1,PT: ID INVESTIGATION DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/136266
+#EXTINF:-1,PT: ID INVESTIGATION DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/136671
+#EXTINF:-1,PT: ID INVESTIGATION H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/169310
+#EXTINF:-1,PT: DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2226
+#EXTINF:-1,PT: DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/272331
+#EXTINF:-1,PT: DISCOVERY CHANNEL H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/272332
+#EXTINF:-1,PT: CRIME + INVESTIGATION TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/136629
+#EXTINF:-1,PT: HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2227
+#EXTINF:-1,PT: ODISSEIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/136678
+#EXTINF:-1,PT: ODISSEIA H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/338950
+#EXTINF:-1,PT: BLAZE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/158901
+#EXTINF:-1,PT: BLAZE H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/338944
+#EXTINF:-1,PT: FUEL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/136664
+#EXTINF:-1,PT: FUEL TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374545
+#EXTINF:-1,PT: FUEL TV H.265/HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/374546
+#EXTINF:-1,PT: TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/136681
+#EXTINF:-1,PT: DOG TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/132909
