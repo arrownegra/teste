@@ -2,4 +2,1309 @@
 #EXTINF:-1 tvg-id="" tvg-name="--------------@by_flecha_negra--------LISTA GRATIS BR-----------" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" group-title="-------@by_flecha_negra--------",--------------@by_flecha_negra--------LISTA GRATIS BR-----------LISTA GRÁTIS SE FICAR OFFLINE ESPERANDO ATÉ EM UM ABRAÇO ABRAÇO
 #EXTM3U
 
+#EXTM3U
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/dbdbc66158890bf65923c8646d00fdaf.png",A&E 4K
+http://serverfulltop.com:80/valdirq/valdirq/21418
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/78330c5ae17c0baf6084035a26df1a35.png",A&E FHD
+http://serverfulltop.com:80/valdirq/valdirq/700
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://ux.minhatela.vip:80/images/dbdbc66158890bf65923c8646d00fdaf.png",A&E HD
+http://serverfulltop.com:80/valdirq/valdirq/288
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://ux.minhatela.vip:80/images/dbdbc66158890bf65923c8646d00fdaf.png",A&E SD
+http://serverfulltop.com:80/valdirq/valdirq/289
+#EXTINF:-1 group-title="CAMPEONATOS" tvg-logo="http://masterfull.ga:80/images/22fc0da7b05c2411441028daed9ca82e.png",Amazon Prime 1
+http://serverfulltop.com:80/valdirq/valdirq/73345
+#EXTINF:-1 group-title="CAMPEONATOS" tvg-logo="http://masterfull.ga:80/images/22fc0da7b05c2411441028daed9ca82e.png",Amazon Prime 2
+http://serverfulltop.com:80/valdirq/valdirq/73346
+#EXTINF:-1 group-title="CAMPEONATOS" tvg-logo="http://masterfull.ga:80/images/22fc0da7b05c2411441028daed9ca82e.png",Amazon Prime 3
+http://serverfulltop.com:80/valdirq/valdirq/73347
+#EXTINF:-1 group-title="CAMPEONATOS" tvg-logo="http://masterfull.ga:80/images/22fc0da7b05c2411441028daed9ca82e.png",Amazon Prime 4
+http://serverfulltop.com:80/valdirq/valdirq/73348
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/3d69462b1d78e64c62dfa83126f2175a.png",AMC 4K
+http://serverfulltop.com:80/valdirq/valdirq/41578
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/3d69462b1d78e64c62dfa83126f2175a.png",AMC FHD
+http://serverfulltop.com:80/valdirq/valdirq/701
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://ux.minhatela.vip:80/images/3d69462b1d78e64c62dfa83126f2175a.png",AMC HD
+http://serverfulltop.com:80/valdirq/valdirq/291
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://ux.minhatela.vip:80/images/40e4afcfd925c2e4ea83a767993ea8b0.png",Animal Planet FHD
+http://serverfulltop.com:80/valdirq/valdirq/702
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://ux.minhatela.vip:80/images/40e4afcfd925c2e4ea83a767993ea8b0.png",Animal Planet HD
+http://serverfulltop.com:80/valdirq/valdirq/293
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://u.meulogin.net:80/images/40e4afcfd925c2e4ea83a767993ea8b0.png",Animal Planet SD
+http://serverfulltop.com:80/valdirq/valdirq/294
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Anime
+http://serverfulltop.com:80/valdirq/valdirq/104831
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/3f838c01d2c5267cbf9c109091c90a87.png",Arte 1 FHD
+http://serverfulltop.com:80/valdirq/valdirq/703
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://ux.minhatela.vip:80/images/31b6dd4ecc2c2e1de65bcf4eac145960.png",Arte 1 HD
+http://serverfulltop.com:80/valdirq/valdirq/97
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/31b6dd4ecc2c2e1de65bcf4eac145960.png",Arte 1 SD
+http://serverfulltop.com:80/valdirq/valdirq/296
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/5360ed4bc0c08746770e645fde5348dd.png",AXN 4K
+http://serverfulltop.com:80/valdirq/valdirq/19296
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/5360ed4bc0c08746770e645fde5348dd.png",AXN FHD
+http://serverfulltop.com:80/valdirq/valdirq/704
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://ux.minhatela.vip:80/images/5360ed4bc0c08746770e645fde5348dd.png",AXN HD
+http://serverfulltop.com:80/valdirq/valdirq/297
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/5360ed4bc0c08746770e645fde5348dd.png",AXN SD
+http://serverfulltop.com:80/valdirq/valdirq/298
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/santiago/images/1/16/Bftvlogo2019.png",Baby First
+http://serverfulltop.com:80/valdirq/valdirq/14602
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",BabyFirst
+http://serverfulltop.com:80/valdirq/valdirq/104845
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://u.meulogin.net:80/images/b055d436f0b5d380c1e2a61206c8b60c.png",BabyTV FHD
+http://serverfulltop.com:80/valdirq/valdirq/705
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://u.meulogin.net:80/images/b055d436f0b5d380c1e2a61206c8b60c.png",BabyTV HD
+http://serverfulltop.com:80/valdirq/valdirq/299
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://u.meulogin.net:80/images/b055d436f0b5d380c1e2a61206c8b60c.png",BabyTV SD
+http://serverfulltop.com:80/valdirq/valdirq/300
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png",Band 4K
+http://serverfulltop.com:80/valdirq/valdirq/246
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png",Band Brasilia HD
+http://serverfulltop.com:80/valdirq/valdirq/302
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png",Band Campinas HD
+http://serverfulltop.com:80/valdirq/valdirq/303
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png",Band Curitiba HD
+http://serverfulltop.com:80/valdirq/valdirq/73061
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png",Band FHD
+http://serverfulltop.com:80/valdirq/valdirq/72980
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png",Band MG HD
+http://serverfulltop.com:80/valdirq/valdirq/54616
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png",Band MG SD
+http://serverfulltop.com:80/valdirq/valdirq/54615
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/47edc605752b0883c16e44c1f18115a8.png",Band News 4K
+http://serverfulltop.com:80/valdirq/valdirq/19295
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://u.meulogin.net:80/images/47edc605752b0883c16e44c1f18115a8.png",Band News FHD
+http://serverfulltop.com:80/valdirq/valdirq/706
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://ux.minhatela.vip:80/images/bbf92603486f1a8723f31caa538a0d2a.png",Band News HD
+http://serverfulltop.com:80/valdirq/valdirq/304
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://u.meulogin.net:80/images/bbf92603486f1a8723f31caa538a0d2a.png",Band News SD
+http://serverfulltop.com:80/valdirq/valdirq/305
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png",Band Parana HD
+http://serverfulltop.com:80/valdirq/valdirq/306
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png",Band PR Maringa HD
+http://serverfulltop.com:80/valdirq/valdirq/64264
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png",BAND RJ HD
+http://serverfulltop.com:80/valdirq/valdirq/15468
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png",Band SP FHD
+http://serverfulltop.com:80/valdirq/valdirq/707
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png",Band SP HD
+http://serverfulltop.com:80/valdirq/valdirq/310
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png",Band SP SD
+http://serverfulltop.com:80/valdirq/valdirq/311
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/15b25d884191cd85c238db4fdcec1386.png",Band Sports 4K
+http://serverfulltop.com:80/valdirq/valdirq/19294
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://u.meulogin.net:80/images/15b25d884191cd85c238db4fdcec1386.png",Band Sports FHD
+http://serverfulltop.com:80/valdirq/valdirq/708
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://u.meulogin.net:80/images/15b25d884191cd85c238db4fdcec1386.png",Band Sports HD
+http://serverfulltop.com:80/valdirq/valdirq/312
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://u.meulogin.net:80/images/15b25d884191cd85c238db4fdcec1386.png",Band Sports SD
+http://serverfulltop.com:80/valdirq/valdirq/313
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/d9985e1b0041aacef7251bb56a6d7327.png",BIS 4K
+http://serverfulltop.com:80/valdirq/valdirq/41579
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/d9985e1b0041aacef7251bb56a6d7327.png",Bis FHD
+http://serverfulltop.com:80/valdirq/valdirq/709
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/d9985e1b0041aacef7251bb56a6d7327.png",Bis HD
+http://serverfulltop.com:80/valdirq/valdirq/314
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/d9985e1b0041aacef7251bb56a6d7327.png",Bis SD
+http://serverfulltop.com:80/valdirq/valdirq/315
+#EXTINF:-1 group-title="CAMPEONATOS" tvg-logo="http://masterfull.ga:80/images/d8811c44e7c92b1705f849f4ca582d0a.png",Campeonato Baiano 1
+http://serverfulltop.com:80/valdirq/valdirq/70806
+#EXTINF:-1 group-title="CAMPEONATOS" tvg-logo="http://masterfull.ga:80/images/d8811c44e7c92b1705f849f4ca582d0a.png",Campeonato Baiano 2
+http://serverfulltop.com:80/valdirq/valdirq/70807
+#EXTINF:-1 group-title="CAMPEONATOS" tvg-logo="http://masterfull.ga:80/images/8cbc87a20283427f7cb9ee171668a8ff.png",Campeonato Carioca 1
+http://serverfulltop.com:80/valdirq/valdirq/70798
+#EXTINF:-1 group-title="CAMPEONATOS" tvg-logo="http://masterfull.ga:80/images/8cbc87a20283427f7cb9ee171668a8ff.png",Campeonato Carioca 2
+http://serverfulltop.com:80/valdirq/valdirq/70799
+#EXTINF:-1 group-title="CAMPEONATOS" tvg-logo="http://masterfull.ga:80/images/fa6e5351100685cb40ff552bac728a0e.png",Campeonato Catarinense 1
+http://serverfulltop.com:80/valdirq/valdirq/70800
+#EXTINF:-1 group-title="CAMPEONATOS" tvg-logo="http://masterfull.ga:80/images/fa6e5351100685cb40ff552bac728a0e.png",Campeonato Catarinense 2
+http://serverfulltop.com:80/valdirq/valdirq/70801
+#EXTINF:-1 group-title="CAMPEONATOS" tvg-logo="http://masterfull.ga:80/images/fa6e5351100685cb40ff552bac728a0e.png",Campeonato Catarinense 3
+http://serverfulltop.com:80/valdirq/valdirq/70802
+#EXTINF:-1 group-title="CAMPEONATOS" tvg-logo="http://masterfull.ga:80/images/fa6e5351100685cb40ff552bac728a0e.png",Campeonato Catarinense 4
+http://serverfulltop.com:80/valdirq/valdirq/70803
+#EXTINF:-1 group-title="CAMPEONATOS" tvg-logo="http://masterfull.ga:80/images/52c28a3b527887be4d5b4c0ced0b560e.png",Campeonato Sergipano 1
+http://serverfulltop.com:80/valdirq/valdirq/70804
+#EXTINF:-1 group-title="CAMPEONATOS" tvg-logo="http://masterfull.ga:80/images/52c28a3b527887be4d5b4c0ced0b560e.png",Campeonato Sergipano 2
+http://serverfulltop.com:80/valdirq/valdirq/70805
+#EXTINF:-1 group-title="CAMPEONATOS" tvg-logo="https://aposta10.com/app/webroot/files/editor/images/CAMPEONATO-MINEIROII.jpg",Campionato Mineiro
+http://serverfulltop.com:80/valdirq/valdirq/73261
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/0bdba217c57922ca70453187ce757b8a.png",Canal Brasil 4K
+http://serverfulltop.com:80/valdirq/valdirq/41580
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://ux.minhatela.vip:80/images/0bdba217c57922ca70453187ce757b8a.png",Canal Brasil FHD
+http://serverfulltop.com:80/valdirq/valdirq/827
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://ux.minhatela.vip:80/images/0bdba217c57922ca70453187ce757b8a.png",Canal Brasil HD
+http://serverfulltop.com:80/valdirq/valdirq/325
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://ux.minhatela.vip:80/images/0bdba217c57922ca70453187ce757b8a.png",Canal Brasil SD
+http://serverfulltop.com:80/valdirq/valdirq/64268
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://ux.minhatela.vip:80/images/5e711b057e3dcf51d19020d88ae00bce.png",Canal do Boi FHD
+http://serverfulltop.com:80/valdirq/valdirq/699
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://ux.minhatela.vip:80/images/5e711b057e3dcf51d19020d88ae00bce.png",Canal do Boi SD
+http://serverfulltop.com:80/valdirq/valdirq/72737
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://ux.minhatela.vip:80/images/6d03d7ca9f00a58a2327ae6d6c939051.png",Canal Rural HD
+http://serverfulltop.com:80/valdirq/valdirq/326
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://u.meulogin.net:80/images/89827dcd9dc1ab6712cd1de825153706.png",Cartoon Network FHD
+http://serverfulltop.com:80/valdirq/valdirq/711
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://ux.minhatela.vip:80/images/89827dcd9dc1ab6712cd1de825153706.png",Cartoon Network HD
+http://serverfulltop.com:80/valdirq/valdirq/328
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://u.meulogin.net:80/images/89827dcd9dc1ab6712cd1de825153706.png",Cartoon Network SD
+http://serverfulltop.com:80/valdirq/valdirq/329
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Cine Comédia
+http://serverfulltop.com:80/valdirq/valdirq/104825
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Cine Drama
+http://serverfulltop.com:80/valdirq/valdirq/104826
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Cine Familia
+http://serverfulltop.com:80/valdirq/valdirq/104838
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Cine Romance
+http://serverfulltop.com:80/valdirq/valdirq/104839
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg",Cine SKY 01 FHD
+http://serverfulltop.com:80/valdirq/valdirq/331
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg",Cine SKY 03 FHD
+http://serverfulltop.com:80/valdirq/valdirq/333
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg",Cine SKY 05 FHD
+http://serverfulltop.com:80/valdirq/valdirq/335
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg",Cine SKY 06 HD
+http://serverfulltop.com:80/valdirq/valdirq/336
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg",Cine SKY 07 HD
+http://serverfulltop.com:80/valdirq/valdirq/337
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg",Cine SKY 08 HD
+http://serverfulltop.com:80/valdirq/valdirq/338
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg",Cine SKY 09 HD
+http://serverfulltop.com:80/valdirq/valdirq/339
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg",Cine SKY 10 HD
+http://serverfulltop.com:80/valdirq/valdirq/340
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg",Cine SKY 11 HD
+http://serverfulltop.com:80/valdirq/valdirq/341
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg",Cine SKY 12 HD
+http://serverfulltop.com:80/valdirq/valdirq/342
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg",Cine SKY 13 HD
+http://serverfulltop.com:80/valdirq/valdirq/343
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg",Cine SKY 14 HD
+http://serverfulltop.com:80/valdirq/valdirq/344
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg",Cine SKY 15 HD
+http://serverfulltop.com:80/valdirq/valdirq/345
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Cine Sucessos
+http://serverfulltop.com:80/valdirq/valdirq/104823
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Cine Terror
+http://serverfulltop.com:80/valdirq/valdirq/104827
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/9b483584a8f77ed3094a2b82b11d35e2.png",Cinemax 4K
+http://serverfulltop.com:80/valdirq/valdirq/19292
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/9b483584a8f77ed3094a2b82b11d35e2.png",Cinemax FHD
+http://serverfulltop.com:80/valdirq/valdirq/712
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/9b483584a8f77ed3094a2b82b11d35e2.png",Cinemax HD
+http://serverfulltop.com:80/valdirq/valdirq/346
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/9b483584a8f77ed3094a2b82b11d35e2.png",Cinemax SD
+http://serverfulltop.com:80/valdirq/valdirq/347
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://u.meulogin.net:80/images/62788158be0a70e0f1018de2a3da6ef2.png",CNN Brasil FHD
+http://serverfulltop.com:80/valdirq/valdirq/713
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://u.meulogin.net:80/images/62788158be0a70e0f1018de2a3da6ef2.png",CNN Brasil HD
+http://serverfulltop.com:80/valdirq/valdirq/348
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://u.meulogin.net:80/images/62788158be0a70e0f1018de2a3da6ef2.png",CNN Brasil SD
+http://serverfulltop.com:80/valdirq/valdirq/349
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://i.ibb.co/vchxB03/B-CNN-Internacional-HD.png",CNN Internacional FHD
+http://serverfulltop.com:80/valdirq/valdirq/64267
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/299f4b3064094cb510f4529cd6d79ab6.png",Combate 4K
+http://serverfulltop.com:80/valdirq/valdirq/248
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://u.meulogin.net:80/images/299f4b3064094cb510f4529cd6d79ab6.png",Combate FHD
+http://serverfulltop.com:80/valdirq/valdirq/714
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://u.meulogin.net:80/images/299f4b3064094cb510f4529cd6d79ab6.png",COMBATE HD
+http://serverfulltop.com:80/valdirq/valdirq/14272
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://u.meulogin.net:80/images/299f4b3064094cb510f4529cd6d79ab6.png",Combate SD
+http://serverfulltop.com:80/valdirq/valdirq/351
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/dfbafdc3fc41171c129a097012b9f794.png",Comedy Central 4K
+http://serverfulltop.com:80/valdirq/valdirq/19290
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/dfbafdc3fc41171c129a097012b9f794.png",Comedy Central FHD
+http://serverfulltop.com:80/valdirq/valdirq/715
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/dfbafdc3fc41171c129a097012b9f794.png",Comedy Central HD
+http://serverfulltop.com:80/valdirq/valdirq/352
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Comedy Central Pluto TV
+http://serverfulltop.com:80/valdirq/valdirq/104843
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/dfbafdc3fc41171c129a097012b9f794.png",Comedy Central SD
+http://serverfulltop.com:80/valdirq/valdirq/353
+#EXTINF:-1 group-title="CONMEBOL" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png",Conmebol 1 HD
+http://serverfulltop.com:80/valdirq/valdirq/14277
+#EXTINF:-1 group-title="CONMEBOL" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png",Conmebol 2 HD
+http://serverfulltop.com:80/valdirq/valdirq/14274
+#EXTINF:-1 group-title="CONMEBOL" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png",Conmebol 3 HD
+http://serverfulltop.com:80/valdirq/valdirq/716
+#EXTINF:-1 group-title="CAMPEONATOS" tvg-logo="http://masterfull.ga:80/images/c16144487c7c48740b2fdd2acf18eaa1.png",Copa do Nordeste 1
+http://serverfulltop.com:80/valdirq/valdirq/70808
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://i.ibb.co/n7Xjftc/B-Cultura-SD.png",Cultura FHD
+http://serverfulltop.com:80/valdirq/valdirq/64271
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://i.ibb.co/3fYFwxV/G-Cultura-HD.png",Cultura HD
+http://serverfulltop.com:80/valdirq/valdirq/364
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="https://www.tribunaribeirao.com.br/site/wp-content/uploads/2020/05/Curta.png",Curta! FHD
+http://serverfulltop.com:80/valdirq/valdirq/65214
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="https://www.tribunaribeirao.com.br/site/wp-content/uploads/2020/05/Curta.png",Curta! HD
+http://serverfulltop.com:80/valdirq/valdirq/365
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="https://www.tribunaribeirao.com.br/site/wp-content/uploads/2020/05/Curta.png",Curta! SD
+http://serverfulltop.com:80/valdirq/valdirq/366
+#EXTINF:-1 group-title="DAZN" tvg-logo="http://ux.minhatela.vip:80/images/98bb2910883b8ad5ac110131fd466ce3.png",DAZN 1 FHD
+http://serverfulltop.com:80/valdirq/valdirq/72757
+#EXTINF:-1 group-title="DAZN" tvg-logo="http://u.meulogin.net:80/images/98bb2910883b8ad5ac110131fd466ce3.png",DAZN 1 HD
+http://serverfulltop.com:80/valdirq/valdirq/369
+#EXTINF:-1 group-title="DAZN" tvg-logo="http://ux.minhatela.vip:80/images/98bb2910883b8ad5ac110131fd466ce3.png",DAZN 2 FHD
+http://serverfulltop.com:80/valdirq/valdirq/72758
+#EXTINF:-1 group-title="DAZN" tvg-logo="http://ux.minhatela.vip:80/images/98bb2910883b8ad5ac110131fd466ce3.png",DAZN 2 HD
+http://serverfulltop.com:80/valdirq/valdirq/372
+#EXTINF:-1 group-title="DAZN" tvg-logo="http://ux.minhatela.vip:80/images/98bb2910883b8ad5ac110131fd466ce3.png",DAZN 3 HD
+http://serverfulltop.com:80/valdirq/valdirq/374
+#EXTINF:-1 group-title="DAZN" tvg-logo="http://ux.minhatela.vip:80/images/98bb2910883b8ad5ac110131fd466ce3.png",DAZN 4 HD
+http://serverfulltop.com:80/valdirq/valdirq/376
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/4bb92752ec76ca74909c935088f11855.png",Discovery Channel 4K
+http://serverfulltop.com:80/valdirq/valdirq/249
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://u.meulogin.net:80/images/4bb92752ec76ca74909c935088f11855.png",Discovery Channel FHD
+http://serverfulltop.com:80/valdirq/valdirq/717
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://u.meulogin.net:80/images/4bb92752ec76ca74909c935088f11855.png",Discovery Channel HD
+http://serverfulltop.com:80/valdirq/valdirq/377
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://u.meulogin.net:80/images/4bb92752ec76ca74909c935088f11855.png",Discovery Channel SD
+http://serverfulltop.com:80/valdirq/valdirq/378
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/216fb73d5182d6abe5b17af999e2e3ce.png",Discovery HGTV FHD
+http://serverfulltop.com:80/valdirq/valdirq/777
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://ux.minhatela.vip:80/images/216fb73d5182d6abe5b17af999e2e3ce.png",Discovery HGTV HD
+http://serverfulltop.com:80/valdirq/valdirq/542
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/216fb73d5182d6abe5b17af999e2e3ce.png",Discovery HGTV SD
+http://serverfulltop.com:80/valdirq/valdirq/543
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/216fb73d5182d6abe5b17af999e2e3ce.png",Discovery Home & Garden 4K
+http://serverfulltop.com:80/valdirq/valdirq/41588
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/109cdb8901bf793f95f6bca6c6fa7260.png",Discovery Home & Health 4k
+http://serverfulltop.com:80/valdirq/valdirq/19297
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/109cdb8901bf793f95f6bca6c6fa7260.png",Discovery Home & Health FHD
+http://serverfulltop.com:80/valdirq/valdirq/718
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://ux.minhatela.vip:80/images/109cdb8901bf793f95f6bca6c6fa7260.png",Discovery Home & Health HD
+http://serverfulltop.com:80/valdirq/valdirq/379
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/109cdb8901bf793f95f6bca6c6fa7260.png",Discovery Home & Health SD
+http://serverfulltop.com:80/valdirq/valdirq/380
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://u.meulogin.net:80/images/af984b000eca07a9ec7e5fe0d1c7608b.png",Discovery ID FHD
+http://serverfulltop.com:80/valdirq/valdirq/719
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://u.meulogin.net:80/images/af984b000eca07a9ec7e5fe0d1c7608b.png",Discovery ID HD
+http://serverfulltop.com:80/valdirq/valdirq/381
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://u.meulogin.net:80/images/af984b000eca07a9ec7e5fe0d1c7608b.png",Discovery ID SD
+http://serverfulltop.com:80/valdirq/valdirq/382
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/9c0c52e751ad4a92f87c8238dccc439f.png",Discovery Kids 4K
+http://serverfulltop.com:80/valdirq/valdirq/19289
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://u.meulogin.net:80/images/9c0c52e751ad4a92f87c8238dccc439f.png",Discovery Kids FHD
+http://serverfulltop.com:80/valdirq/valdirq/720
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://u.meulogin.net:80/images/9c0c52e751ad4a92f87c8238dccc439f.png",Discovery Kids SD
+http://serverfulltop.com:80/valdirq/valdirq/384
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/83e8295a87cb4fe212c191a875cfde6a.png",Discovery Science 4K
+http://serverfulltop.com:80/valdirq/valdirq/19288
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://u.meulogin.net:80/images/83e8295a87cb4fe212c191a875cfde6a.png",Discovery Science FHD
+http://serverfulltop.com:80/valdirq/valdirq/721
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://u.meulogin.net:80/images/83e8295a87cb4fe212c191a875cfde6a.png",Discovery Science SD
+http://serverfulltop.com:80/valdirq/valdirq/386
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/c5f5ac5074e7b9b42bea8bae3ad420ef.png",Discovery Theater 4K
+http://serverfulltop.com:80/valdirq/valdirq/19299
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://u.meulogin.net:80/images/c5f5ac5074e7b9b42bea8bae3ad420ef.png",Discovery Theater FHD
+http://serverfulltop.com:80/valdirq/valdirq/722
+#EXTINF:-1 group-title="LEGENDADOS",DISCOVERY THEATER FHD LEGENDADO
+http://serverfulltop.com:80/valdirq/valdirq/72997
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://ux.minhatela.vip:80/images/c5f5ac5074e7b9b42bea8bae3ad420ef.png",Discovery Theater HD
+http://serverfulltop.com:80/valdirq/valdirq/387
+#EXTINF:-1 group-title="LEGENDADOS",DISCOVERY THEATER HDD LEGENDADO
+http://serverfulltop.com:80/valdirq/valdirq/72998
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://u.meulogin.net:80/images/c5f5ac5074e7b9b42bea8bae3ad420ef.png",Discovery Theater SD
+http://serverfulltop.com:80/valdirq/valdirq/388
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/edeb2bea22b86124259fef522de69a74.png",Discovery TLC FHD
+http://serverfulltop.com:80/valdirq/valdirq/723
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://ux.minhatela.vip:80/images/edeb2bea22b86124259fef522de69a74.png",Discovery TLC HD
+http://serverfulltop.com:80/valdirq/valdirq/389
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/edeb2bea22b86124259fef522de69a74.png",Discovery TLC SD
+http://serverfulltop.com:80/valdirq/valdirq/390
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/19be119bdc4a08de33cb443c5f72f5c9.png",Discovery Turbo 4K
+http://serverfulltop.com:80/valdirq/valdirq/19300
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://ux.minhatela.vip:80/images/19be119bdc4a08de33cb443c5f72f5c9.png",Discovery Turbo FHD
+http://serverfulltop.com:80/valdirq/valdirq/724
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://ux.minhatela.vip:80/images/19be119bdc4a08de33cb443c5f72f5c9.png",Discovery Turbo HD
+http://serverfulltop.com:80/valdirq/valdirq/391
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://u.meulogin.net:80/images/19be119bdc4a08de33cb443c5f72f5c9.png",Discovery Turbo SD
+http://serverfulltop.com:80/valdirq/valdirq/392
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/f914cff428cbd3e1c2db1f0320bb935b.png",Discovery World 4K
+http://serverfulltop.com:80/valdirq/valdirq/19301
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://u.meulogin.net:80/images/f914cff428cbd3e1c2db1f0320bb935b.png",Discovery World FHD
+http://serverfulltop.com:80/valdirq/valdirq/725
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://u.meulogin.net:80/images/f914cff428cbd3e1c2db1f0320bb935b.png",Discovery World HD
+http://serverfulltop.com:80/valdirq/valdirq/393
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://u.meulogin.net:80/images/f914cff428cbd3e1c2db1f0320bb935b.png",Discovery World SD
+http://serverfulltop.com:80/valdirq/valdirq/394
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/8cb42fe7cda174752babc3d82660f2df.png",Disney Channel 4K
+http://serverfulltop.com:80/valdirq/valdirq/19302
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://u.meulogin.net:80/images/8cb42fe7cda174752babc3d82660f2df.png",Disney Channel FHD
+http://serverfulltop.com:80/valdirq/valdirq/726
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://u.meulogin.net:80/images/8cb42fe7cda174752babc3d82660f2df.png",Disney Channel HD
+http://serverfulltop.com:80/valdirq/valdirq/395
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://u.meulogin.net:80/images/8cb42fe7cda174752babc3d82660f2df.png",Disney Channel SD
+http://serverfulltop.com:80/valdirq/valdirq/396
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/9a35d3d10e7169e74011bd13ffe9121e.png",Disney Junior 4K
+http://serverfulltop.com:80/valdirq/valdirq/19303
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://ux.minhatela.vip:80/images/9a35d3d10e7169e74011bd13ffe9121e.png",Disney Junior FHD
+http://serverfulltop.com:80/valdirq/valdirq/727
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://u.meulogin.net:80/images/9a35d3d10e7169e74011bd13ffe9121e.png",Disney Junior HD
+http://serverfulltop.com:80/valdirq/valdirq/397
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://u.meulogin.net:80/images/9a35d3d10e7169e74011bd13ffe9121e.png",Disney Junior SD
+http://serverfulltop.com:80/valdirq/valdirq/398
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Documentarios
+http://serverfulltop.com:80/valdirq/valdirq/104840
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://u.meulogin.net:80/images/5ae660ee8f961c6775cc522677d38812.png",Dog TV FHD
+http://serverfulltop.com:80/valdirq/valdirq/52230
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://u.meulogin.net:80/images/5ae660ee8f961c6775cc522677d38812.png",Dog TV HD
+http://serverfulltop.com:80/valdirq/valdirq/401
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/c8708fe55ef859a01e78e994081da865.png",E! 4K
+http://serverfulltop.com:80/valdirq/valdirq/19304
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/c8708fe55ef859a01e78e994081da865.png",E! FHD
+http://serverfulltop.com:80/valdirq/valdirq/729
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://ux.minhatela.vip:80/images/c8708fe55ef859a01e78e994081da865.png",E! HD
+http://serverfulltop.com:80/valdirq/valdirq/402
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/c8708fe55ef859a01e78e994081da865.png",E! SD
+http://serverfulltop.com:80/valdirq/valdirq/403
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png",ELEVEN SPORTS 1
+http://serverfulltop.com:80/valdirq/valdirq/73267
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png",ELEVEN SPORTS 10
+http://serverfulltop.com:80/valdirq/valdirq/73276
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png",ELEVEN SPORTS 11
+http://serverfulltop.com:80/valdirq/valdirq/73277
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png",ELEVEN SPORTS 12
+http://serverfulltop.com:80/valdirq/valdirq/73278
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png",ELEVEN SPORTS 13
+http://serverfulltop.com:80/valdirq/valdirq/73279
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png",ELEVEN SPORTS 14
+http://serverfulltop.com:80/valdirq/valdirq/73280
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png",ELEVEN SPORTS 2
+http://serverfulltop.com:80/valdirq/valdirq/73268
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png",ELEVEN SPORTS 3
+http://serverfulltop.com:80/valdirq/valdirq/73269
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png",ELEVEN SPORTS 4
+http://serverfulltop.com:80/valdirq/valdirq/73270
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png",ELEVEN SPORTS 5
+http://serverfulltop.com:80/valdirq/valdirq/73271
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/fd54991b4f0ff001b18bce605ead7c50.png",ESPN 4K
+http://serverfulltop.com:80/valdirq/valdirq/250
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/4c99d7606f9ce8ca7ec97cb995907311.png",ESPN Extra 4K
+http://serverfulltop.com:80/valdirq/valdirq/19307
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://u.meulogin.net:80/images/4c99d7606f9ce8ca7ec97cb995907311.png",ESPN Extra FHD
+http://serverfulltop.com:80/valdirq/valdirq/408
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://u.meulogin.net:80/images/4c99d7606f9ce8ca7ec97cb995907311.png",ESPN Extra SD
+http://serverfulltop.com:80/valdirq/valdirq/19632
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://u.meulogin.net:80/images/fd54991b4f0ff001b18bce605ead7c50.png",ESPN FHD
+http://serverfulltop.com:80/valdirq/valdirq/732
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://ux.minhatela.vip:80/images/fd54991b4f0ff001b18bce605ead7c50.png",ESPN HD
+http://serverfulltop.com:80/valdirq/valdirq/410
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://u.meulogin.net:80/images/fd54991b4f0ff001b18bce605ead7c50.png",ESPN SD
+http://serverfulltop.com:80/valdirq/valdirq/411
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="http://u.meulogin.net:80/images/ef909288e84d11669db9d54d6e9177ec.png",Esta*dio TN*T Spo*rts 2 HD
+http://serverfulltop.com:80/valdirq/valdirq/42246
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="http://u.meulogin.net:80/images/ef909288e84d11669db9d54d6e9177ec.png",Estadio T*NT Sp*orts 1 HD
+http://serverfulltop.com:80/valdirq/valdirq/42247
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="http://u.meulogin.net:80/images/ef909288e84d11669db9d54d6e9177ec.png",Estadio TNT Sports 4 HD
+http://serverfulltop.com:80/valdirq/valdirq/418
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",FailArm
+http://serverfulltop.com:80/valdirq/valdirq/104846
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",Fashion TV FHD
+http://serverfulltop.com:80/valdirq/valdirq/72802
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",Fashion TV SD
+http://serverfulltop.com:80/valdirq/valdirq/71502
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/ea84b20d99b06f12fbbebae4328b8088.png",Film & Art HD
+http://serverfulltop.com:80/valdirq/valdirq/420
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Filmes e Ação
+http://serverfulltop.com:80/valdirq/valdirq/104824
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Filmes Suspense
+http://serverfulltop.com:80/valdirq/valdirq/104837
+#EXTINF:-1 group-title="4K" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/fishtv.png",Fish TV 4K
+http://serverfulltop.com:80/valdirq/valdirq/19310
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://u.meulogin.net:80/images/0c11ae9278cec4657bdd4d3e04fbd41c.png",Fish TV FHD
+http://serverfulltop.com:80/valdirq/valdirq/421
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://ux.minhatela.vip:80/images/0c11ae9278cec4657bdd4d3e04fbd41c.png",Fish TV HD
+http://serverfulltop.com:80/valdirq/valdirq/422
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://ux.minhatela.vip:80/images/0c11ae9278cec4657bdd4d3e04fbd41c.png",Fish TV SD
+http://serverfulltop.com:80/valdirq/valdirq/19634
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://u.meulogin.net:80/images/1edb38382f208f4335e005bc0f165bd8.png",FLA TV+ *
+http://serverfulltop.com:80/valdirq/valdirq/423
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/446e91a141776eba9d2d63cc90396e11.png",Food Network 4K
+http://serverfulltop.com:80/valdirq/valdirq/19311
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/446e91a141776eba9d2d63cc90396e11.png",Food Network FHD
+http://serverfulltop.com:80/valdirq/valdirq/733
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://ux.minhatela.vip:80/images/446e91a141776eba9d2d63cc90396e11.png",Food Network HD
+http://serverfulltop.com:80/valdirq/valdirq/424
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/446e91a141776eba9d2d63cc90396e11.png",Food Network SD
+http://serverfulltop.com:80/valdirq/valdirq/425
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/0a456f07d1e01bb48cf02bb6f403b9f5.png",Fox Sports 2 4K
+http://serverfulltop.com:80/valdirq/valdirq/251
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://u.meulogin.net:80/images/0a456f07d1e01bb48cf02bb6f403b9f5.png",Fox Sports 2 FHD
+http://serverfulltop.com:80/valdirq/valdirq/734
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://ux.minhatela.vip:80/images/0a456f07d1e01bb48cf02bb6f403b9f5.png",Fox Sports 2 HD
+http://serverfulltop.com:80/valdirq/valdirq/426
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://u.meulogin.net:80/images/0a456f07d1e01bb48cf02bb6f403b9f5.png",Fox Sports 2 SD
+http://serverfulltop.com:80/valdirq/valdirq/427
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://i.ibb.co/H7NWYNB/B-Futura-SD.png",Futura FHD
+http://serverfulltop.com:80/valdirq/valdirq/65215
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://i.ibb.co/WxGgFrw/B-Futura-HD.png",Futura HD
+http://serverfulltop.com:80/valdirq/valdirq/64277
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://i.ibb.co/H7NWYNB/B-Futura-SD.png",Futura SD
+http://serverfulltop.com:80/valdirq/valdirq/64276
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/c8f7275f759a75f5043490e01072c181.png",FX 4K
+http://serverfulltop.com:80/valdirq/valdirq/19315
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/c8f7275f759a75f5043490e01072c181.png",FX FHD
+http://serverfulltop.com:80/valdirq/valdirq/736
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/c8f7275f759a75f5043490e01072c181.png",FX HD
+http://serverfulltop.com:80/valdirq/valdirq/430
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/c8f7275f759a75f5043490e01072c181.png",FX SD
+http://serverfulltop.com:80/valdirq/valdirq/431
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Anhaguera Anapolis FHD
+http://serverfulltop.com:80/valdirq/valdirq/73050
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Anhaguera Anapolis HD
+http://serverfulltop.com:80/valdirq/valdirq/73049
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Anhaguera Catalão FHD
+http://serverfulltop.com:80/valdirq/valdirq/73052
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Anhaguera Catalão HD
+http://serverfulltop.com:80/valdirq/valdirq/73051
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Anhaguera Itumbiara HD
+http://serverfulltop.com:80/valdirq/valdirq/73053
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Brasilia FHD
+http://serverfulltop.com:80/valdirq/valdirq/738
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Brasilia HD
+http://serverfulltop.com:80/valdirq/valdirq/433
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Brasilia SD
+http://serverfulltop.com:80/valdirq/valdirq/434
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Centro America Cuiaba FHD
+http://serverfulltop.com:80/valdirq/valdirq/435
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Centro America Cuiabá HD
+http://serverfulltop.com:80/valdirq/valdirq/436
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Centro America Cuiabá SD
+http://serverfulltop.com:80/valdirq/valdirq/19788
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo EPTV Campinas FHD
+http://serverfulltop.com:80/valdirq/valdirq/437
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo EPTV Campinas HD
+http://serverfulltop.com:80/valdirq/valdirq/438
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo EPTV Campinas SD
+http://serverfulltop.com:80/valdirq/valdirq/439
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo EPTV Ribeirao Preto FHD
+http://serverfulltop.com:80/valdirq/valdirq/19727
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo EPTV Ribeirao Preto HD
+http://serverfulltop.com:80/valdirq/valdirq/440
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo EPTV Ribeirao Preto SD
+http://serverfulltop.com:80/valdirq/valdirq/441
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo EPTV Sao Carlos HD
+http://serverfulltop.com:80/valdirq/valdirq/442
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo EPTV Sul de Minas FHD
+http://serverfulltop.com:80/valdirq/valdirq/443
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo EPTV Sul de Minas HD
+http://serverfulltop.com:80/valdirq/valdirq/444
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo EPTV Sul de Minas SD
+http://serverfulltop.com:80/valdirq/valdirq/445
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Integração Araxá FHD
+http://serverfulltop.com:80/valdirq/valdirq/73057
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Integração Araxá HD
+http://serverfulltop.com:80/valdirq/valdirq/73058
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Integração Divinopolis FHD
+http://serverfulltop.com:80/valdirq/valdirq/73048
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Integração Divinopolis HD
+http://serverfulltop.com:80/valdirq/valdirq/73047
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Integração Uberaba HD
+http://serverfulltop.com:80/valdirq/valdirq/73056
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Inter TV Cabugi Natal FHD
+http://serverfulltop.com:80/valdirq/valdirq/448
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Inter TV Cabugi Natal HD
+http://serverfulltop.com:80/valdirq/valdirq/19730
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Inter TV Cabugi Natal SD
+http://serverfulltop.com:80/valdirq/valdirq/447
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Inter TV Serra Mar HD
+http://serverfulltop.com:80/valdirq/valdirq/453
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Inter Vale MG FHD
+http://serverfulltop.com:80/valdirq/valdirq/73064
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Inter Vale MG HD
+http://serverfulltop.com:80/valdirq/valdirq/73063
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo InterTV Alto Litoral FHD
+http://serverfulltop.com:80/valdirq/valdirq/455
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Juiz de Fora FHD
+http://serverfulltop.com:80/valdirq/valdirq/73043
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Juiz de Fora HD
+http://serverfulltop.com:80/valdirq/valdirq/73044
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Manaus HD
+http://serverfulltop.com:80/valdirq/valdirq/73059
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Minas FHD
+http://serverfulltop.com:80/valdirq/valdirq/740
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Minas HD
+http://serverfulltop.com:80/valdirq/valdirq/457
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Minas SD
+http://serverfulltop.com:80/valdirq/valdirq/458
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Mogi das Cruzes FHD
+http://serverfulltop.com:80/valdirq/valdirq/73045
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Mogi das Cruzes HD
+http://serverfulltop.com:80/valdirq/valdirq/73046
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Montes Claros HD
+http://serverfulltop.com:80/valdirq/valdirq/73040
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://u.meulogin.net:80/images/b0f72a7ad15faadb654950e47af467ee.png",Globo News SD
+http://serverfulltop.com:80/valdirq/valdirq/460
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Nordeste FHD
+http://serverfulltop.com:80/valdirq/valdirq/742
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Nordeste HD
+http://serverfulltop.com:80/valdirq/valdirq/461
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Nordeste SD
+http://serverfulltop.com:80/valdirq/valdirq/462
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo NSC Blumenau FHD
+http://serverfulltop.com:80/valdirq/valdirq/743
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo NSC Blumenau HD
+http://serverfulltop.com:80/valdirq/valdirq/463
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo NSC Chapeco FHD
+http://serverfulltop.com:80/valdirq/valdirq/73055
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo NSC Criciúma FHD
+http://serverfulltop.com:80/valdirq/valdirq/746
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo NSC Florianopolis FHD
+http://serverfulltop.com:80/valdirq/valdirq/464
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo NSC Florianopolis HD
+http://serverfulltop.com:80/valdirq/valdirq/465
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo NSC Florianopolis SD
+http://serverfulltop.com:80/valdirq/valdirq/466
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo NSC Joinville FHD
+http://serverfulltop.com:80/valdirq/valdirq/747
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo NSC Joinville HD
+http://serverfulltop.com:80/valdirq/valdirq/467
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Presidente Prudente SP FHD
+http://serverfulltop.com:80/valdirq/valdirq/73041
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo RBS Porto Alegre FHD
+http://serverfulltop.com:80/valdirq/valdirq/749
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo RBS Porto Alegre HD
+http://serverfulltop.com:80/valdirq/valdirq/471
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo RBS Porto Alegre SD
+http://serverfulltop.com:80/valdirq/valdirq/472
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Rede Amazonica Boa Vista FHD
+http://serverfulltop.com:80/valdirq/valdirq/73068
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Rede Amazonica Boa Vista HD
+http://serverfulltop.com:80/valdirq/valdirq/73067
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Rede Amazônica Manaus FHD
+http://serverfulltop.com:80/valdirq/valdirq/474
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo RJ FHD
+http://serverfulltop.com:80/valdirq/valdirq/752
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo RJ HD
+http://serverfulltop.com:80/valdirq/valdirq/475
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo RJ SD
+http://serverfulltop.com:80/valdirq/valdirq/476
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo RJ TV Rio Sul HD
+http://serverfulltop.com:80/valdirq/valdirq/477
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo RPC Curitiba FHD
+http://serverfulltop.com:80/valdirq/valdirq/753
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo RPC Curitiba HD
+http://serverfulltop.com:80/valdirq/valdirq/479
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo RPC Curitiba SD
+http://serverfulltop.com:80/valdirq/valdirq/480
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo RPC Maringa HD
+http://serverfulltop.com:80/valdirq/valdirq/482
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo RPC Maringá FHD
+http://serverfulltop.com:80/valdirq/valdirq/755
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Sergipe FHD
+http://serverfulltop.com:80/valdirq/valdirq/757
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo Sergipe HD
+http://serverfulltop.com:80/valdirq/valdirq/485
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo SP FHD
+http://serverfulltop.com:80/valdirq/valdirq/758
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo SP HD
+http://serverfulltop.com:80/valdirq/valdirq/486
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo SP SD
+http://serverfulltop.com:80/valdirq/valdirq/487
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Amazonica Macapa HD
+http://serverfulltop.com:80/valdirq/valdirq/70034
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Anhaguera FHD
+http://serverfulltop.com:80/valdirq/valdirq/64282
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Anhaguera HD
+http://serverfulltop.com:80/valdirq/valdirq/64283
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Asa Branca PE FHD
+http://serverfulltop.com:80/valdirq/valdirq/759
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Bahia FHD
+http://serverfulltop.com:80/valdirq/valdirq/488
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Bahia HD
+http://serverfulltop.com:80/valdirq/valdirq/489
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Bahia Santa Cruz FHD
+http://serverfulltop.com:80/valdirq/valdirq/490
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Bahia SD
+http://serverfulltop.com:80/valdirq/valdirq/491
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Fronteira HD
+http://serverfulltop.com:80/valdirq/valdirq/19751
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Gazeta Alagoas FHD
+http://serverfulltop.com:80/valdirq/valdirq/497
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Gazeta Alagoas HD
+http://serverfulltop.com:80/valdirq/valdirq/498
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Gazeta ES FHD
+http://serverfulltop.com:80/valdirq/valdirq/761
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Gazeta ES HD
+http://serverfulltop.com:80/valdirq/valdirq/499
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Liberal  HD (Belém)
+http://serverfulltop.com:80/valdirq/valdirq/504
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Mirante HD (São Luís)
+http://serverfulltop.com:80/valdirq/valdirq/505
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Mirante Imperatriz HD
+http://serverfulltop.com:80/valdirq/valdirq/70032
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Pampa RS HD
+http://serverfulltop.com:80/valdirq/valdirq/73062
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Porto Velho FHD
+http://serverfulltop.com:80/valdirq/valdirq/70036
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Porto Velho HD
+http://serverfulltop.com:80/valdirq/valdirq/70037
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV RBS Florianopolis HD
+http://serverfulltop.com:80/valdirq/valdirq/70026
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Rio Sul FHD
+http://serverfulltop.com:80/valdirq/valdirq/64303
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Santa Cruz HD
+http://serverfulltop.com:80/valdirq/valdirq/64308
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Tem Bauru FHD
+http://serverfulltop.com:80/valdirq/valdirq/508
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Tem Bauru HD
+http://serverfulltop.com:80/valdirq/valdirq/509
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Tem Bauru SD
+http://serverfulltop.com:80/valdirq/valdirq/64310
+#EXTINF:-1 group-title="GLOBO",Globo TV Tem Sao Jose do Rio Preto FHD
+http://serverfulltop.com:80/valdirq/valdirq/19768
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Tem Sao Jose do Rio Preto HD
+http://serverfulltop.com:80/valdirq/valdirq/511
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Tem Sorocaba FHD
+http://serverfulltop.com:80/valdirq/valdirq/19770
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Tem Sorocaba HD
+http://serverfulltop.com:80/valdirq/valdirq/512
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Tribuna Santos FHD
+http://serverfulltop.com:80/valdirq/valdirq/19772
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Tribuna Santos HD
+http://serverfulltop.com:80/valdirq/valdirq/513
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Tribuna Santos SD
+http://serverfulltop.com:80/valdirq/valdirq/19773
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Vanguarda SJC FHD
+http://serverfulltop.com:80/valdirq/valdirq/64315
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Vanguarda SJC HD
+http://serverfulltop.com:80/valdirq/valdirq/64316
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Verdes Mares Cariri FHD
+http://serverfulltop.com:80/valdirq/valdirq/64319
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Verdes Mares Cariri HD
+http://serverfulltop.com:80/valdirq/valdirq/64320
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV Verdes Mares Fortaleza HD
+http://serverfulltop.com:80/valdirq/valdirq/515
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",Globo TV EPTV Central S Carlos HD
+http://serverfulltop.com:80/valdirq/valdirq/64290
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/7c8ef248f35b48190c1141213597608c.png",Gloob 4K
+http://serverfulltop.com:80/valdirq/valdirq/41581
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://u.meulogin.net:80/images/7c8ef248f35b48190c1141213597608c.png",Gloob FHD
+http://serverfulltop.com:80/valdirq/valdirq/766
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://u.meulogin.net:80/images/7c8ef248f35b48190c1141213597608c.png",Gloob HD
+http://serverfulltop.com:80/valdirq/valdirq/516
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://u.meulogin.net:80/images/7c8ef248f35b48190c1141213597608c.png",Gloob SD
+http://serverfulltop.com:80/valdirq/valdirq/517
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://u.meulogin.net:80/images/918911a351d5b29b741b68282ba16536.png",Gloobinho FHD
+http://serverfulltop.com:80/valdirq/valdirq/56183
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://u.meulogin.net:80/images/918911a351d5b29b741b68282ba16536.png",Gloobinho HD
+http://serverfulltop.com:80/valdirq/valdirq/518
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/6488de5e082ffdb5e26ba173ac8ed69c.png",GNT 4K
+http://serverfulltop.com:80/valdirq/valdirq/41582
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/6488de5e082ffdb5e26ba173ac8ed69c.png",GNT FHD
+http://serverfulltop.com:80/valdirq/valdirq/767
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://ux.minhatela.vip:80/images/6488de5e082ffdb5e26ba173ac8ed69c.png",GNT HD
+http://serverfulltop.com:80/valdirq/valdirq/519
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/6488de5e082ffdb5e26ba173ac8ed69c.png",GNT SD
+http://serverfulltop.com:80/valdirq/valdirq/520
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/87b596ab9c7afdf238a5defbcd82394d.png",H2 4K
+http://serverfulltop.com:80/valdirq/valdirq/19318
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://u.meulogin.net:80/images/87b596ab9c7afdf238a5defbcd82394d.png",H2 FHD
+http://serverfulltop.com:80/valdirq/valdirq/768
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://u.meulogin.net:80/images/87b596ab9c7afdf238a5defbcd82394d.png",H2 HD
+http://serverfulltop.com:80/valdirq/valdirq/522
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://u.meulogin.net:80/images/87b596ab9c7afdf238a5defbcd82394d.png",H2 SD
+http://serverfulltop.com:80/valdirq/valdirq/523
+#EXTINF:-1 group-title="LEGENDADOS",HBO  HDD LEGENDADO
+http://serverfulltop.com:80/valdirq/valdirq/72990
+#EXTINF:-1 group-title="LEGENDADOS",HBO + FHD LEGENDADO
+http://serverfulltop.com:80/valdirq/valdirq/72992
+#EXTINF:-1 group-title="LEGENDADOS",HBO + HDD LEGENDADO
+http://serverfulltop.com:80/valdirq/valdirq/72989
+#EXTINF:-1 group-title="HBO" tvg-logo="http://u.meulogin.net:80/images/9abd0aec96762a58ec0ed3eb84dfa72a.png",HBO 2 FHD
+http://serverfulltop.com:80/valdirq/valdirq/769
+#EXTINF:-1 group-title="HBO" tvg-logo="http://u.meulogin.net:80/images/9abd0aec96762a58ec0ed3eb84dfa72a.png",HBO 2 HD
+http://serverfulltop.com:80/valdirq/valdirq/524
+#EXTINF:-1 group-title="HBO" tvg-logo="http://u.meulogin.net:80/images/9abd0aec96762a58ec0ed3eb84dfa72a.png",HBO 2 SD
+http://serverfulltop.com:80/valdirq/valdirq/525
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/dea84d90553b5cad1f4853160764971d.png",HBO 4K
+http://serverfulltop.com:80/valdirq/valdirq/255
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/ae9fa973c2b405cc6b39f1dd6ae54d0d.png",Hbo Family 4K
+http://serverfulltop.com:80/valdirq/valdirq/41583
+#EXTINF:-1 group-title="HBO" tvg-logo="http://u.meulogin.net:80/images/ae9fa973c2b405cc6b39f1dd6ae54d0d.png",HBO Family FHD
+http://serverfulltop.com:80/valdirq/valdirq/770
+#EXTINF:-1 group-title="HBO" tvg-logo="http://ux.minhatela.vip:80/images/ae9fa973c2b405cc6b39f1dd6ae54d0d.png",HBO Family HD
+http://serverfulltop.com:80/valdirq/valdirq/526
+#EXTINF:-1 group-title="HBO" tvg-logo="http://u.meulogin.net:80/images/ae9fa973c2b405cc6b39f1dd6ae54d0d.png",HBO Family SD
+http://serverfulltop.com:80/valdirq/valdirq/527
+#EXTINF:-1 group-title="HBO" tvg-logo="http://u.meulogin.net:80/images/dea84d90553b5cad1f4853160764971d.png",HBO FHD
+http://serverfulltop.com:80/valdirq/valdirq/771
+#EXTINF:-1 group-title="LEGENDADOS",HBO FHD LEGENDADO
+http://serverfulltop.com:80/valdirq/valdirq/72991
+#EXTINF:-1 group-title="HBO" tvg-logo="http://u.meulogin.net:80/images/dea84d90553b5cad1f4853160764971d.png",HBO HD
+http://serverfulltop.com:80/valdirq/valdirq/528
+#EXTINF:-1 group-title="HBO MAX" tvg-logo="https://download.logo.wine/logo/HBO_Max/HBO_Max-Logo.wine.png",HBO MAX 1
+http://serverfulltop.com:80/valdirq/valdirq/49353
+#EXTINF:-1 group-title="HBO MAX" tvg-logo="https://download.logo.wine/logo/HBO_Max/HBO_Max-Logo.wine.png",HBO MAX 2
+http://serverfulltop.com:80/valdirq/valdirq/49354
+#EXTINF:-1 group-title="HBO MAX" tvg-logo="https://download.logo.wine/logo/HBO_Max/HBO_Max-Logo.wine.png",HBO MAX 3
+http://serverfulltop.com:80/valdirq/valdirq/68167
+#EXTINF:-1 group-title="HBO MAX" tvg-logo="https://download.logo.wine/logo/HBO_Max/HBO_Max-Logo.wine.png",HBO MAX 4
+http://serverfulltop.com:80/valdirq/valdirq/68168
+#EXTINF:-1 group-title="HBO MAX" tvg-logo="https://download.logo.wine/logo/HBO_Max/HBO_Max-Logo.wine.png",HBO MAX 5
+http://serverfulltop.com:80/valdirq/valdirq/68169
+#EXTINF:-1 group-title="HBO MAX" tvg-logo="https://download.logo.wine/logo/HBO_Max/HBO_Max-Logo.wine.png",HBO MAX 6
+http://serverfulltop.com:80/valdirq/valdirq/68170
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/2a299240b93fe53b5a52ef09e3ec3314.png",HBO Mundi 4K
+http://serverfulltop.com:80/valdirq/valdirq/41584
+#EXTINF:-1 group-title="HBO" tvg-logo="http://u.meulogin.net:80/images/2a299240b93fe53b5a52ef09e3ec3314.png",HBO Mundi FHD
+http://serverfulltop.com:80/valdirq/valdirq/772
+#EXTINF:-1 group-title="HBO" tvg-logo="http://u.meulogin.net:80/images/2a299240b93fe53b5a52ef09e3ec3314.png",HBO Mundi HD
+http://serverfulltop.com:80/valdirq/valdirq/529
+#EXTINF:-1 group-title="LEGENDADOS",HBO MUNDI HD LEG
+http://serverfulltop.com:80/valdirq/valdirq/73001
+#EXTINF:-1 group-title="HBO" tvg-logo="http://u.meulogin.net:80/images/2a299240b93fe53b5a52ef09e3ec3314.png",HBO Mundi SD
+http://serverfulltop.com:80/valdirq/valdirq/530
+#EXTINF:-1 group-title="LEGENDADOS",HBO MUNDI SD LEG
+http://serverfulltop.com:80/valdirq/valdirq/73002
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/405d4eee663b178369a5309ad93799f6.png",HBO Plus 4K
+http://serverfulltop.com:80/valdirq/valdirq/41585
+#EXTINF:-1 group-title="HBO" tvg-logo="http://u.meulogin.net:80/images/405d4eee663b178369a5309ad93799f6.png",HBO Plus FHD
+http://serverfulltop.com:80/valdirq/valdirq/64322
+#EXTINF:-1 group-title="HBO" tvg-logo="http://u.meulogin.net:80/images/405d4eee663b178369a5309ad93799f6.png",HBO Plus*e HD
+http://serverfulltop.com:80/valdirq/valdirq/531
+#EXTINF:-1 group-title="HBO" tvg-logo="http://u.meulogin.net:80/images/405d4eee663b178369a5309ad93799f6.png",HBO Plus*e SD
+http://serverfulltop.com:80/valdirq/valdirq/532
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/a4e5a8dd39307ad7c7d1373293f69bd6.png",HBO Pop 4K
+http://serverfulltop.com:80/valdirq/valdirq/41586
+#EXTINF:-1 group-title="HBO" tvg-logo="http://u.meulogin.net:80/images/a4e5a8dd39307ad7c7d1373293f69bd6.png",HBO Pop FHD
+http://serverfulltop.com:80/valdirq/valdirq/773
+#EXTINF:-1 group-title="HBO" tvg-logo="http://ux.minhatela.vip:80/images/a4e5a8dd39307ad7c7d1373293f69bd6.png",HBO Pop HD
+http://serverfulltop.com:80/valdirq/valdirq/533
+#EXTINF:-1 group-title="LEGENDADOS",HBO POP HD LEGENDADO
+http://serverfulltop.com:80/valdirq/valdirq/73005
+#EXTINF:-1 group-title="HBO" tvg-logo="http://u.meulogin.net:80/images/a4e5a8dd39307ad7c7d1373293f69bd6.png",HBO Pop SD
+http://serverfulltop.com:80/valdirq/valdirq/534
+#EXTINF:-1 group-title="LEGENDADOS",hbo pop sd legendado
+http://serverfulltop.com:80/valdirq/valdirq/73006
+#EXTINF:-1 group-title="HBO" tvg-logo="http://u.meulogin.net:80/images/dea84d90553b5cad1f4853160764971d.png",HBO SD
+http://serverfulltop.com:80/valdirq/valdirq/535
+#EXTINF:-1 group-title="LEGENDADOS",HBO SIGNATURA HD LEGENDADO
+http://serverfulltop.com:80/valdirq/valdirq/72988
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/d3ec501f325429f6f8174ec6a9e11bd3.png",HBO Signature 4K
+http://serverfulltop.com:80/valdirq/valdirq/41587
+#EXTINF:-1 group-title="HBO" tvg-logo="http://u.meulogin.net:80/images/d3ec501f325429f6f8174ec6a9e11bd3.png",HBO Signature FHD
+http://serverfulltop.com:80/valdirq/valdirq/774
+#EXTINF:-1 group-title="HBO" tvg-logo="http://u.meulogin.net:80/images/d3ec501f325429f6f8174ec6a9e11bd3.png",HBO Signature HD
+http://serverfulltop.com:80/valdirq/valdirq/536
+#EXTINF:-1 group-title="HBO" tvg-logo="http://u.meulogin.net:80/images/d3ec501f325429f6f8174ec6a9e11bd3.png",HBO Signature SD
+http://serverfulltop.com:80/valdirq/valdirq/537
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/227c5a7767e2742104de1c193474174b.png",HBO Xtreme 4K
+http://serverfulltop.com:80/valdirq/valdirq/256
+#EXTINF:-1 group-title="HBO" tvg-logo="http://u.meulogin.net:80/images/227c5a7767e2742104de1c193474174b.png",HBO Xtreme FHD
+http://serverfulltop.com:80/valdirq/valdirq/775
+#EXTINF:-1 group-title="HBO" tvg-logo="http://u.meulogin.net:80/images/227c5a7767e2742104de1c193474174b.png",HBO Xtreme HD
+http://serverfulltop.com:80/valdirq/valdirq/538
+#EXTINF:-1 group-title="HBO" tvg-logo="http://u.meulogin.net:80/images/befde0d60872178095d9d53615baceb1.png",HBO+ FHD
+http://serverfulltop.com:80/valdirq/valdirq/776
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://u.meulogin.net:80/images/abf325e23244585e942b2b69cbb7f49c.png",History Channel HD
+http://serverfulltop.com:80/valdirq/valdirq/544
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://u.meulogin.net:80/images/abf325e23244585e942b2b69cbb7f49c.png",History Channel SD
+http://serverfulltop.com:80/valdirq/valdirq/545
+#EXTINF:-1 group-title="RELIGIOSOS",Igreja Mundial do Poder de Deus
+http://serverfulltop.com:80/valdirq/valdirq/44696
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Investigação
+http://serverfulltop.com:80/valdirq/valdirq/104841
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://masterfull.ga:80/images/b27c106d5bf2a83df462388613ed0570.png",Jovem Pan News HD
+http://serverfulltop.com:80/valdirq/valdirq/61982
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Junior
+http://serverfulltop.com:80/valdirq/valdirq/104833
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Kids
+http://serverfulltop.com:80/valdirq/valdirq/104835
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/bb15b019deff630426efed4c9d025862.png",Lifetime 4K
+http://serverfulltop.com:80/valdirq/valdirq/19319
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/bb15b019deff630426efed4c9d025862.png",Lifetime FHD
+http://serverfulltop.com:80/valdirq/valdirq/779
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/bb15b019deff630426efed4c9d025862.png",Lifetime HD
+http://serverfulltop.com:80/valdirq/valdirq/547
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/bb15b019deff630426efed4c9d025862.png",Lifetime SD
+http://serverfulltop.com:80/valdirq/valdirq/548
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://u.meulogin.net:80/images/67d2f3a20356ea90c304fed9989f2e2e.png",Loading HD
+http://serverfulltop.com:80/valdirq/valdirq/549
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/bc71df6bdf1b48bce5a04d527df57d2a.png",Mais na Tela FHD
+http://serverfulltop.com:80/valdirq/valdirq/780
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://ux.minhatela.vip:80/images/bc71df6bdf1b48bce5a04d527df57d2a.png",Mais na Tela HD
+http://serverfulltop.com:80/valdirq/valdirq/550
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/bc71df6bdf1b48bce5a04d527df57d2a.png",Mais na Tela SD
+http://serverfulltop.com:80/valdirq/valdirq/551
+#EXTINF:-1 group-title="LEGENDADOS",MEGA PIX FHD LEGENDADOS
+http://serverfulltop.com:80/valdirq/valdirq/73008
+#EXTINF:-1 group-title="LEGENDADOS",MEGA PIX HD LEGENDADO
+http://serverfulltop.com:80/valdirq/valdirq/73009
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/4b4218887844bfdcd600f1ab147d274a.png",Megapix 4K
+http://serverfulltop.com:80/valdirq/valdirq/257
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/4b4218887844bfdcd600f1ab147d274a.png",Megapix FHD
+http://serverfulltop.com:80/valdirq/valdirq/781
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/4b4218887844bfdcd600f1ab147d274a.png",Megapix HD
+http://serverfulltop.com:80/valdirq/valdirq/552
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/4b4218887844bfdcd600f1ab147d274a.png",Megapix SD
+http://serverfulltop.com:80/valdirq/valdirq/553
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/50a6b417bc08ed6f3e27a8ce0f3fdec2.png",MTV FHD
+http://serverfulltop.com:80/valdirq/valdirq/782
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/50a6b417bc08ed6f3e27a8ce0f3fdec2.png",MTV HD
+http://serverfulltop.com:80/valdirq/valdirq/554
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",MTV Pluto TV
+http://serverfulltop.com:80/valdirq/valdirq/104830
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/50a6b417bc08ed6f3e27a8ce0f3fdec2.png",MTV SD
+http://serverfulltop.com:80/valdirq/valdirq/556
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/6bdf24be4543b1a7a30b39006ed9e66e.png",Multishow 4K
+http://serverfulltop.com:80/valdirq/valdirq/258
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/6bdf24be4543b1a7a30b39006ed9e66e.png",Multishow FHD
+http://serverfulltop.com:80/valdirq/valdirq/784
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/6bdf24be4543b1a7a30b39006ed9e66e.png",Multishow HD
+http://serverfulltop.com:80/valdirq/valdirq/557
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/6bdf24be4543b1a7a30b39006ed9e66e.png",Multishow SD
+http://serverfulltop.com:80/valdirq/valdirq/558
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/904a45c1c3dd8d90570cffe5bd4ecade.png",Music Box Brazil FHD
+http://serverfulltop.com:80/valdirq/valdirq/64328
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/904a45c1c3dd8d90570cffe5bd4ecade.png",Music Box Brazil HD
+http://serverfulltop.com:80/valdirq/valdirq/559
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/904a45c1c3dd8d90570cffe5bd4ecade.png",Music Box Brazil SD
+http://serverfulltop.com:80/valdirq/valdirq/64327
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/f6e577e5efa19bd847bc4087337b9d61.png",National Geographic 4K
+http://serverfulltop.com:80/valdirq/valdirq/259
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://u.meulogin.net:80/images/d1dc15b978656f52134ba0a9540af0cb.png",National Geographic FHD
+http://serverfulltop.com:80/valdirq/valdirq/787
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://u.meulogin.net:80/images/d1dc15b978656f52134ba0a9540af0cb.png",National Geographic HD
+http://serverfulltop.com:80/valdirq/valdirq/566
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://u.meulogin.net:80/images/d1dc15b978656f52134ba0a9540af0cb.png",National Geographic SD
+http://serverfulltop.com:80/valdirq/valdirq/567
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Natureza
+http://serverfulltop.com:80/valdirq/valdirq/104832
+#EXTINF:-1 group-title="ESPORTES",NBA TV
+http://serverfulltop.com:80/valdirq/valdirq/73392
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Nick Clássico
+http://serverfulltop.com:80/valdirq/valdirq/104836
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://u.meulogin.net:80/images/5d98bc2fcb21bae6299efc6491539f9b.png",Nick Jr FHD
+http://serverfulltop.com:80/valdirq/valdirq/788
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="http://u.meulogin.net:80/images/5f9d7b16010d60033fc71b3e2c2633bd.png",Novo Tempo HD
+http://serverfulltop.com:80/valdirq/valdirq/573
+#EXTINF:-1 group-title="CAMPEONATOS" tvg-logo="https://imgur.com/a/OpOqL47",O Tempo Sports FHD
+http://serverfulltop.com:80/valdirq/valdirq/73344
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/5d5bc34de4ad4d134f910c50c2cce0d2.jpg",OFF 4K
+http://serverfulltop.com:80/valdirq/valdirq/41590
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://u.meulogin.net:80/images/5d5bc34de4ad4d134f910c50c2cce0d2.jpg",Off FHD
+http://serverfulltop.com:80/valdirq/valdirq/790
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://ux.minhatela.vip:80/images/871de9f7a31d3eb9e5d565b72b05bc0c.png",Off HD
+http://serverfulltop.com:80/valdirq/valdirq/574
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://u.meulogin.net:80/images/5d5bc34de4ad4d134f910c50c2cce0d2.jpg",Off SD
+http://serverfulltop.com:80/valdirq/valdirq/575
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/789952c7762fcf647e136dd05e064a1d.png",Paramount 4K
+http://serverfulltop.com:80/valdirq/valdirq/19326
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/789952c7762fcf647e136dd05e064a1d.png",Paramount Channel FHD
+http://serverfulltop.com:80/valdirq/valdirq/791
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/789952c7762fcf647e136dd05e064a1d.png",Paramount Channel HD
+http://serverfulltop.com:80/valdirq/valdirq/576
+#EXTINF:-1 group-title="CAMPEONATOS",Paulistao Play 2022
+http://serverfulltop.com:80/valdirq/valdirq/73391
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",People Are Awesome
+http://serverfulltop.com:80/valdirq/valdirq/104847
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="http://ux.minhatela.vip:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png",PLAYBOY TV FHD
+http://serverfulltop.com:80/valdirq/valdirq/832
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png",PLAYBOY TV HD
+http://serverfulltop.com:80/valdirq/valdirq/833
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="https://i.ibb.co/HnFtd78/B-Play-TV-FHD.png",PlayTV FHD
+http://serverfulltop.com:80/valdirq/valdirq/64333
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://i.ibb.co/yWpp4JS/B-Polishop-SD.png",Polishop TV
+http://serverfulltop.com:80/valdirq/valdirq/64335
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Porta dos Fundos
+http://serverfulltop.com:80/valdirq/valdirq/104844
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png",Premiere 2 4K
+http://serverfulltop.com:80/valdirq/valdirq/41591
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png",Premiere 2 FHD
+http://serverfulltop.com:80/valdirq/valdirq/792
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="http://ux.minhatela.vip:80/images/51b2a1da0ed665b405d7ba83324ffb02.png",Premiere 2 HD
+http://serverfulltop.com:80/valdirq/valdirq/580
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png",Premiere 2 SD
+http://serverfulltop.com:80/valdirq/valdirq/581
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png",Premiere 3 4K
+http://serverfulltop.com:80/valdirq/valdirq/41592
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png",Premiere 3 FHD
+http://serverfulltop.com:80/valdirq/valdirq/793
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png",Premiere 3 HD
+http://serverfulltop.com:80/valdirq/valdirq/582
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png",Premiere 3 SD
+http://serverfulltop.com:80/valdirq/valdirq/583
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png",Premiere 4 4K
+http://serverfulltop.com:80/valdirq/valdirq/41593
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png",Premiere 4 FHD
+http://serverfulltop.com:80/valdirq/valdirq/794
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png",Premiere 4 HD
+http://serverfulltop.com:80/valdirq/valdirq/584
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png",Premiere 4 SD
+http://serverfulltop.com:80/valdirq/valdirq/585
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png",Premiere 5 4K
+http://serverfulltop.com:80/valdirq/valdirq/41594
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png",Premiere 5 FHD
+http://serverfulltop.com:80/valdirq/valdirq/795
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png",Premiere 5 HD
+http://serverfulltop.com:80/valdirq/valdirq/586
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png",Premiere 5 SD
+http://serverfulltop.com:80/valdirq/valdirq/587
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png",Premiere 6 4K
+http://serverfulltop.com:80/valdirq/valdirq/41595
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png",Premiere 6 FHD
+http://serverfulltop.com:80/valdirq/valdirq/796
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png",Premiere 6 HD
+http://serverfulltop.com:80/valdirq/valdirq/588
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png",Premiere 6 SD
+http://serverfulltop.com:80/valdirq/valdirq/589
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png",Premiere 7 4K
+http://serverfulltop.com:80/valdirq/valdirq/41596
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png",Premiere 7 FHD
+http://serverfulltop.com:80/valdirq/valdirq/19337
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png",Premiere 7 HD
+http://serverfulltop.com:80/valdirq/valdirq/590
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png",Premiere 7 SD
+http://serverfulltop.com:80/valdirq/valdirq/591
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png",Premiere 8 HD
+http://serverfulltop.com:80/valdirq/valdirq/19339
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/913a63c66a91caeedb55262ebcc87bc6.png",Premiere Clubes 4K
+http://serverfulltop.com:80/valdirq/valdirq/260
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="http://ux.minhatela.vip:80/images/51b2a1da0ed665b405d7ba83324ffb02.png",Premiere Clubes FHD
+http://serverfulltop.com:80/valdirq/valdirq/797
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="http://ux.minhatela.vip:80/images/51b2a1da0ed665b405d7ba83324ffb02.png",Premiere Clubes HD
+http://serverfulltop.com:80/valdirq/valdirq/593
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png",Premiere Clubes SD
+http://serverfulltop.com:80/valdirq/valdirq/594
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="https://i.ibb.co/yQy43Mv/B-Primebox-Brazil-FHD.png",Prime Box Brazil FHD
+http://serverfulltop.com:80/valdirq/valdirq/64336
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="https://i.ibb.co/QDJ44sj/B-Primebox-Brazil-HD.png",Prime Box Brazil HD
+http://serverfulltop.com:80/valdirq/valdirq/596
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",RBS 4K
+http://serverfulltop.com:80/valdirq/valdirq/73038
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",RBS Passo Fundo FHD
+http://serverfulltop.com:80/valdirq/valdirq/73066
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",RBS Passo Fundo HD
+http://serverfulltop.com:80/valdirq/valdirq/73065
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/f7835b8384c7926920fa6e2200d6486c.png",Record 4k
+http://serverfulltop.com:80/valdirq/valdirq/60867
+#EXTINF:-1 group-title="RECORD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png",Record Bahia HD
+http://serverfulltop.com:80/valdirq/valdirq/598
+#EXTINF:-1 group-title="RECORD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png",Record Bahia SD
+http://serverfulltop.com:80/valdirq/valdirq/64342
+#EXTINF:-1 group-title="RECORD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png",Record Brasilia HD
+http://serverfulltop.com:80/valdirq/valdirq/599
+#EXTINF:-1 group-title="RECORD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png",Record Campinas HD
+http://serverfulltop.com:80/valdirq/valdirq/72981
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png",Record ES
+http://serverfulltop.com:80/valdirq/valdirq/72982
+#EXTINF:-1 group-title="RECORD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png",Record MG HD
+http://serverfulltop.com:80/valdirq/valdirq/602
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://u.meulogin.net:80/images/9ee967f2452b07e39c9063bc28d77cf5.png",Record News FHD
+http://serverfulltop.com:80/valdirq/valdirq/798
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://u.meulogin.net:80/images/9ee967f2452b07e39c9063bc28d77cf5.png",Record News HD
+http://serverfulltop.com:80/valdirq/valdirq/603
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://u.meulogin.net:80/images/9ee967f2452b07e39c9063bc28d77cf5.png",Record News SD
+http://serverfulltop.com:80/valdirq/valdirq/604
+#EXTINF:-1 group-title="RECORD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png",Record PA HD
+http://serverfulltop.com:80/valdirq/valdirq/64348
+#EXTINF:-1 group-title="RECORD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png",Record RJ HD
+http://serverfulltop.com:80/valdirq/valdirq/606
+#EXTINF:-1 group-title="RECORD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png",Record RJ HD
+http://serverfulltop.com:80/valdirq/valdirq/64349
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png",Record SP 4K
+http://serverfulltop.com:80/valdirq/valdirq/261
+#EXTINF:-1 group-title="RECORD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png",Record SP FHD
+http://serverfulltop.com:80/valdirq/valdirq/799
+#EXTINF:-1 group-title="RECORD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png",Record SP HD
+http://serverfulltop.com:80/valdirq/valdirq/609
+#EXTINF:-1 group-title="RECORD" tvg-logo="http://u.meulogin.net:80/images/f7835b8384c7926920fa6e2200d6486c.png",Record SP SD
+http://serverfulltop.com:80/valdirq/valdirq/612
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://i.ibb.co/ZBjNhBt/B-Rede-Brasil-FHD.png",Rede Brasil de Comunicação FHD
+http://serverfulltop.com:80/valdirq/valdirq/64352
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://i.ibb.co/Zf1CDV1/B-Rede-Brasil-HD.png",Rede Brasil de Comunicação HD
+http://serverfulltop.com:80/valdirq/valdirq/614
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://static.wixstatic.com/media/d978d9_81182dc4b4f44be49f3f05c8ba6431a5~mv2.png/v1/fit/w_2500,h_1330,al_c/d978d9_81182dc4b4f44be49f3f05c8ba6431a5~mv2.png",Rede Gospel HD
+http://serverfulltop.com:80/valdirq/valdirq/72911
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://static.wixstatic.com/media/d978d9_81182dc4b4f44be49f3f05c8ba6431a5~mv2.png/v1/fit/w_2500,h_1330,al_c/d978d9_81182dc4b4f44be49f3f05c8ba6431a5~mv2.png",Rede Gospel SD
+http://serverfulltop.com:80/valdirq/valdirq/70041
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://i.ibb.co/bPft47G/B-Rede-Vida-HD.png",Rede Vida HD
+http://serverfulltop.com:80/valdirq/valdirq/618
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/25ef91f1474a124b5a3cf166d09b731a.png",RedeTV! 4K
+http://serverfulltop.com:80/valdirq/valdirq/262
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://u.meulogin.net:80/images/25ef91f1474a124b5a3cf166d09b731a.png",RedeTV! FHD
+http://serverfulltop.com:80/valdirq/valdirq/800
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://u.meulogin.net:80/images/25ef91f1474a124b5a3cf166d09b731a.png",RedeTV! HD
+http://serverfulltop.com:80/valdirq/valdirq/619
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://u.meulogin.net:80/images/25ef91f1474a124b5a3cf166d09b731a.png",RedeTV! SD
+http://serverfulltop.com:80/valdirq/valdirq/620
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Retrô
+http://serverfulltop.com:80/valdirq/valdirq/104829
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",RPC Foz do Iguaçu FHD
+http://serverfulltop.com:80/valdirq/valdirq/73060
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",RPC Foz do Iguaçu HD
+http://serverfulltop.com:80/valdirq/valdirq/73036
+#EXTINF:-1 group-title="GLOBO" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png",RPC Paranavai HD
+http://serverfulltop.com:80/valdirq/valdirq/73037
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/37feb17a9ad4099e2c0809d4d35df16b.png",SBT ES 4K
+http://serverfulltop.com:80/valdirq/valdirq/263
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://ux.minhatela.vip:80/images/37feb17a9ad4099e2c0809d4d35df16b.png",SBT MG HD
+http://serverfulltop.com:80/valdirq/valdirq/623
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://ux.minhatela.vip:80/images/37feb17a9ad4099e2c0809d4d35df16b.png",SBT MG SD
+http://serverfulltop.com:80/valdirq/valdirq/54613
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://ux.minhatela.vip:80/images/37feb17a9ad4099e2c0809d4d35df16b.png",SBT RJ HD
+http://serverfulltop.com:80/valdirq/valdirq/625
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://ux.minhatela.vip:80/images/37feb17a9ad4099e2c0809d4d35df16b.png",SBT SP FHD
+http://serverfulltop.com:80/valdirq/valdirq/801
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://ux.minhatela.vip:80/images/37feb17a9ad4099e2c0809d4d35df16b.png",SBT SP HD
+http://serverfulltop.com:80/valdirq/valdirq/627
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://u.meulogin.net:80/images/37feb17a9ad4099e2c0809d4d35df16b.png",SBT SP SD
+http://serverfulltop.com:80/valdirq/valdirq/628
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png",Sex Hot HD
+http://serverfulltop.com:80/valdirq/valdirq/73281
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png",Sex Treme HD
+http://serverfulltop.com:80/valdirq/valdirq/835
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png",Sexy Hot HD
+http://serverfulltop.com:80/valdirq/valdirq/836
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png",Sexy Hot SD
+http://serverfulltop.com:80/valdirq/valdirq/64356
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://ux.minhatela.vip:80/images/d9add58676b4a10aafdad99b4eecc03d.png",Shoptime HD
+http://serverfulltop.com:80/valdirq/valdirq/629
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://u.meulogin.net:80/images/9455c2c65bafa41c219c166b57ad641e.png",Smithsonian Channel FHD
+http://serverfulltop.com:80/valdirq/valdirq/70060
+#EXTINF:-1 group-title="DOCUMENTARIOS" tvg-logo="http://u.meulogin.net:80/images/9455c2c65bafa41c219c166b57ad641e.png",Smithsonian Channel HD
+http://serverfulltop.com:80/valdirq/valdirq/630
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/5c92360e3e80e98a3c44965159c56dde.png",Sony 4K
+http://serverfulltop.com:80/valdirq/valdirq/19327
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/5c92360e3e80e98a3c44965159c56dde.png",Sony FHD
+http://serverfulltop.com:80/valdirq/valdirq/802
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/5c92360e3e80e98a3c44965159c56dde.png",Sony SD
+http://serverfulltop.com:80/valdirq/valdirq/632
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/267179ed310eb39b8b734131262b2cee.png",Space 4K
+http://serverfulltop.com:80/valdirq/valdirq/264
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/30dc3e62f46c6470d0e9e12c457dafb5.png",Space FHD
+http://serverfulltop.com:80/valdirq/valdirq/803
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/267179ed310eb39b8b734131262b2cee.png",Space HD
+http://serverfulltop.com:80/valdirq/valdirq/633
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/267179ed310eb39b8b734131262b2cee.png",Space SD
+http://serverfulltop.com:80/valdirq/valdirq/634
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/d8f03d89b4084fa1737f2165fb05b991.jpg",Sportv 2 4K
+http://serverfulltop.com:80/valdirq/valdirq/41597
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://u.meulogin.net:80/images/d8f03d89b4084fa1737f2165fb05b991.jpg",SporTV 2 FHD
+http://serverfulltop.com:80/valdirq/valdirq/804
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://u.meulogin.net:80/images/d8f03d89b4084fa1737f2165fb05b991.jpg",SporTV 2 HD
+http://serverfulltop.com:80/valdirq/valdirq/635
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://u.meulogin.net:80/images/d8f03d89b4084fa1737f2165fb05b991.jpg",SporTV 2 SD
+http://serverfulltop.com:80/valdirq/valdirq/636
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/0bf18e69eaead2d68fe5745cc2d02375.png",Sportv 3 4K
+http://serverfulltop.com:80/valdirq/valdirq/41598
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://u.meulogin.net:80/images/0bf18e69eaead2d68fe5745cc2d02375.png",SporTV 3 FHD
+http://serverfulltop.com:80/valdirq/valdirq/805
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://u.meulogin.net:80/images/0bf18e69eaead2d68fe5745cc2d02375.png",SporTV 3 HD
+http://serverfulltop.com:80/valdirq/valdirq/637
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://u.meulogin.net:80/images/0bf18e69eaead2d68fe5745cc2d02375.png",SporTV 3 SD
+http://serverfulltop.com:80/valdirq/valdirq/638
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/f2e8afb10bd1acf52dc881b99da1489f.png",SporTV 4K
+http://serverfulltop.com:80/valdirq/valdirq/265
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://u.meulogin.net:80/images/0ffebd64fc69a101ad0a45917e5ce1b5.png",SporTV FHD
+http://serverfulltop.com:80/valdirq/valdirq/806
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://ux.minhatela.vip:80/images/0ffebd64fc69a101ad0a45917e5ce1b5.png",SporTV HD
+http://serverfulltop.com:80/valdirq/valdirq/639
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://u.meulogin.net:80/images/0ffebd64fc69a101ad0a45917e5ce1b5.png",SporTV SD
+http://serverfulltop.com:80/valdirq/valdirq/640
+#EXTINF:-1 group-title="STAR+" tvg-logo="https://i.imgur.com/RAkAoj7.png",Star + 1
+http://serverfulltop.com:80/valdirq/valdirq/45564
+#EXTINF:-1 group-title="STAR+" tvg-logo="https://i.imgur.com/RAkAoj7.png",Star + 2
+http://serverfulltop.com:80/valdirq/valdirq/61801
+#EXTINF:-1 group-title="STAR+" tvg-logo="https://i.imgur.com/RAkAoj7.png",Star + 3
+http://serverfulltop.com:80/valdirq/valdirq/61802
+#EXTINF:-1 group-title="STAR+" tvg-logo="https://i.imgur.com/RAkAoj7.png",Star + 4
+http://serverfulltop.com:80/valdirq/valdirq/65216
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/282ef62a8a14c93caad0d80a3e5abe9d.png",Star Channel 4K
+http://serverfulltop.com:80/valdirq/valdirq/266
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/282ef62a8a14c93caad0d80a3e5abe9d.png",Star Channel FHD
+http://serverfulltop.com:80/valdirq/valdirq/807
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/282ef62a8a14c93caad0d80a3e5abe9d.png",Star Channel HD
+http://serverfulltop.com:80/valdirq/valdirq/641
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/282ef62a8a14c93caad0d80a3e5abe9d.png",Star Channel SD
+http://serverfulltop.com:80/valdirq/valdirq/642
+#EXTINF:-1 group-title="LEGENDADOS",STAR HITS  HD LEGENDADO
+http://serverfulltop.com:80/valdirq/valdirq/72999
+#EXTINF:-1 group-title="LEGENDADOS",STAR HITS 2 HD LEGENDADO
+http://serverfulltop.com:80/valdirq/valdirq/73000
+#EXTINF:-1 group-title="LEGENDADOS",STAR HITS FHD LEGENDADO
+http://serverfulltop.com:80/valdirq/valdirq/73004
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/08ea59479b4b0d460a084d2af824242e.png",Star Life 4K
+http://serverfulltop.com:80/valdirq/valdirq/19312
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/08ea59479b4b0d460a084d2af824242e.png",Star Life FHD
+http://serverfulltop.com:80/valdirq/valdirq/810
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://ux.minhatela.vip:80/images/08ea59479b4b0d460a084d2af824242e.png",Star Life HD
+http://serverfulltop.com:80/valdirq/valdirq/647
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/08ea59479b4b0d460a084d2af824242e.png",Star Life SD
+http://serverfulltop.com:80/valdirq/valdirq/648
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/61492ddb9c6fb371d7f786c84ee588d0.png",Studio Universal 4K
+http://serverfulltop.com:80/valdirq/valdirq/41599
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/add33a420e9921e9fbe66169fb009128.png",Studio Universal FHD
+http://serverfulltop.com:80/valdirq/valdirq/811
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/61492ddb9c6fb371d7f786c84ee588d0.png",Studio Universal HD
+http://serverfulltop.com:80/valdirq/valdirq/649
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/61492ddb9c6fb371d7f786c84ee588d0.png",Studio Universal SD
+http://serverfulltop.com:80/valdirq/valdirq/650
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/096317f4288c1a8aa598534944f8a5c6.png",Syfy 4K
+http://serverfulltop.com:80/valdirq/valdirq/41600
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/096317f4288c1a8aa598534944f8a5c6.png",Syfy FHD
+http://serverfulltop.com:80/valdirq/valdirq/812
+#EXTINF:-1 group-title="LEGENDADOS",SYFY FHD LEG
+http://serverfulltop.com:80/valdirq/valdirq/72985
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/096317f4288c1a8aa598534944f8a5c6.png",SyFy HD
+http://serverfulltop.com:80/valdirq/valdirq/651
+#EXTINF:-1 group-title="LEGENDADOS",SYFY HD LEG
+http://serverfulltop.com:80/valdirq/valdirq/72986
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/096317f4288c1a8aa598534944f8a5c6.png",SyFy SD
+http://serverfulltop.com:80/valdirq/valdirq/652
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Séries
+http://serverfulltop.com:80/valdirq/valdirq/104828
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="http://u.meulogin.net:80/images/ef909288e84d11669db9d54d6e9177ec.png",T*N*T Spo*rt*s Seleções Europeias
+http://serverfulltop.com:80/valdirq/valdirq/64274
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="http://u.meulogin.net:80/images/ef909288e84d11669db9d54d6e9177ec.png",T*N*T Sports Cortes
+http://serverfulltop.com:80/valdirq/valdirq/64275
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="http://u.meulogin.net:80/images/ef909288e84d11669db9d54d6e9177ec.png",T*NT Sp*o*rts 4 HD
+http://serverfulltop.com:80/valdirq/valdirq/64273
+#EXTINF:-1 group-title="TELECINE" tvg-logo="http://ux.minhatela.vip:80/images/255abbb56625b6ea473441c06c7f09e5.png",Telecine Action FHD
+http://serverfulltop.com:80/valdirq/valdirq/814
+#EXTINF:-1 group-title="LEGENDADOS",TELECINE ACTION FHD LEGENDADO
+http://serverfulltop.com:80/valdirq/valdirq/73007
+#EXTINF:-1 group-title="TELECINE" tvg-logo="http://ux.minhatela.vip:80/images/255abbb56625b6ea473441c06c7f09e5.png",Telecine Action HD
+http://serverfulltop.com:80/valdirq/valdirq/655
+#EXTINF:-1 group-title="LEGENDADOS",TELECINE ACTION HD LEGENDADO
+http://serverfulltop.com:80/valdirq/valdirq/73003
+#EXTINF:-1 group-title="TELECINE" tvg-logo="http://u.meulogin.net:80/images/255abbb56625b6ea473441c06c7f09e5.png",Telecine Action SD
+http://serverfulltop.com:80/valdirq/valdirq/656
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/d354e980a3baaf31f45beecd40fb3763.png",Telecine Cult 4K
+http://serverfulltop.com:80/valdirq/valdirq/41602
+#EXTINF:-1 group-title="TELECINE" tvg-logo="http://u.meulogin.net:80/images/d354e980a3baaf31f45beecd40fb3763.png",Telecine Cult FHD
+http://serverfulltop.com:80/valdirq/valdirq/815
+#EXTINF:-1 group-title="LEGENDADOS",TELECINE CULT FHD LEGENDADO
+http://serverfulltop.com:80/valdirq/valdirq/72996
+#EXTINF:-1 group-title="TELECINE" tvg-logo="http://u.meulogin.net:80/images/d354e980a3baaf31f45beecd40fb3763.png",Telecine Cult HD
+http://serverfulltop.com:80/valdirq/valdirq/657
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/811ec0bc99a49ad55ccc35a73432ac46.png",Telecine Fun 4K
+http://serverfulltop.com:80/valdirq/valdirq/41603
+#EXTINF:-1 group-title="TELECINE" tvg-logo="http://u.meulogin.net:80/images/811ec0bc99a49ad55ccc35a73432ac46.png",Telecine Fun FHD
+http://serverfulltop.com:80/valdirq/valdirq/816
+#EXTINF:-1 group-title="TELECINE" tvg-logo="http://u.meulogin.net:80/images/811ec0bc99a49ad55ccc35a73432ac46.png",Telecine Fun HD
+http://serverfulltop.com:80/valdirq/valdirq/659
+#EXTINF:-1 group-title="TELECINE" tvg-logo="http://u.meulogin.net:80/images/811ec0bc99a49ad55ccc35a73432ac46.png",Telecine Fun SD
+http://serverfulltop.com:80/valdirq/valdirq/660
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/b7cfd5590dd3bbd2549cf9aa8e1ae3bb.png",Telecine Pipoca 4K
+http://serverfulltop.com:80/valdirq/valdirq/267
+#EXTINF:-1 group-title="TELECINE" tvg-logo="http://ux.minhatela.vip:80/images/b7cfd5590dd3bbd2549cf9aa8e1ae3bb.png",Telecine Pipoca FHD
+http://serverfulltop.com:80/valdirq/valdirq/817
+#EXTINF:-1 group-title="TELECINE" tvg-logo="http://u.meulogin.net:80/images/b7cfd5590dd3bbd2549cf9aa8e1ae3bb.png",Telecine Pipoca HD
+http://serverfulltop.com:80/valdirq/valdirq/661
+#EXTINF:-1 group-title="TELECINE" tvg-logo="http://u.meulogin.net:80/images/b7cfd5590dd3bbd2549cf9aa8e1ae3bb.png",Telecine Pipoca SD
+http://serverfulltop.com:80/valdirq/valdirq/662
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/b45df2815747ba583672be0e407f5a07.png",Telecine Premium 4K
+http://serverfulltop.com:80/valdirq/valdirq/268
+#EXTINF:-1 group-title="TELECINE" tvg-logo="http://u.meulogin.net:80/images/f6f542945adeeaaf53783391000edead.png",Telecine Premium FHD
+http://serverfulltop.com:80/valdirq/valdirq/818
+#EXTINF:-1 group-title="LEGENDADOS",TELECINE PREMIUM FHD LEGENDADO
+http://serverfulltop.com:80/valdirq/valdirq/72994
+#EXTINF:-1 group-title="TELECINE" tvg-logo="http://u.meulogin.net:80/images/f6f542945adeeaaf53783391000edead.png",Telecine Premium HD
+http://serverfulltop.com:80/valdirq/valdirq/663
+#EXTINF:-1 group-title="LEGENDADOS",TELECINE PREMIUM HDD LEGENDADO
+http://serverfulltop.com:80/valdirq/valdirq/72993
+#EXTINF:-1 group-title="TELECINE" tvg-logo="http://u.meulogin.net:80/images/f6f542945adeeaaf53783391000edead.png",Telecine Premium SD
+http://serverfulltop.com:80/valdirq/valdirq/664
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/a31ea6d5ad8df268a3e59001804d98aa.png",Telecine Touch 4K
+http://serverfulltop.com:80/valdirq/valdirq/19950
+#EXTINF:-1 group-title="TELECINE" tvg-logo="http://u.meulogin.net:80/images/a31ea6d5ad8df268a3e59001804d98aa.png",Telecine Touch FHD
+http://serverfulltop.com:80/valdirq/valdirq/819
+#EXTINF:-1 group-title="TELECINE" tvg-logo="http://u.meulogin.net:80/images/a31ea6d5ad8df268a3e59001804d98aa.png",Telecine Touch HD
+http://serverfulltop.com:80/valdirq/valdirq/665
+#EXTINF:-1 group-title="TELECINE" tvg-logo="http://u.meulogin.net:80/images/a31ea6d5ad8df268a3e59001804d98aa.png",Telecine Touch SD
+http://serverfulltop.com:80/valdirq/valdirq/666
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://i.ibb.co/hgQ78dN/B-Terra-Viva-SD.png",Terra Viva
+http://serverfulltop.com:80/valdirq/valdirq/64372
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/edeb2bea22b86124259fef522de69a74.png",TLC 4K
+http://serverfulltop.com:80/valdirq/valdirq/19329
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/5556d55688189f847c0ed29f98e7de26.png",TNT 4K
+http://serverfulltop.com:80/valdirq/valdirq/269
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/5556d55688189f847c0ed29f98e7de26.png",TNT FHD
+http://serverfulltop.com:80/valdirq/valdirq/820
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/5556d55688189f847c0ed29f98e7de26.png",TNT HD
+http://serverfulltop.com:80/valdirq/valdirq/667
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/5556d55688189f847c0ed29f98e7de26.png",TNT SD
+http://serverfulltop.com:80/valdirq/valdirq/668
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/a347f34dbd0370084fcc2fe0b8132c56.png",TNT Series 4K
+http://serverfulltop.com:80/valdirq/valdirq/270
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/a347f34dbd0370084fcc2fe0b8132c56.png",TNT Series FHD
+http://serverfulltop.com:80/valdirq/valdirq/821
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/a347f34dbd0370084fcc2fe0b8132c56.png",TNT Series HD
+http://serverfulltop.com:80/valdirq/valdirq/669
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/a347f34dbd0370084fcc2fe0b8132c56.png",TNT Series SD
+http://serverfulltop.com:80/valdirq/valdirq/670
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="http://u.meulogin.net:80/images/65211d200018fea1505f15a9eac521f7.png",TNT Sports HD
+http://serverfulltop.com:80/valdirq/valdirq/671
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://u.meulogin.net:80/images/758eb084cc0ebe959efb38e35aec43e8.png",Tooncast HD
+http://serverfulltop.com:80/valdirq/valdirq/672
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TravelBoxBrazillogoatualizado.png",Travel Box Brasil HD
+http://serverfulltop.com:80/valdirq/valdirq/72964
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/f97e9ad5a0e99e1ed61ce5643db27e01.png",TruTV HD
+http://serverfulltop.com:80/valdirq/valdirq/674
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/f97e9ad5a0e99e1ed61ce5643db27e01.png",Trutv SD
+http://serverfulltop.com:80/valdirq/valdirq/64373
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://i.ibb.co/tLfz8fb/B-TV-Aparecida-HD.png",TV Aparecida FHD
+http://serverfulltop.com:80/valdirq/valdirq/72965
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://i.ibb.co/tLfz8fb/B-TV-Aparecida-HD.png",TV Aparecida HD
+http://serverfulltop.com:80/valdirq/valdirq/676
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://i.ibb.co/7jG0GZn/B-TV-Aparecida-SD.png",TV Aparecida SD
+http://serverfulltop.com:80/valdirq/valdirq/64361
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://i.ibb.co/7YwBN32/B-TV-Brasil-HD.png",TV Brasil HD
+http://serverfulltop.com:80/valdirq/valdirq/677
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://i.ibb.co/48NnMwC/B-TVCamara-HD.png",TV Camara
+http://serverfulltop.com:80/valdirq/valdirq/64365
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://u.meulogin.net:80/images/73760808cbdea58038b546ec7872b26a.png",TV Escola HD
+http://serverfulltop.com:80/valdirq/valdirq/679
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png",TV Pai Eterno HD
+http://serverfulltop.com:80/valdirq/valdirq/14600
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://u.meulogin.net:80/images/2f2442cf355274e041d6705d9a89dc11.png",TV Ra Tim Bum HD
+http://serverfulltop.com:80/valdirq/valdirq/683
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://u.meulogin.net:80/images/2f2442cf355274e041d6705d9a89dc11.png",TV Ra Tim Bum SD
+http://serverfulltop.com:80/valdirq/valdirq/19627
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://i.ibb.co/s3cLbxW/B-TVSenado-HD.png",TV Senado
+http://serverfulltop.com:80/valdirq/valdirq/64371
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/f6e82a9344e449320812cf93cf5eaf17.png",Universal Channel 4K
+http://serverfulltop.com:80/valdirq/valdirq/41604
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/8e77b75b27acf222c411c50da8fb9162.png",Universal Channel FHD
+http://serverfulltop.com:80/valdirq/valdirq/823
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/f6e82a9344e449320812cf93cf5eaf17.png",Universal Channel HD
+http://serverfulltop.com:80/valdirq/valdirq/685
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/f6e82a9344e449320812cf93cf5eaf17.png",Universal Channel SD
+http://serverfulltop.com:80/valdirq/valdirq/686
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png",VENUS HD
+http://serverfulltop.com:80/valdirq/valdirq/837
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png",Venus SD
+http://serverfulltop.com:80/valdirq/valdirq/838
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Vida Real
+http://serverfulltop.com:80/valdirq/valdirq/104842
+#EXTINF:-1 group-title="4K" tvg-logo="http://ux.minhatela.vip:80/images/3b406bfad71fc4cf7fdbcffc22a32d28.png",Viva 4K
+http://serverfulltop.com:80/valdirq/valdirq/52003
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://ux.minhatela.vip:80/images/3b406bfad71fc4cf7fdbcffc22a32d28.png",Viva FHD
+http://serverfulltop.com:80/valdirq/valdirq/824
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/3b406bfad71fc4cf7fdbcffc22a32d28.png",Viva HD
+http://serverfulltop.com:80/valdirq/valdirq/689
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/3b406bfad71fc4cf7fdbcffc22a32d28.png",Viva SD
+http://serverfulltop.com:80/valdirq/valdirq/690
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/c46d8895130447a7ba41bac313a1fc1a.png",Warner Channel 4K
+http://serverfulltop.com:80/valdirq/valdirq/21422
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/32f9f91b9c8ef876b0ddd60939e659a4.png",Warner Channel FHD
+http://serverfulltop.com:80/valdirq/valdirq/825
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/c46d8895130447a7ba41bac313a1fc1a.png",Warner Channel HD
+http://serverfulltop.com:80/valdirq/valdirq/691
+#EXTINF:-1 group-title="LEGENDADOS",WARNER CHANNEL HD LEG
+http://serverfulltop.com:80/valdirq/valdirq/72987
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://u.meulogin.net:80/images/c46d8895130447a7ba41bac313a1fc1a.png",Warner Channel SD
+http://serverfulltop.com:80/valdirq/valdirq/692
+#EXTINF:-1 group-title="LEGENDADOS",WARNER CHHANEL FHD HEVC LEG
+http://serverfulltop.com:80/valdirq/valdirq/72984
+#EXTINF:-1 group-title="4K" tvg-logo="http://u.meulogin.net:80/images/d5e3a0292ff54d6969a73dae9cfb42fc.jpg",Woohoo 4K
+http://serverfulltop.com:80/valdirq/valdirq/19332
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/d5e3a0292ff54d6969a73dae9cfb42fc.jpg",Woohoo FHD
+http://serverfulltop.com:80/valdirq/valdirq/826
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/d5e3a0292ff54d6969a73dae9cfb42fc.jpg",Woohoo HD
+http://serverfulltop.com:80/valdirq/valdirq/693
+#EXTINF:-1 group-title="VARIEDADES E MUSICAIS" tvg-logo="http://u.meulogin.net:80/images/d5e3a0292ff54d6969a73dae9cfb42fc.jpg",Woohoo SD
+http://serverfulltop.com:80/valdirq/valdirq/694
 
