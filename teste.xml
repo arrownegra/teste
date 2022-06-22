@@ -1,41 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<canais>
-<canal>
+<channels>
+<channel>
 <title>[B][COLOR lime]•[/COLOR] [COLOR yellow]TV ao Vivo[/COLOR][/B] [I]Atualizado 19/06/2022[/I]</title>
 <link>http://ignorame</link>
 <thumbnail>https://i.imgur.com/M0aRl2a.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/bpzigPiY</externallink>
 <fanart>https://i.imgur.com/OhHEvFm.jpg</fanart>
-</canal>
-</canais>
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-<canais>
-<canal>
-<title>[B][COLOR limão]•[/COLOR] [COLOR amarelo]Filmes [/COLOR][/B]</title>
-<link>http://ignorame</link>
-<thumbnail>https://i.imgur.com/eWu6bbS.jpg</thumbnail>
-<externallink></externallink>
-<fanart>https://i.imgur.com/lsQCKaA.jpg</fanart>
-</canal>
-</canais>
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-<canais>
-<canal>
-<title>[B][COLOR lime]•[/COLOR] [COLOR yellow]Série [/COLOR][/B]</title>
-<link>http://ignorame</link>
-<thumbnail>https://i.imgur.com/H3Hs5kQ.jpg</thumbnail>
-<externallink></externallink>
-<fanart>https://i.imgur.com/gm6n0Qy.jpg</fanart>
-</canal>
-</canais>
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-<canais>
-<canal>
-<title>[B][COLOR limão]•[/COLOR] [COLOR amarelo]Desenhos [/COLOR][/B]</title>
-<link>http://ignorame</link>
-<thumbnail>https://beta.animationcareerreview.com/files/styles/large/public/images/articles/animation3.jpg</thumbnail>
-<externallink></externallink>
-<fanart>https://hitsperdidos.com/wp-content/uploads/2015/12/desenhos.jpg</fanart>
-</canal>
-</canais>
+<externallink>https://pastebin.com/raw/bpzigPiY</externallink>
+</channel>
+</channels>
